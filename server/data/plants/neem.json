@@ -1,0 +1,69 @@
+{
+  "slug": "neem",
+  "common_name": "Neem",
+  "botanical_name": "Azadirachta indica",
+  "family": "Meliaceae",
+  "plant_type": "tree",
+  "sanskrit_name": "Nimba, Arishta, Pichumarda",
+  "hindi_name": "नीम",
+  "marathi_name": "कडुनिंब",
+  "other_names": ["Indian Lilac", "Margosa", "Veppam", "Vepa"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha", "Homeopathy"],
+  "description": "A fast-growing evergreen tree up to 15-20 m with a dense rounded crown, pinnate leaves with serrated leaflets, small fragrant white flower clusters and yellowish olive-like fruits (nimboli). All parts are intensely bitter.",
+  "cultural_significance": "Called the 'village pharmacy' of India. Neem leaves are eaten on Gudi Padwa and Ugadi in a bitter-sweet mix symbolising life's flavours, and twigs are traditionally used as datun (chewing sticks). Not a Vedic-era plant by name with certainty; prominent in the Samhitas and Nighantus.",
+  "habitat": "Hardy tropical tree of dry and semi-arid plains; tolerates poor soil and drought; planted along roads, villages and temples across India.",
+  "parts_used": ["Leaf", "Bark", "Seed oil", "Flower", "Fruit", "Twig"],
+  "ailments": ["acne", "skin infection", "itching", "eczema", "dandruff", "fever", "worms", "diabetes", "gum disease", "wounds"],
+  "uses": [
+    {"title": "Skin disorders and itching", "detail": "Leaf paste and decoctions are traditionally applied or taken for kushtha (skin diseases), acne, boils and itching; it is described as Raktashodhaka (blood purifier).", "system": "Ayurveda"},
+    {"title": "Oral and dental care", "detail": "Fresh twigs are chewed as datun in rural India to clean teeth and keep gums healthy.", "system": "Ayurveda"},
+    {"title": "Fever and intestinal worms", "detail": "Bark and leaf preparations are traditionally given as Jvarahara and Krimighna (anti-worm) remedies.", "system": "Ayurveda"},
+    {"title": "Hair and scalp care", "detail": "Leaf rinses and neem oil are traditionally used for dandruff and head lice.", "system": "Unani"},
+    {"title": "Blood-sugar and antimicrobial research", "detail": "Laboratory studies on neem extracts report antibacterial, antifungal and glucose-lowering activity; human evidence is limited.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Tikta (bitter)", "Kashaya (astringent)"],
+    "guna": ["Laghu (light)", "Ruksha (dry)"],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "increases", "pitta": "decreases", "kapha": "decreases"},
+    "karma": ["Kushthaghna", "Krimighna", "Raktashodhaka", "Jvarahara", "Vranashodhana"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Guduchyadi varga)", "Raja Nighantu"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Leaf paste (lepa)", "method": "Grind fresh leaves with a little water and apply to the affected skin area.", "note": "Patch test first; used externally for boils and itching."},
+    {"name": "Kwatha (decoction)", "method": "Boil leaves or bark in water and strain; used as a wash or taken under guidance.", "note": "Very bitter; internal use should be short and supervised."},
+    {"name": "Neem oil", "method": "Oil pressed from the seeds, used diluted on skin and scalp.", "note": "For external use only; never swallow."},
+    {"name": "Datun (chewing twig)", "method": "Chew the end of a fresh twig to form a soft brush and clean the teeth.", "note": "Traditional daily oral hygiene practice."}
+  ],
+  "chemistry": ["Azadirachtin", "Nimbin", "Nimbidin", "Nimbolide", "Gedunin", "Quercetin", "Salannin", "Margolone"],
+  "precautions": "Neem seed oil is toxic if swallowed and is especially dangerous for infants and children. Traditionally avoided in pregnancy and by those trying to conceive, as it is described as anti-fertility in high use. May lower blood sugar, so people on diabetes medicines should consult a doctor. Prolonged internal use of leaf or bark may be drying and aggravate Vata.",
+  "cultivation": {
+    "climate": "Hot tropical to subtropical; drought tolerant, frost-sensitive when young",
+    "soil": "Well-drained sandy or loamy soil; tolerates poor, rocky ground",
+    "sunlight": "Full sun",
+    "water": "Low; water young plants regularly, mature trees need little",
+    "propagation": "Fresh seeds (lose viability quickly) or root suckers and cuttings",
+    "harvest": "Leaves year-round; fruits collected when yellow in summer-monsoon"
+  },
+  "conservation_status": "Not threatened; widely planted.",
+  "fun_fact": "Neem twigs have served as natural toothbrushes in India for centuries, and the tree's name in Sanskrit, Arishta, means 'reliever of sickness'.",
+  "model_spec": {
+    "archetype": "tree",
+    "leaf": {"shape": "pinnate", "color": "#3f7a35", "size": 1.0},
+    "stem": "#6b5440",
+    "flower": {"color": "#f4f1e4", "petals": 5, "size": 0.3, "cluster": "scatter"},
+    "fruit": {"color": "#c9c254", "shape": "berry"},
+    "root": null,
+    "height": 2.6,
+    "key_part": "leaf"
+  },
+  "regions": [
+    {"name": "South Asia (Widely cultivated)", "abundance": "cultivated", "note": "Planted in villages, roadsides and temples across the subcontinent"},
+    {"name": "Deccan Plateau", "abundance": "common", "note": "Thrives in the dry plateau climate"},
+    {"name": "Gangetic Plains", "abundance": "common", "note": "Common shade and avenue tree"},
+    {"name": "Rajasthan (Thar Desert)", "abundance": "common", "note": "Drought-hardy and widely planted"},
+    {"name": "Tamil Nadu Plains", "abundance": "common", "note": "Veppam is planted near village shrines"}
+  ]
+}

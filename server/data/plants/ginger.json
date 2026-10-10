@@ -1,0 +1,192 @@
+{
+  "slug": "ginger",
+  "common_name": "Ginger",
+  "botanical_name": "Zingiber officinale",
+  "family": "Zingiberaceae",
+  "plant_type": "rhizome",
+  "sanskrit_name": "Ardraka (fresh), Shunthi (dried), Shringavera",
+  "hindi_name": "अदरक / सोंठ",
+  "marathi_name": "आले / सुंठ",
+  "other_names": [
+    "Adrak",
+    "Sonth (dried ginger)",
+    "Adu"
+  ],
+  "ayush_systems": [
+    "Ayurveda",
+    "Siddha",
+    "Unani",
+    "Traditional Chinese Medicine"
+  ],
+  "description": "A perennial herb 60-100 cm tall with narrow, lance-shaped leaves in two rows on reed-like shoots, and a thick, fibrous, branching, aromatic rhizome. Cone-like flower spikes are rare in cultivated plants.",
+  "cultural_significance": "Ginger is a kitchen staple and household remedy across India. Shunthi (dried ginger) is called Vishvabheshaja, 'universal medicine', in Ayurvedic tradition.",
+  "habitat": "Warm, humid climate with rich, well-drained, loamy soil; grown as a rhizome crop in hilly tropical regions.",
+  "parts_used": [
+    "Rhizome"
+  ],
+  "ailments": [
+    "nausea",
+    "indigestion",
+    "cough",
+    "cold",
+    "sore throat",
+    "joint pain",
+    "bloating",
+    "vomiting",
+    "flatulence",
+    "headache"
+  ],
+  "uses": [
+    {
+      "title": "Nausea and indigestion",
+      "detail": "Fresh ginger with a little salt before meals is traditionally used to stimulate appetite and digestion (Deepana, Pachana).",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Cough, cold and sore throat",
+      "detail": "Ginger juice with honey or a decoction with tulsi is a common household remedy; described as Kapha-Vata hara.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Joint pain and stiffness",
+      "detail": "Dried ginger (Shunthi) is traditionally used internally and as a paste for painful joints (Amavata and Sandhivata context).",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Motion sickness and morning nausea",
+      "detail": "Clinical studies suggest ginger may ease nausea in some settings; evidence is moderate.",
+      "system": "Modern research"
+    },
+    {
+      "title": "Flatulence and colic",
+      "detail": "Shunthi in warm water or buttermilk is traditionally used for gas and abdominal discomfort.",
+      "system": "Ayurveda"
+    }
+  ],
+  "ayurveda": {
+    "rasa": [
+      "Katu (pungent)"
+    ],
+    "guna": [
+      "Laghu (light)",
+      "Snigdha (unctuous)"
+    ],
+    "virya": "Ushna (hot)",
+    "vipaka": "Madhura",
+    "doshas": {
+      "vata": "decreases",
+      "pitta": "increases",
+      "kapha": "decreases"
+    },
+    "karma": [
+      "Deepana",
+      "Pachana",
+      "Vatahara",
+      "Kaphahara",
+      "Shulahara"
+    ],
+    "classical_refs": [
+      "Bhavaprakasha Nighantu (Haritakyadi varga)",
+      "Raja Nighantu",
+      "Part of Trikatu (Shunthi, Maricha, Pippali)"
+    ],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {
+      "name": "Ardraka swarasa (fresh juice)",
+      "method": "Grate fresh ginger and press out the juice.",
+      "note": "Traditionally taken with honey for cough."
+    },
+    {
+      "name": "Shunthi churna (dried powder)",
+      "method": "Dry the rhizome and powder it finely.",
+      "note": "Used in many classical formulations including Trikatu."
+    },
+    {
+      "name": "Ginger tea",
+      "method": "Simmer sliced ginger in water for several minutes, strain.",
+      "note": "Common household drink; add tulsi or honey."
+    },
+    {
+      "name": "Shunthi kwatha",
+      "method": "Boil dried ginger in water and reduce.",
+      "note": "Traditionally used by practitioners in joint and digestive complaints."
+    }
+  ],
+  "chemistry": [
+    "Gingerols",
+    "6-Gingerol",
+    "Shogaols",
+    "Zingerone",
+    "Zingiberene",
+    "Beta-bisabolene",
+    "Paradols",
+    "Curcumene"
+  ],
+  "precautions": "May increase bleeding tendency; use caution with anticoagulants, before surgery, and with diabetes or blood pressure medicines. Excess can cause heartburn or mouth irritation; avoid large medicinal amounts in pregnancy, gallstones and in Pitta aggravation conditions without advice.",
+  "cultivation": {
+    "climate": "Warm, humid tropical; 20-30 C",
+    "soil": "Rich, loose, well-drained loam, pH 5.5-6.5",
+    "sunlight": "Partial shade to full sun",
+    "water": "Frequent in monsoon; avoid waterlogging",
+    "propagation": "Planted from rhizome pieces with 1-2 buds",
+    "harvest": "Harvest 8-9 months after planting (earlier for fresh, tender ginger)"
+  },
+  "conservation_status": "Not threatened; widely cultivated.",
+  "fun_fact": "Dried ginger and fresh ginger are treated as different drugs in Ayurveda, with different names and properties.",
+  "model_spec": {
+    "archetype": "rhizome",
+    "leaf": {
+      "shape": "lanceolate",
+      "color": "#5a9e3c",
+      "size": 1.2
+    },
+    "stem": "#9fc16a",
+    "flower": {
+      "color": "#e8d870",
+      "petals": 3,
+      "size": 0.4,
+      "cluster": "spike"
+    },
+    "fruit": null,
+    "root": {
+      "color": "#d9b779",
+      "kind": "rhizome"
+    },
+    "height": 1.0,
+    "key_part": "root"
+  },
+  "regions": [
+    {
+      "name": "South Asia (Widely cultivated)",
+      "abundance": "cultivated",
+      "note": "Major spice crop of India"
+    },
+    {
+      "name": "Malabar Coast",
+      "abundance": "cultivated",
+      "note": "Kerala is a leading ginger-growing state"
+    },
+    {
+      "name": "North-East Hills",
+      "abundance": "cultivated",
+      "note": "Important producing region"
+    },
+    {
+      "name": "Western Ghats",
+      "abundance": "cultivated",
+      "note": "Grown on hill slopes"
+    },
+    {
+      "name": "Southern China",
+      "abundance": "cultivated",
+      "note": "Widely cultivated and used in cooking and medicine"
+    },
+    {
+      "name": "West & Central Africa",
+      "abundance": "cultivated",
+      "note": "Nigeria is a major producer"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "shatavari",
+  "common_name": "Shatavari (Wild Asparagus)",
+  "botanical_name": "Asparagus racemosus",
+  "family": "Asparagaceae",
+  "plant_type": "climber",
+  "sanskrit_name": "Shatavari, Shatamuli, Narayani",
+  "hindi_name": "शतावरी",
+  "marathi_name": "शतावरी",
+  "other_names": ["Wild Asparagus", "Indian Asparagus", "Satmuli", "Satavar", "Climbing Asparagus"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "A spiny, climbing, woody shrub with long slender branches that can reach several metres. Instead of true leaves it has fine, needle-like, flattened green shoots (cladodes) in tufts, small fragrant white flowers in slender spikes (racemes), and small round berries that turn dark when ripe. Below ground it bears clusters of long, fleshy, tuberous roots.",
+  "cultural_significance": "The name means 'one who has a hundred roots' or 'one who has a hundred husbands', and it is regarded in Ayurveda as the foremost tonic herb for women, a classical Rasayana. It is not a Vedic-era plant by name; it is prominent in later Ayurvedic texts and Nighantus.",
+  "habitat": "Tropical and subtropical forest edges, scrub and rocky slopes, from the plains to about 1,500 m; also cultivated for its roots.",
+  "parts_used": ["Root", "Whole plant"],
+  "ailments": ["weakness", "low milk supply", "menstrual pain", "menopause symptoms", "acidity", "ulcer", "cough", "dry cough", "urinary burning", "constipation", "stress", "infertility"],
+  "uses": [
+    {"title": "Women's reproductive health tonic", "detail": "Described in Ayurveda as a Rasayana and Vrishya herb traditionally used to support the female reproductive system, menstrual comfort and recovery after childbirth.", "system": "Ayurveda"},
+    {"title": "Lactation support", "detail": "Described as Stanyajanana, traditionally given to nursing mothers to support breast milk production.", "system": "Ayurveda"},
+    {"title": "Acidity, gastric ulcer and dry cough", "detail": "Its cooling, unctuous nature is traditionally used for hyperacidity, burning sensation, dry cough and urinary burning, in keeping with its Pitta-pacifying action.", "system": "Ayurveda"},
+    {"title": "General tonic and vitality", "detail": "Taken with milk or ghee as a nourishing tonic for weakness and convalescence, described as Balya (strength-promoting).", "system": "Unani"},
+    {"title": "Hormonal and gut research", "detail": "Steroidal saponin-rich root extracts have been studied in animal and small human studies for lactation, menopausal symptoms and gastric protection; evidence is preliminary.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Madhura (sweet)", "Tikta (bitter)"],
+    "guna": ["Guru (heavy)", "Snigdha (unctuous)"],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Madhura",
+    "doshas": {"vata": "decreases", "pitta": "decreases", "kapha": "increases"},
+    "karma": ["Rasayana", "Balya", "Stanyajanana", "Shukrala", "Medhya", "Hridya"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Guduchyadi varga)", "Raja Nighantu", "Charaka Samhita - listed among Jivaniya and Stanyajanana herbs"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Shatavari churna (root powder)", "method": "Dry the tuberous roots, peel, and grind to a fine powder; traditionally taken with warm milk, honey or ghee.", "note": "The most common household form; practitioner guidance advised."},
+    {"name": "Shatavari ghrita (medicated ghee)", "method": "Ghee cooked with Shatavari root juice and milk by the classical ghrita method.", "note": "A classical Ayurvedic preparation made by trained manufacturers."},
+    {"name": "Shatavari kalpa or gulam (herbal paste)", "method": "Shatavari root cooked with milk, sugar and ghee to make a nourishing herbal confection.", "note": "A traditional tonic recipe, usually made commercially."},
+    {"name": "Kshira paka (milk decoction)", "method": "Boil the root in milk and water until only the milk remains, then strain and sip warm.", "note": "A traditional method for tonic and lactation use."}
+  ],
+  "chemistry": ["Shatavarin I-IV (steroidal saponins)", "Sarsasapogenin", "Racemosol", "Racemofuran", "Asparagamine A", "Quercetin", "Rutin", "Kaempferol", "Mucilage"],
+  "precautions": "Because of its hormone-like saponins, people with hormone-sensitive conditions such as certain breast, ovarian or uterine cancers or fibroids should consult a doctor first. Avoid medicinal quantities in pregnancy unless advised by a practitioner. It has a mild diuretic effect and may interact with diuretics or lithium. It can aggravate Kapha, so those with excess mucus, heaviness or oedema should be cautious. Rarely causes allergic reactions, including in those allergic to asparagus. The thorny plant should be handled with care.",
+  "cultivation": {
+    "climate": "Warm tropical to subtropical; tolerates dry spells once established",
+    "soil": "Well-drained sandy loam, pH 6-7.5",
+    "sunlight": "Full sun to partial shade",
+    "water": "Moderate; allow topsoil to dry between waterings, avoid waterlogging",
+    "propagation": "Seeds, or division of the tuberous root crown, planted at the start of the monsoon",
+    "harvest": "Roots are dug after about 18-24 months, peeled, boiled briefly and dried"
+  },
+  "conservation_status": "Wild populations have declined because of heavy root collection and habitat loss, and it is considered threatened in parts of India; cultivation is encouraged to relieve pressure.",
+  "fun_fact": "One plant can produce dozens of long, fleshy roots, which is how Shatavari earned its name meaning 'a hundred roots'.",
+  "model_spec": {
+    "archetype": "vine",
+    "leaf": {"shape": "needle", "color": "#5d9a46", "size": 0.7},
+    "stem": "#8a9a5b",
+    "flower": {"color": "#fbf8ee", "petals": 6, "size": 0.2, "cluster": "spike"},
+    "fruit": {"color": "#4a2438", "shape": "berry"},
+    "root": {"color": "#e7d9b0", "kind": "tuber"},
+    "height": 1.4,
+    "key_part": "root"
+  },
+  "regions": [
+    {"name": "Western Ghats", "abundance": "common", "note": "Forest edges and rocky scrub"},
+    {"name": "Deccan Plateau", "abundance": "common", "note": "Dry scrub and forest margins"},
+    {"name": "Central India (Madhya Pradesh)", "abundance": "wild", "note": "Deciduous forest undergrowth"},
+    {"name": "Gangetic Plains", "abundance": "cultivated", "note": "Cultivated for the root drug trade"},
+    {"name": "Western Himalaya (Uttarakhand & Himachal)", "abundance": "wild", "note": "Lower foothill slopes"},
+    {"name": "Nepal Himalaya & Terai", "abundance": "wild", "note": "Forest edges at low to mid elevations"},
+    {"name": "Sri Lanka", "abundance": "wild", "note": "Forest and scrub"},
+    {"name": "Eastern Ghats", "abundance": "wild", "note": "Dry deciduous forest"}
+  ]
+}

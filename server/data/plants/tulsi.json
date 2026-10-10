@@ -1,0 +1,64 @@
+{
+  "slug": "tulsi",
+  "common_name": "Tulsi (Holy Basil)",
+  "botanical_name": "Ocimum tenuiflorum (syn. Ocimum sanctum)",
+  "family": "Lamiaceae",
+  "plant_type": "herb",
+  "sanskrit_name": "Tulasi, Surasa, Vrinda",
+  "hindi_name": "तुलसी",
+  "marathi_name": "तुळस",
+  "other_names": ["Holy Basil", "Sacred Basil", "Rama Tulsi", "Krishna Tulsi"],
+  "ayush_systems": ["Ayurveda", "Siddha", "Unani"],
+  "description": "A fragrant, much-branched aromatic herb 30-90 cm tall with softly hairy stems, oval toothed leaves and purplish-green flower spikes (manjari). Grown in courtyards and homes across India.",
+  "cultural_significance": "Revered in Hindu households as the earthly form of Goddess Lakshmi/Vrinda; worshipped daily at the Tulsi Vrindavan and offered in Vishnu worship. Not a Vedic-era plant by name, its prominence grows in the Puranas and later Nighantus.",
+  "habitat": "Warm, sunny, well-drained soil; cultivated in courtyards, temples and gardens; naturalised in waste ground across the tropics.",
+  "parts_used": ["Leaf", "Seed", "Root", "Whole plant"],
+  "ailments": ["cough", "cold", "fever", "asthma", "bronchitis", "stress", "immunity", "indigestion", "headache", "skin infection"],
+  "uses": [
+    {"title": "Cough, cold and bronchial congestion", "detail": "Leaf juice or decoction with honey and ginger is a classical household remedy to loosen phlegm and ease cough; it is described as Kapha-Vata hara.", "system": "Ayurveda"},
+    {"title": "Fever and seasonal infections", "detail": "Decoction (kwatha) of leaves with black pepper is traditionally given in fevers and malaria-like periodic fevers.", "system": "Ayurveda"},
+    {"title": "Stress and adaptogenic support", "detail": "Modern studies on Ocimum tenuiflorum extracts suggest anti-stress and mild blood-sugar-lowering effects; evidence is preliminary.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Katu (pungent)", "Tikta (bitter)"],
+    "guna": ["Laghu (light)", "Ruksha (dry)"],
+    "virya": "Ushna (hot)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "decreases", "pitta": "increases", "kapha": "decreases"},
+    "karma": ["Kaphahara", "Svedajanana", "Krimighna", "Hridya"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Guduchyadi varga)", "Raja Nighantu", "Charaka Samhita - listed among Svasahara/Hikkanigrahana herbs"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Swarasa (fresh leaf juice)", "method": "Crush fresh leaves and press out the juice; traditionally taken with honey.", "note": "Typical household use is small quantities; follow a practitioner's advice."},
+    {"name": "Kwatha (decoction)", "method": "Boil leaves with water (often with ginger and black pepper) until reduced; strain and sip warm.", "note": "Commonly used for coughs and colds."},
+    {"name": "Tulsi tea", "method": "Steep a few fresh or dried leaves in hot water for 5-7 minutes.", "note": "Gentle daily wellness drink."}
+  ],
+  "chemistry": ["Eugenol", "Ursolic acid", "Rosmarinic acid", "Apigenin", "Luteolin", "Beta-caryophyllene"],
+  "precautions": "May lower blood sugar and slow blood clotting, so people on diabetes or anticoagulant medicines should consult a doctor. Avoid medicinal quantities in pregnancy. Traditionally said to reduce fertility in very high long-term use. Leaves are not chewed in some traditions due to their mercury-like heat, a cultural rather than clinical rule.",
+  "cultivation": {
+    "climate": "Warm tropical to subtropical; frost-tender",
+    "soil": "Well-drained loam, pH 6-7.5",
+    "sunlight": "Full sun, at least 5-6 hours",
+    "water": "Moderate; keep slightly moist, avoid waterlogging",
+    "propagation": "Seeds or stem cuttings; sow in spring or monsoon",
+    "harvest": "Pinch tips regularly; harvest leaves before flowering for best aroma"
+  },
+  "conservation_status": "Not threatened; widely cultivated.",
+  "fun_fact": "Tulsi is commonly planted in a raised Tulsi Vrindavan in Indian courtyards and is among the few plants folk-worshipped daily.",
+  "model_spec": {
+    "archetype": "herb",
+    "leaf": {"shape": "ovate", "color": "#4f8f3a", "size": 1.0},
+    "stem": "#6b4f3a",
+    "flower": {"color": "#8e5fb5", "petals": 5, "size": 0.5, "cluster": "spike"},
+    "fruit": null,
+    "root": null,
+    "height": 1.0,
+    "key_part": "leaf"
+  },
+  "regions": [
+    {"name": "South Asia (Widely cultivated)", "abundance": "cultivated", "note": "Courtyards, temples and gardens across the Indian subcontinent"},
+    {"name": "Gangetic Plains", "abundance": "common", "note": "Naturalised in waste ground and cultivated everywhere"},
+    {"name": "Western Ghats", "abundance": "common", "note": "Grown in home gardens"}
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "haritaki",
+  "common_name": "Haritaki (Chebulic Myrobalan)",
+  "botanical_name": "Terminalia chebula",
+  "family": "Combretaceae",
+  "plant_type": "tree",
+  "sanskrit_name": "Haritaki, Abhaya, Pathya, Vijaya",
+  "hindi_name": "हरड़",
+  "marathi_name": "हिरडा",
+  "other_names": ["Chebulic Myrobalan", "Black Myrobalan", "Harad", "Kadukkai"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "A medium to large deciduous tree 15-25 m tall with broad ovate leaves, small dull-white spikes of flowers with an unpleasant smell, and ribbed, ovoid, yellowish-green to brown fruits with a single hard stone.",
+  "cultural_significance": "Haritaki is called the 'king of medicines' in Ayurveda and Tibetan medicine, and is the first of the three fruits of Triphala. Its name is linked to Lord Shiva (Hara) in legend. Prominent in the Samhitas and Nighantus.",
+  "habitat": "Mixed deciduous forests of the Indian subcontinent, up to about 1500 m in the Himalayan foothills.",
+  "parts_used": ["Fruit", "Seed"],
+  "ailments": ["constipation", "indigestion", "piles", "cough", "bloating", "gas", "worms", "mouth ulcer", "skin disease", "loss of appetite"],
+  "uses": [
+    {"title": "Constipation and bowel regulation", "detail": "Described as Anulomana: the dried fruit is traditionally used as a gentle laxative and bowel regulator.", "system": "Ayurveda"},
+    {"title": "Rasayana (rejuvenation)", "detail": "Considered a Rasayana in Charaka Samhita and used in regular seasonal regimens, and as part of Triphala.", "system": "Ayurveda"},
+    {"title": "Cough, throat and piles", "detail": "Traditionally used in cough and breathing complaints, and in piles (Arsha) with other herbs.", "system": "Ayurveda"},
+    {"title": "Oral hygiene", "detail": "A decoction is used as a gargle for mouth ulcers and sore gums in folk practice.", "system": "Unani"},
+    {"title": "Antioxidant and gut research", "detail": "Studies report antioxidant, antimicrobial and mild laxative activity; clinical evidence is limited.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Kashaya (astringent)", "Madhura (sweet)", "Amla (sour)", "Katu (pungent)", "Tikta (bitter)"],
+    "guna": ["Laghu (light)", "Ruksha (dry)"],
+    "virya": "Ushna (hot)",
+    "vipaka": "Madhura",
+    "doshas": {"vata": "decreases", "pitta": "increases", "kapha": "decreases"},
+    "karma": ["Anulomana", "Rasayana", "Deepana", "Medhya", "Chakshushya"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Haritakyadi varga)", "Charaka Samhita - listed among Vayahsthapana (age-sustaining) herbs", "Raja Nighantu"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Haritaki churna (powder)", "method": "Dry fruit rind is powdered and taken with warm water, often at bedtime.", "note": "Traditional dose and timing are prescribed by a practitioner."},
+    {"name": "Triphala", "method": "Equal parts of Haritaki, Bibhitaki and Amalaki powder.", "note": "Classical combination for digestion and rejuvenation."},
+    {"name": "Kwatha (decoction)", "method": "Boil crushed fruit in water and strain; used as a gargle or taken in small amounts.", "note": "For mouth care and gut complaints."},
+    {"name": "Haritaki with ghee or jaggery", "method": "Fruit paste mixed with ghee or jaggery as a traditional seasonal use.", "note": "Described in Rasayana regimens."}
+  ],
+  "chemistry": ["Chebulinic acid", "Chebulagic acid", "Gallic acid", "Ellagic acid", "Tannins", "Corilagin", "Terchebin", "Anthraquinones"],
+  "precautions": "Avoid in pregnancy because of its purgative action, and avoid in dehydration, severe weakness, or when the person has loose stools. The tannin-rich fruit may reduce absorption of some medicines. May affect blood sugar, so people on diabetes medicines should consult a doctor. Not for long unsupervised use as it may be drying and aggravate Pitta.",
+  "cultivation": {
+    "climate": "Tropical to subtropical monsoon",
+    "soil": "Well-drained loam; tolerates poor soils",
+    "sunlight": "Full sun",
+    "water": "Moderate; drought tolerant once established",
+    "propagation": "Seeds, which germinate slowly",
+    "harvest": "Fruits are collected from October to January"
+  },
+  "conservation_status": "Not globally threatened, though wild populations are under pressure from fruit over-collection.",
+  "fun_fact": "In Tibetan tradition Haritaki is the 'king of medicines' and appears in the hands of the Medicine Buddha.",
+  "model_spec": {
+    "archetype": "tree",
+    "leaf": {"shape": "ovate", "color": "#4f8a3a", "size": 1.2},
+    "stem": "#7b6a55",
+    "flower": {"color": "#efe9d2", "petals": 5, "size": 0.2, "cluster": "spike"},
+    "fruit": {"color": "#c2a23a", "shape": "round"},
+    "root": null,
+    "height": 2.7,
+    "key_part": "fruit"
+  },
+  "regions": [
+    {"name": "Central India (Madhya Pradesh)", "abundance": "wild", "note": "Deciduous forests"},
+    {"name": "Western Himalaya (Uttarakhand & Himachal)", "abundance": "wild", "note": "Foothills up to about 1500 m"},
+    {"name": "Western Ghats", "abundance": "wild", "note": "Moist deciduous forest"},
+    {"name": "Odisha Coast & Forests", "abundance": "wild", "note": "Forest tree"},
+    {"name": "Nepal Himalaya & Terai", "abundance": "wild", "note": "Lower hills and Terai"},
+    {"name": "Myanmar", "abundance": "wild", "note": "Native range extends here"}
+  ]
+}

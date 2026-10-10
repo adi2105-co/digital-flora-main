@@ -1,0 +1,196 @@
+{
+  "slug": "cinnamon",
+  "common_name": "Cinnamon (Ceylon)",
+  "botanical_name": "Cinnamomum verum (syn. Cinnamomum zeylanicum)",
+  "family": "Lauraceae",
+  "plant_type": "tree",
+  "sanskrit_name": "Twak, Tvak, Darusita",
+  "hindi_name": "दालचीनी",
+  "marathi_name": "दालचिनी",
+  "other_names": [
+    "Dalchini",
+    "True Cinnamon",
+    "Ilavangam"
+  ],
+  "ayush_systems": [
+    "Ayurveda",
+    "Siddha",
+    "Unani",
+    "Traditional Chinese Medicine"
+  ],
+  "description": "An evergreen tree 10-15 m tall in the wild (coppiced to a bush in plantations) with leathery, glossy, ovate leaves with three prominent veins. Small greenish-yellow flowers produce dark purple, oval berries. The inner bark is peeled, dried and rolled into quills.",
+  "cultural_significance": "Cinnamon is a prized spice in Indian and global cuisines, and its trade was central to the history of Sri Lanka. Twak is one of the three aromatic spices of the classical 'Trijataka' group (cinnamon, cardamom, tejpatra).",
+  "habitat": "Humid tropical lowlands with sandy, well-drained soil, native to Sri Lanka and the Malabar region of India.",
+  "parts_used": [
+    "Bark",
+    "Leaf",
+    "Oil"
+  ],
+  "ailments": [
+    "cough",
+    "cold",
+    "indigestion",
+    "nausea",
+    "diabetes",
+    "flatulence",
+    "menstrual pain",
+    "bloating",
+    "toothache",
+    "loss of appetite"
+  ],
+  "uses": [
+    {
+      "title": "Digestive complaints",
+      "detail": "Twak is described as Deepana and Pachana; a pinch is traditionally used in gas, nausea and weak digestion.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Cough, cold and congestion",
+      "detail": "Cinnamon decoction with honey is a household remedy; described as Kapha-Vata hara.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Blood sugar support",
+      "detail": "Some studies suggest cinnamon may modestly lower blood sugar; results are inconsistent.",
+      "system": "Modern research"
+    },
+    {
+      "title": "Menstrual discomfort",
+      "detail": "Warm cinnamon decoction is traditionally used for painful or delayed periods; avoid in pregnancy.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Toothache and mouth freshening",
+      "detail": "Cinnamon bark or oil is traditionally used as a mouth freshener and for toothache; the oil is strong.",
+      "system": "Folk practice"
+    }
+  ],
+  "ayurveda": {
+    "rasa": [
+      "Katu (pungent)",
+      "Tikta (bitter)",
+      "Madhura (sweet)"
+    ],
+    "guna": [
+      "Laghu (light)",
+      "Ruksha (dry)",
+      "Tikshna (sharp)"
+    ],
+    "virya": "Ushna (hot)",
+    "vipaka": "Katu",
+    "doshas": {
+      "vata": "decreases",
+      "pitta": "increases",
+      "kapha": "decreases"
+    },
+    "karma": [
+      "Deepana",
+      "Vatahara",
+      "Kaphahara",
+      "Hridya",
+      "Mukhashodhana"
+    ],
+    "classical_refs": [
+      "Bhavaprakasha Nighantu (Karpuradi varga)",
+      "Raja Nighantu"
+    ],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {
+      "name": "Twak churna (bark powder)",
+      "method": "Grind dried bark into a fine powder.",
+      "note": "Used in formulations such as Sitopaladi."
+    },
+    {
+      "name": "Cinnamon kwatha",
+      "method": "Boil a small piece of bark in water, strain.",
+      "note": "Traditionally given for colds and digestion."
+    },
+    {
+      "name": "Cinnamon tea",
+      "method": "Steep a stick in hot water for 10 minutes.",
+      "note": "Gentle daily wellness drink."
+    },
+    {
+      "name": "Twak taila (bark or leaf oil)",
+      "method": "Steam-distilled essential oil.",
+      "note": "Strong; used externally only after dilution."
+    }
+  ],
+  "chemistry": [
+    "Cinnamaldehyde",
+    "Eugenol",
+    "Cinnamyl acetate",
+    "Linalool",
+    "Beta-caryophyllene",
+    "Coumarin (low)",
+    "Cinnamic acid",
+    "Proanthocyanidins"
+  ],
+  "precautions": "Ceylon cinnamon has far less coumarin than cassia, but large amounts of cassia types may harm the liver. May lower blood sugar; consult a doctor if on diabetes medicines. Avoid medicinal amounts in pregnancy. Cinnamon oil can irritate the skin and mucous membranes; allergy is possible.",
+  "cultivation": {
+    "climate": "Warm, humid tropical; 20-32 C",
+    "soil": "Sandy loam, well-drained, pH 5-6.5",
+    "sunlight": "Full sun to light shade",
+    "water": "Regular, evenly distributed rainfall",
+    "propagation": "Seeds or semi-hardwood cuttings",
+    "harvest": "Bark is peeled in the rainy season from 2-3 year old coppiced shoots"
+  },
+  "conservation_status": "Not threatened; widely cultivated.",
+  "fun_fact": "True cinnamon bark rolls into thin, multi-layered quills, while the cheaper cassia forms a single thick curl.",
+  "model_spec": {
+    "archetype": "tree",
+    "leaf": {
+      "shape": "ovate",
+      "color": "#2f6a34",
+      "size": 1.1
+    },
+    "stem": "#6e4b32",
+    "flower": {
+      "color": "#d8e4a8",
+      "petals": 6,
+      "size": 0.2,
+      "cluster": "scatter"
+    },
+    "fruit": {
+      "color": "#4a2a4f",
+      "shape": "berry"
+    },
+    "root": null,
+    "height": 2.4,
+    "key_part": "bark"
+  },
+  "regions": [
+    {
+      "name": "Sri Lanka",
+      "abundance": "common",
+      "note": "Native home and the main source of true cinnamon"
+    },
+    {
+      "name": "Western Ghats",
+      "abundance": "cultivated",
+      "note": "Native to the Malabar region and grown here"
+    },
+    {
+      "name": "Malabar Coast",
+      "abundance": "cultivated",
+      "note": "Plantations and home gardens"
+    },
+    {
+      "name": "Indonesia (Java, Sumatra & Maluku)",
+      "abundance": "cultivated",
+      "note": "Cultivated for the spice trade"
+    },
+    {
+      "name": "Madagascar",
+      "abundance": "cultivated",
+      "note": "Commercial cultivation"
+    },
+    {
+      "name": "Caribbean",
+      "abundance": "cultivated",
+      "note": "Introduced and cultivated"
+    }
+  ]
+}

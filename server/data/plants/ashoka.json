@@ -1,0 +1,67 @@
+{
+  "slug": "ashoka",
+  "common_name": "Ashoka",
+  "botanical_name": "Saraca asoca (syn. Saraca indica)",
+  "family": "Fabaceae",
+  "plant_type": "tree",
+  "sanskrit_name": "Ashoka, Hemapushpa, Vanjula",
+  "hindi_name": "अशोक",
+  "marathi_name": "अशोक",
+  "other_names": ["Sita Ashok", "Asoka Tree", "Ashok"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "A small evergreen tree 6-10 m tall with a dense crown, glossy pinnate leaves with 4-6 pairs of leaflets (young leaves hang limp and reddish), and dense clusters of fragrant orange-yellow flowers that turn red. Fruits are flat dark pods.",
+  "cultural_significance": "Sacred in Hindu, Buddhist and Jain traditions: associated with Sita in the Ashoka Vatika of the Ramayana, and with Buddha's birth in Lumbini. 'Ashoka' means 'without sorrow'. Not a Vedic-era plant by name with certainty; prominent in the epics and later Nighantus.",
+  "habitat": "Moist evergreen forests and shaded streamsides of the Western Ghats and parts of eastern India; widely planted in temple gardens and avenues.",
+  "parts_used": ["Bark", "Flower", "Seed"],
+  "ailments": ["menstrual pain", "heavy periods", "irregular periods", "white discharge", "uterine health", "piles", "stress", "diarrhea", "skin disease", "bleeding"],
+  "uses": [
+    {"title": "Women's reproductive health", "detail": "Bark is the classical herb for Stri-roga: it is described as Garbhashaya-shodhana and used in excessive menstrual bleeding (Asrigdara) and menstrual disorders.", "system": "Ayurveda"},
+    {"title": "Bleeding piles", "detail": "Flowers and bark are traditionally used as a decoction in bleeding piles because of their astringent, Raktastambhaka nature.", "system": "Ayurveda"},
+    {"title": "Skin and blood conditions", "detail": "Bark decoction is traditionally given in skin diseases and as a blood purifier.", "system": "Ayurveda"},
+    {"title": "Uterine tonic research", "detail": "Studies on bark extracts report effects on uterine muscle and anti-inflammatory activity; clinical evidence is limited.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Kashaya (astringent)", "Tikta (bitter)"],
+    "guna": ["Laghu (light)", "Ruksha (dry)"],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "neutral", "pitta": "decreases", "kapha": "decreases"},
+    "karma": ["Vednasthapana", "Garbhashaya shodhana", "Raktastambhana", "Varnya", "Shothahara"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Guduchyadi varga)", "Raja Nighantu"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Ashoka bark kwatha (decoction)", "method": "Boil bark in water and reduce; strain before use.", "note": "Used in menstrual complaints under practitioner guidance."},
+    {"name": "Ashokarishta", "method": "A classical fermented tonic made from bark and other herbs.", "note": "Contains self-generated alcohol; common women's health formulation."},
+    {"name": "Ashoka ghrita", "method": "Medicated ghee prepared with bark decoction.", "note": "Traditional preparation used under supervision."}
+  ],
+  "chemistry": ["Catechin", "Epicatechin", "Leucocyanidin", "Procyanidin B2", "Tannins", "Beta-sitosterol", "Quercetin", "Gallic acid"],
+  "precautions": "Avoid during pregnancy unless advised by a practitioner because of its uterine action. Women with heavy or abnormal bleeding need medical evaluation and should not self-treat. May interact with blood-thinning drugs. Many market samples are adulterated or substituted (for example with Polyalthia longifolia, the 'false Ashoka'), so use authentic material only.",
+  "cultivation": {
+    "climate": "Warm humid tropical",
+    "soil": "Rich, moist, well-drained loam",
+    "sunlight": "Partial shade to full sun",
+    "water": "Regular; likes moist soil",
+    "propagation": "Fresh seeds, which lose viability quickly",
+    "harvest": "Bark is collected from mature trees; flowering is in spring"
+  },
+  "conservation_status": "Vulnerable (IUCN) due to habitat loss and bark over-collection.",
+  "fun_fact": "Ashoka flowers change from orange to red as they age, and the tree is listed among the plants traditionally said to bloom after touch of a maiden's foot ('dohada') in Sanskrit poetry.",
+  "model_spec": {
+    "archetype": "tree",
+    "leaf": {"shape": "pinnate", "color": "#2f7a3a", "size": 1.1},
+    "stem": "#6a4a38",
+    "flower": {"color": "#f08a2c", "petals": 4, "size": 0.5, "cluster": "umbel"},
+    "fruit": {"color": "#4a3328", "shape": "pod"},
+    "root": null,
+    "height": 2.0,
+    "key_part": "bark"
+  },
+  "regions": [
+    {"name": "Western Ghats", "abundance": "wild", "note": "Native in moist evergreen forest streamsides"},
+    {"name": "Konkan Coast", "abundance": "wild", "note": "Native and planted"},
+    {"name": "Malabar Coast", "abundance": "common", "note": "Native in humid forests"},
+    {"name": "Sri Lanka", "abundance": "wild", "note": "Native in moist lowland forests"},
+    {"name": "South Asia (Widely cultivated)", "abundance": "cultivated", "note": "Temple gardens and avenues"}
+  ]
+}

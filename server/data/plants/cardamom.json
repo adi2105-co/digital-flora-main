@@ -1,0 +1,196 @@
+{
+  "slug": "cardamom",
+  "common_name": "Cardamom (Green)",
+  "botanical_name": "Elettaria cardamomum",
+  "family": "Zingiberaceae",
+  "plant_type": "herb",
+  "sanskrit_name": "Ela, Sukshma Ela, Truti",
+  "hindi_name": "छोटी इलायची",
+  "marathi_name": "वेलची",
+  "other_names": [
+    "Elaichi",
+    "Queen of Spices",
+    "Elam"
+  ],
+  "ayush_systems": [
+    "Ayurveda",
+    "Siddha",
+    "Unani"
+  ],
+  "description": "A tall perennial herb 2-4 m with long lanceolate leaves on leafy reed-like shoots rising from a thick rhizome. Flowers are borne on trailing panicles near the ground and develop into green, three-chambered capsules with small, aromatic, dark seeds.",
+  "cultural_significance": "Called the 'Queen of Spices', cardamom flavours sweets, tea, rice and festive dishes in India, and is offered in some ceremonies. Ela is part of the classical aromatic group Trijataka and Chaturjata.",
+  "habitat": "Shady, humid evergreen forests of the Western Ghats between 600 and 1500 m, with rich, moist, humus-rich soil.",
+  "parts_used": [
+    "Fruit (capsule)",
+    "Seed"
+  ],
+  "ailments": [
+    "nausea",
+    "indigestion",
+    "cough",
+    "bad breath",
+    "vomiting",
+    "loss of appetite",
+    "bloating",
+    "sore throat",
+    "urinary discomfort",
+    "flatulence"
+  ],
+  "uses": [
+    {
+      "title": "Digestion, nausea and vomiting",
+      "detail": "Ela is described as Deepana and is used to prevent nausea and heaviness; often added to rich foods and tea.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Cough, throat and respiratory complaints",
+      "detail": "Seeds with honey or in decoctions are traditional for cough and breathlessness; described as Kapha-Vata hara.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Mouth freshening",
+      "detail": "Seeds are chewed after meals for fragrance and to ease the heaviness of food (Mukhashodhana).",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Urinary comfort",
+      "detail": "Classical texts list Ela under Mutrala and use it in painful or scanty urination (Mutrakrichchhra).",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Aroma and antioxidant studies",
+      "detail": "Laboratory studies of cardamom essential oil and extracts show antioxidant and digestive effects; human evidence is limited.",
+      "system": "Modern research"
+    }
+  ],
+  "ayurveda": {
+    "rasa": [
+      "Katu (pungent)",
+      "Madhura (sweet)"
+    ],
+    "guna": [
+      "Laghu (light)",
+      "Ruksha (dry)"
+    ],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Madhura",
+    "doshas": {
+      "vata": "decreases",
+      "pitta": "neutral",
+      "kapha": "decreases"
+    },
+    "karma": [
+      "Deepana",
+      "Pachana",
+      "Kaphahara",
+      "Hridya",
+      "Mutrala"
+    ],
+    "classical_refs": [
+      "Bhavaprakasha Nighantu (Karpuradi varga)",
+      "Raja Nighantu",
+      "Part of Trijataka and Chaturjata"
+    ],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {
+      "name": "Ela churna (seed powder)",
+      "method": "Remove the husk and grind the seeds.",
+      "note": "Used in Eladi churna and numerous formulations."
+    },
+    {
+      "name": "Cardamom tea",
+      "method": "Crush a pod and steep it in hot water or tea.",
+      "note": "Gentle digestive drink."
+    },
+    {
+      "name": "Elaadi vati",
+      "method": "Classical lozenge with cardamom and other herbs.",
+      "note": "Traditionally for cough, throat irritation and nausea."
+    },
+    {
+      "name": "Ela kwatha",
+      "method": "Boil crushed pods in water and strain.",
+      "note": "Traditionally used in digestive and urinary complaints."
+    }
+  ],
+  "chemistry": [
+    "1,8-Cineole",
+    "Alpha-terpinyl acetate",
+    "Linalool",
+    "Linalyl acetate",
+    "Limonene",
+    "Sabinene",
+    "Terpinen-4-ol",
+    "Alpha-terpineol"
+  ],
+  "precautions": "Food amounts are safe for most people; medicinal quantities may worsen gallstone colic as cardamom can stimulate bile flow. Avoid medicinal amounts in pregnancy. May rarely cause allergic dermatitis. Use caution with blood thinners in high amounts.",
+  "cultivation": {
+    "climate": "Humid tropical hills; 10-35 C with 1500-4000 mm rain",
+    "soil": "Rich, moist, humus-rich forest loam, pH 5-6.5",
+    "sunlight": "Partial shade (under tall trees)",
+    "water": "High; needs steady moisture",
+    "propagation": "Seeds or suckers; plant in monsoon",
+    "harvest": "Hand-pick ripe green capsules at intervals and dry them"
+  },
+  "conservation_status": "Not threatened; widely cultivated. Wild populations are in the Western Ghats.",
+  "fun_fact": "Cardamom is the world's third most expensive spice after saffron and vanilla because the capsules are picked by hand.",
+  "model_spec": {
+    "archetype": "rhizome",
+    "leaf": {
+      "shape": "lanceolate",
+      "color": "#3f8f3f",
+      "size": 1.5
+    },
+    "stem": "#8aba62",
+    "flower": {
+      "color": "#e9e8d0",
+      "petals": 3,
+      "size": 0.4,
+      "cluster": "scatter"
+    },
+    "fruit": {
+      "color": "#a9c860",
+      "shape": "pod"
+    },
+    "root": {
+      "color": "#d5b98a",
+      "kind": "rhizome"
+    },
+    "height": 1.8,
+    "key_part": "fruit"
+  },
+  "regions": [
+    {
+      "name": "Western Ghats",
+      "abundance": "wild",
+      "note": "Native evergreen forest understory"
+    },
+    {
+      "name": "Kodagu & Coorg",
+      "abundance": "cultivated",
+      "note": "Cardamom estates"
+    },
+    {
+      "name": "Malabar Coast",
+      "abundance": "cultivated",
+      "note": "Kerala's Idukki hills grow most Indian cardamom"
+    },
+    {
+      "name": "Nilgiri Hills",
+      "abundance": "cultivated",
+      "note": "Hill plantations"
+    },
+    {
+      "name": "Sri Lanka",
+      "abundance": "cultivated",
+      "note": "Cultivated in the central hills"
+    },
+    {
+      "name": "Mexico & Central America",
+      "abundance": "cultivated",
+      "note": "Guatemala is a leading producer"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "amla",
+  "common_name": "Amla (Indian Gooseberry)",
+  "botanical_name": "Phyllanthus emblica (syn. Emblica officinalis)",
+  "family": "Phyllanthaceae",
+  "plant_type": "tree",
+  "sanskrit_name": "Amalaki, Dhatri, Amrita",
+  "hindi_name": "आंवला",
+  "marathi_name": "आवळा",
+  "other_names": ["Indian Gooseberry", "Emblic Myrobalan", "Amlaki", "Nelli"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "A small to medium deciduous tree 8-18 m tall with feathery-looking leaflets arranged along slender twigs, tiny greenish flowers and firm, pale green, six-lobed fleshy fruits that taste sour, bitter and astringent.",
+  "cultural_significance": "Amalaki is one of the three fruits of Triphala and is revered as 'Dhatri' (the nurse or mother). Amla Navami is a festival where the tree is worshipped. Not a Vedic-era plant by name with certainty; prominent in the Samhitas and Nighantus.",
+  "habitat": "Dry deciduous forests and plains of the Indian subcontinent; widely cultivated in orchards, especially in Uttar Pradesh and Gujarat.",
+  "parts_used": ["Fruit", "Seed", "Leaf", "Root", "Bark"],
+  "ailments": ["immunity", "indigestion", "hair fall", "acidity", "constipation", "cough", "diabetes", "eye strain", "premature graying", "fatigue"],
+  "uses": [
+    {"title": "Rasayana (rejuvenative) tonic", "detail": "Amalaki is described as the foremost Rasayana fruit, used in Chyawanprash and other tonics for vitality and ageing.", "system": "Ayurveda"},
+    {"title": "Digestion and acidity", "detail": "The fruit is traditionally used to support digestion, to ease hyperacidity and as a mild laxative in Triphala.", "system": "Ayurveda"},
+    {"title": "Hair and eye care", "detail": "Amla oil and powder are traditionally used for scalp health and hair greying; the fruit is described as Chakshushya (good for eyes).", "system": "Ayurveda"},
+    {"title": "Vitamin C source", "detail": "Fresh fruit is a rich dietary source of vitamin C and polyphenols; used as food, pickle and preserve.", "system": "Modern research"},
+    {"title": "Blood sugar and cholesterol research", "detail": "Early studies suggest amla extracts may help lipid and glucose levels; evidence is preliminary.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Amla (sour)", "Madhura (sweet)", "Katu (pungent)", "Tikta (bitter)", "Kashaya (astringent)"],
+    "guna": ["Guru (heavy)", "Ruksha (dry)", "Sheeta (cooling)"],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Madhura",
+    "doshas": {"vata": "decreases", "pitta": "decreases", "kapha": "decreases"},
+    "karma": ["Rasayana", "Vayahsthapana", "Chakshushya", "Keshya", "Anulomana"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Haritakyadi varga)", "Charaka Samhita - listed among Vayahsthapana (age-sustaining) herbs"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Fresh fruit or juice", "method": "Eat the raw fruit with a pinch of salt or press the juice and dilute with water.", "note": "Sour and cooling; may be uncomfortable on an empty stomach for some."},
+    {"name": "Amalaki churna (powder)", "method": "Dry fruit pulp, powder and take with water or honey as traditionally advised.", "note": "Often combined with other herbs in Triphala."},
+    {"name": "Chyawanprash", "method": "A classical herbal jam made by cooking amla pulp with ghee, sugar and many other herbs.", "note": "Contains sugar; mind it in diabetes."},
+    {"name": "Amla oil", "method": "Dry amla simmered in coconut or sesame oil and applied to the scalp.", "note": "External use for hair care."}
+  ],
+  "chemistry": ["Ascorbic acid (vitamin C)", "Emblicanin A and B", "Gallic acid", "Ellagic acid", "Tannins", "Quercetin", "Corilagin", "Phyllaemblic acid"],
+  "precautions": "May lower blood sugar and slow blood clotting, so people on diabetes or anticoagulant medicines, or before surgery, should consult a doctor. Its sour, cooling nature may aggravate cold or acidity in some; avoid large amounts in pregnancy without advice. Rarely causes loose stools in excess.",
+  "cultivation": {
+    "climate": "Tropical to subtropical; tolerates heat and mild frost",
+    "soil": "Well-drained loam; tolerates saline and poor soils, pH 6-8",
+    "sunlight": "Full sun",
+    "water": "Moderate; drought tolerant once established",
+    "propagation": "Grafting or budding of selected varieties; seeds for rootstock",
+    "harvest": "Fruits ripen from October to February"
+  },
+  "conservation_status": "Not threatened; widely cultivated.",
+  "fun_fact": "Amla is among the richest natural sources of vitamin C and its vitamin content is reported to survive drying better than most fruits, partly due to its tannins.",
+  "model_spec": {
+    "archetype": "tree",
+    "leaf": {"shape": "pinnate", "color": "#6fa04a", "size": 0.7},
+    "stem": "#7a6a55",
+    "flower": {"color": "#d8e6a8", "petals": 6, "size": 0.2, "cluster": "scatter"},
+    "fruit": {"color": "#b9d36a", "shape": "round"},
+    "root": null,
+    "height": 2.2,
+    "key_part": "fruit"
+  },
+  "regions": [
+    {"name": "Gangetic Plains", "abundance": "cultivated", "note": "Major orchard belt in Uttar Pradesh"},
+    {"name": "Gujarat", "abundance": "cultivated", "note": "Commercial amla orchards"},
+    {"name": "Central India (Madhya Pradesh)", "abundance": "wild", "note": "Found in dry deciduous forests"},
+    {"name": "Deccan Plateau", "abundance": "common", "note": "Forest and cultivated trees"},
+    {"name": "Western Ghats", "abundance": "wild", "note": "Deciduous forest tree"},
+    {"name": "Sri Lanka", "abundance": "common", "note": "Native in dry zone and home gardens"}
+  ]
+}

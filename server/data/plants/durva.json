@@ -1,0 +1,191 @@
+{
+  "slug": "durva",
+  "common_name": "Durva Grass (Bermuda Grass)",
+  "botanical_name": "Cynodon dactylon",
+  "family": "Poaceae",
+  "plant_type": "grass",
+  "sanskrit_name": "Durva, Shata-parva, Bhargavi",
+  "hindi_name": "दूब / दूर्वा",
+  "marathi_name": "दूर्वा / हरळी",
+  "other_names": [
+    "Doob",
+    "Bermuda Grass",
+    "Arugampul",
+    "Hariyali"
+  ],
+  "ayush_systems": [
+    "Ayurveda",
+    "Siddha",
+    "Unani"
+  ],
+  "description": "A creeping, mat-forming perennial grass with slender jointed stolons that root at the nodes, short flat grey-green blades, and fingerlike spikes of 3-7 radiating spikelets. It spreads rapidly and is a common lawn and wayside grass.",
+  "cultural_significance": "Durva is offered with 21 blades to Lord Ganesha and is used in many Hindu rites. It appears in Vedic literature and is regarded as a symbol of life and renewal. Its Vedic prominence is moderate: durva is mentioned in the Atharvaveda and in Vedic ritual texts, while the Ganesha offering is a later Puranic practice.",
+  "habitat": "Sunny, open ground, lawns, roadsides and fields; thrives in a wide range of soils and warm climates across the tropics.",
+  "parts_used": [
+    "Whole plant",
+    "Leaf",
+    "Rhizome (stolon)"
+  ],
+  "ailments": [
+    "nosebleed",
+    "bleeding",
+    "wounds",
+    "skin rash",
+    "diarrhoea",
+    "urinary discomfort",
+    "itching",
+    "burning sensation",
+    "vomiting",
+    "bleeding piles"
+  ],
+  "uses": [
+    {
+      "title": "Bleeding disorders (epistaxis, piles)",
+      "detail": "Fresh juice is traditionally used for nosebleed and bleeding piles; described as Raktastambhaka and Pittahara.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Skin diseases and itching",
+      "detail": "Fresh paste is traditionally applied to rashes, wounds and itching (Kushthaghna).",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Urinary complaints",
+      "detail": "Juice or decoction is traditionally used for burning urination (Mutrala).",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Heat and burning sensation",
+      "detail": "A cooling drink of fresh juice is a folk remedy for body heat.",
+      "system": "Folk practice"
+    },
+    {
+      "title": "Antioxidant and glucose research",
+      "detail": "Laboratory and animal studies suggest antioxidant, anti-inflammatory and blood-sugar effects; human evidence is limited.",
+      "system": "Modern research"
+    }
+  ],
+  "ayurveda": {
+    "rasa": [
+      "Madhura (sweet)",
+      "Kashaya (astringent)"
+    ],
+    "guna": [
+      "Laghu (light)",
+      "Snigdha (unctuous)"
+    ],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Madhura",
+    "doshas": {
+      "vata": "neutral",
+      "pitta": "decreases",
+      "kapha": "decreases"
+    },
+    "karma": [
+      "Pittahara",
+      "Raktastambhaka",
+      "Kushthaghna",
+      "Mutrala",
+      "Vranaropana"
+    ],
+    "classical_refs": [
+      "Bhavaprakasha Nighantu (Guduchyadi varga)",
+      "Raja Nighantu"
+    ],
+    "vedic_note": "Durva (Cynodon dactylon) is mentioned in the Atharvaveda and appears in Vedic ritual contexts as a sacred, life-giving grass. It is more prominent in later ritual (Ganesha puja) than in early hymns, and I am not citing specific verse numbers."
+  },
+  "preparations": [
+    {
+      "name": "Durva swarasa (fresh juice)",
+      "method": "Wash fresh grass and press out the juice.",
+      "note": "Traditionally used for nosebleed and body heat; fresh preparation only."
+    },
+    {
+      "name": "Durva lepa (paste)",
+      "method": "Grind fresh blades with water into a paste.",
+      "note": "Applied on rashes and wounds."
+    },
+    {
+      "name": "Durvadi ghrita",
+      "method": "Classical medicated ghee made with durva.",
+      "note": "Traditionally used for bleeding disorders, made by manufacturers."
+    },
+    {
+      "name": "Durva kwatha",
+      "method": "Boil the whole plant in water and strain.",
+      "note": "Used by practitioners for urinary complaints."
+    }
+  ],
+  "chemistry": [
+    "Flavonoids",
+    "Cynodin",
+    "Triterpenoids",
+    "Beta-sitosterol",
+    "Alkaloids",
+    "Tannins",
+    "Glycosides",
+    "Palmitic acid"
+  ],
+  "precautions": "Collect only from clean, pesticide-free areas. Pollen is a common cause of hay fever and asthma, and skin contact can cause irritation in sensitive people. May affect blood sugar, so diabetes patients should be cautious. Avoid medicinal amounts in pregnancy without advice.",
+  "cultivation": {
+    "climate": "Warm, tolerates a wide range of climates",
+    "soil": "Almost any soil; best in well-drained loam",
+    "sunlight": "Full sun",
+    "water": "Low to moderate; drought tolerant",
+    "propagation": "Stolons or sod pieces",
+    "harvest": "Cut fresh when needed; regrows quickly"
+  },
+  "conservation_status": "Not threatened; a widespread, often invasive weed.",
+  "fun_fact": "Because every node can root, a single stolon fragment can start a new plant, which is why durva is hard to remove from fields.",
+  "model_spec": {
+    "archetype": "grass",
+    "leaf": {
+      "shape": "blade",
+      "color": "#6aa84f",
+      "size": 0.8
+    },
+    "stem": "#8fb85a",
+    "flower": {
+      "color": "#a8a070",
+      "petals": 3,
+      "size": 0.2,
+      "cluster": "spike"
+    },
+    "fruit": null,
+    "root": null,
+    "height": 0.5,
+    "key_part": "leaf"
+  },
+  "regions": [
+    {
+      "name": "South Asia (Widely cultivated)",
+      "abundance": "common",
+      "note": "Found everywhere as lawns and wayside grass"
+    },
+    {
+      "name": "Gangetic Plains",
+      "abundance": "common",
+      "note": "Abundant on open ground"
+    },
+    {
+      "name": "Deccan Plateau",
+      "abundance": "common",
+      "note": "Common weed and pasture grass"
+    },
+    {
+      "name": "Punjab Plains",
+      "abundance": "common",
+      "note": "Widespread in fields"
+    },
+    {
+      "name": "East Africa",
+      "abundance": "common",
+      "note": "Widespread"
+    },
+    {
+      "name": "Mediterranean Basin",
+      "abundance": "common",
+      "note": "Widespread"
+    }
+  ]
+}

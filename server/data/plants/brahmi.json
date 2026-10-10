@@ -1,0 +1,70 @@
+{
+  "slug": "brahmi",
+  "common_name": "Brahmi (Water Hyssop)",
+  "botanical_name": "Bacopa monnieri",
+  "family": "Plantaginaceae",
+  "plant_type": "herb",
+  "sanskrit_name": "Brahmi, Saraswati, Matsyakshaka",
+  "hindi_name": "ब्राह्मी",
+  "marathi_name": "ब्राह्मी",
+  "other_names": ["Water Hyssop", "Herb of Grace", "Jalneem", "Nir-brahmi"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "A soft, creeping, succulent-stemmed herb that roots at the nodes and forms mats in wet ground. It has small fleshy oblong leaves arranged in opposite pairs and small pale white to light purple five-petalled flowers borne singly in the leaf axils.",
+  "cultural_significance": "Named after Brahma/Saraswati, the deity of knowledge, and traditionally associated with memory and learning. It is a classical Medhya Rasayana (intellect-promoting tonic) in Ayurveda. It is often confused with Mandukaparni (Centella asiatica) in regional usage.",
+  "habitat": "Marshy ground, stream banks, paddy-field margins and shallow wetlands in warm, humid regions; also grown in pots and tanks.",
+  "parts_used": ["Whole plant", "Leaf"],
+  "ailments": ["memory", "stress", "anxiety", "insomnia", "poor concentration", "epilepsy", "cough", "indigestion", "skin disease", "hair fall"],
+  "uses": [
+    {"title": "Memory and learning support", "detail": "Described in Ayurveda as a Medhya (intellect-promoting) herb traditionally given to students and the elderly to support memory and concentration.", "system": "Ayurveda"},
+    {"title": "Stress, anxiety and sleep", "detail": "Traditionally used as a calming nervine tonic that eases mental agitation and restlessness.", "system": "Ayurveda"},
+    {"title": "Nervous system disorders", "detail": "Classical formulations with Brahmi are described for mental disorders and epilepsy-like conditions, usually under practitioner supervision.", "system": "Ayurveda"},
+    {"title": "Cough and throat complaints", "detail": "Leaf juice or preparations with honey are used traditionally for hoarseness and chronic cough.", "system": "Unani"},
+    {"title": "Cognition research", "detail": "Standardised Bacopa extracts have been studied for memory and attention in small trials; results are modest and the evidence is preliminary.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Tikta (bitter)", "Kashaya (astringent)", "Madhura (sweet)"],
+    "guna": ["Laghu (light)", "Sara (mobile)"],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Madhura",
+    "doshas": {"vata": "decreases", "pitta": "decreases", "kapha": "decreases"},
+    "karma": ["Medhya", "Rasayana", "Smritivardhaka", "Nidrajanana"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Guduchyadi varga)", "Raja Nighantu", "Charaka Samhita - listed among Medhya Rasayana herbs"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Swarasa (fresh juice)", "method": "Crush fresh leaves and press out the juice; traditionally taken with honey.", "note": "Small quantities only; practitioner guidance advised."},
+    {"name": "Brahmi ghrita (medicated ghee)", "method": "Ghee cooked with Brahmi juice and supporting herbs following the classical ghrita method.", "note": "A classical Ayurvedic preparation made by trained manufacturers."},
+    {"name": "Churna (dried leaf powder)", "method": "Shade-dry the herb and grind to a fine powder; taken with warm water, milk or honey.", "note": "Commonly sold as a tonic powder."},
+    {"name": "Brahmi tea or infusion", "method": "Steep a few dried or fresh leaves in hot water for several minutes.", "note": "A mild daily drink."}
+  ],
+  "chemistry": ["Bacoside A", "Bacoside B", "Bacopasaponins", "Bacosine", "Brahmine", "Herpestine", "Luteolin", "Apigenin", "Betulic acid"],
+  "precautions": "May cause nausea, stomach cramps or loose stools in some people, especially on an empty stomach. It may interact with thyroid medicines, sedatives and drugs for epilepsy or anxiety, and may slow the heart rate, so consult a doctor if you take such medicines. Avoid medicinal use in pregnancy and breastfeeding unless advised by a practitioner. Do not confuse with Centella asiatica, which is also called Brahmi in some regions.",
+  "cultivation": {
+    "climate": "Warm, humid tropical to subtropical; frost-tender",
+    "soil": "Wet, loamy or clayey soil, pH 5.5-7",
+    "sunlight": "Full sun to partial shade",
+    "water": "Constantly moist or shallow standing water",
+    "propagation": "Stem cuttings or runners that root easily at the nodes",
+    "harvest": "Cut the above-ground herb every few months; it regrows quickly"
+  },
+  "conservation_status": "Not globally threatened, but wild populations have declined locally because of wetland loss and heavy collection.",
+  "fun_fact": "Brahmi is a creeping plant that roots at every node, so a single cutting dropped in wet soil can spread into a thick green mat.",
+  "model_spec": {
+    "archetype": "herb",
+    "leaf": {"shape": "ovate", "color": "#5da04a", "size": 0.7},
+    "stem": "#8aae6a",
+    "flower": {"color": "#e9e4f5", "petals": 5, "size": 0.3, "cluster": "scatter"},
+    "fruit": null,
+    "root": null,
+    "height": 0.5,
+    "key_part": "leaf"
+  },
+  "regions": [
+    {"name": "Gangetic Plains", "abundance": "wild", "note": "Marshy ground and paddy margins"},
+    {"name": "Kerala Backwaters", "abundance": "common", "note": "Wet banks and canal edges"},
+    {"name": "Tamil Nadu Plains", "abundance": "common", "note": "Wetlands and tank margins"},
+    {"name": "Assam Valley", "abundance": "wild", "note": "Wet fields and ponds"},
+    {"name": "Southern China", "abundance": "wild", "note": "Wetlands and rice-field edges"},
+    {"name": "Northern Australia", "abundance": "wild", "note": "Freshwater margins"}
+  ]
+}

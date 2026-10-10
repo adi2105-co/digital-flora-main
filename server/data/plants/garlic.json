@@ -1,0 +1,198 @@
+{
+  "slug": "garlic",
+  "common_name": "Garlic",
+  "botanical_name": "Allium sativum",
+  "family": "Amaryllidaceae",
+  "plant_type": "bulb",
+  "sanskrit_name": "Lasuna, Rasona",
+  "hindi_name": "लहसुन",
+  "marathi_name": "लसूण",
+  "other_names": [
+    "Lahsun",
+    "Poondu",
+    "Velluli"
+  ],
+  "ayush_systems": [
+    "Ayurveda",
+    "Siddha",
+    "Unani",
+    "Traditional Chinese Medicine"
+  ],
+  "description": "A bulbous herb 30-60 cm tall with flat, narrow leaves and a compound bulb made of several cloves wrapped in papery skin. A round flower head with small whitish flowers and bulbils may form on a stalk.",
+  "cultural_significance": "Garlic is a staple of Indian and world cuisine. In some traditional diets (satvik, Jain) it is avoided for its strong heating nature, while Ayurveda values it as a medicine.",
+  "habitat": "Cool to mild climate with loose, fertile, well-drained soil; grown as a winter bulb crop.",
+  "parts_used": [
+    "Bulb (cloves)",
+    "Oil"
+  ],
+  "ailments": [
+    "cough",
+    "cold",
+    "high cholesterol",
+    "high blood pressure",
+    "joint pain",
+    "indigestion",
+    "worms",
+    "ear ache",
+    "asthma",
+    "flatulence"
+  ],
+  "uses": [
+    {
+      "title": "Vata disorders and joint pain",
+      "detail": "Lasuna is described as a leading Vatahara drug; garlic cooked in oil or milk is traditionally used in stiffness and joint pain.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Cough, asthma and respiratory complaints",
+      "detail": "Garlic is traditionally used to loosen phlegm in Kapha disorders; described as Kaphahara.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Intestinal worms and digestion",
+      "detail": "Traditionally used as Krimighna and Deepana; also in flatulence.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Cholesterol and heart health",
+      "detail": "Studies suggest garlic may modestly lower cholesterol and blood pressure; evidence is mixed.",
+      "system": "Modern research"
+    },
+    {
+      "title": "Ear ache (external drops of warmed oil)",
+      "detail": "Garlic-infused oil warmed gently is a folk remedy; avoid use if the eardrum may be perforated.",
+      "system": "Folk practice"
+    }
+  ],
+  "ayurveda": {
+    "rasa": [
+      "Katu (pungent)",
+      "Madhura (sweet)",
+      "Lavana (salty)",
+      "Tikta (bitter)",
+      "Kashaya (astringent)"
+    ],
+    "guna": [
+      "Guru (heavy)",
+      "Snigdha (unctuous)",
+      "Tikshna (sharp)"
+    ],
+    "virya": "Ushna (hot)",
+    "vipaka": "Katu",
+    "doshas": {
+      "vata": "decreases",
+      "pitta": "increases",
+      "kapha": "decreases"
+    },
+    "karma": [
+      "Vatahara",
+      "Kaphahara",
+      "Krimighna",
+      "Hridya",
+      "Rasayana"
+    ],
+    "classical_refs": [
+      "Bhavaprakasha Nighantu (Haritakyadi varga)",
+      "Raja Nighantu",
+      "Described as having five of the six rasas, lacking Amla"
+    ],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {
+      "name": "Lasuna kalka (paste)",
+      "method": "Crush peeled cloves into a paste.",
+      "note": "Used in classical recipes; strong smell and heat."
+    },
+    {
+      "name": "Lasuna ksheerapaka (garlic in milk)",
+      "method": "Boil crushed cloves in milk and water until the water evaporates.",
+      "note": "Traditional preparation, usually under practitioner guidance."
+    },
+    {
+      "name": "Garlic oil",
+      "method": "Warm cloves gently in sesame or coconut oil and strain.",
+      "note": "Traditionally applied externally on stiff joints."
+    },
+    {
+      "name": "Lasunadi vati",
+      "method": "Classical tablet containing garlic and spices.",
+      "note": "Made by manufacturers of classical medicines."
+    }
+  ],
+  "chemistry": [
+    "Alliin",
+    "Allicin",
+    "Ajoene",
+    "Diallyl disulfide",
+    "Diallyl trisulfide",
+    "S-allyl cysteine",
+    "Fructans",
+    "Saponins"
+  ],
+  "precautions": "May increase bleeding risk; stop before surgery and use caution with anticoagulants. Can interact with some HIV drugs (saquinavir) and lower blood pressure or blood sugar. Raw garlic may cause heartburn or stomach upset, and skin contact can cause burns or dermatitis. Use only food amounts in pregnancy and breastfeeding unless advised.",
+  "cultivation": {
+    "climate": "Cool to mild; winter crop in the tropics",
+    "soil": "Loose, fertile, well-drained loam, pH 6-7",
+    "sunlight": "Full sun",
+    "water": "Moderate; stop watering before harvest",
+    "propagation": "Planted from individual cloves in autumn",
+    "harvest": "Harvest when the tops yellow and fall, about 4-5 months after planting"
+  },
+  "conservation_status": "Not threatened; cultivated worldwide.",
+  "fun_fact": "The sharp smell is produced only when a clove is crushed, because the enzyme alliinase converts alliin into allicin.",
+  "model_spec": {
+    "archetype": "rhizome",
+    "leaf": {
+      "shape": "blade",
+      "color": "#6aa84f",
+      "size": 1.0
+    },
+    "stem": "#9cc47a",
+    "flower": {
+      "color": "#f0e6f0",
+      "petals": 6,
+      "size": 0.3,
+      "cluster": "umbel"
+    },
+    "fruit": null,
+    "root": {
+      "color": "#f4efe4",
+      "kind": "bulb"
+    },
+    "height": 0.8,
+    "key_part": "root"
+  },
+  "regions": [
+    {
+      "name": "South Asia (Widely cultivated)",
+      "abundance": "cultivated",
+      "note": "Grown across India as a winter crop"
+    },
+    {
+      "name": "Central India (Madhya Pradesh)",
+      "abundance": "cultivated",
+      "note": "Leading garlic-producing state"
+    },
+    {
+      "name": "Gujarat",
+      "abundance": "cultivated",
+      "note": "Important producer"
+    },
+    {
+      "name": "Rajasthan (Thar Desert)",
+      "abundance": "cultivated",
+      "note": "Major commercial cultivation"
+    },
+    {
+      "name": "Iran & Central Asia",
+      "abundance": "wild",
+      "note": "Wild relatives and origin area of garlic"
+    },
+    {
+      "name": "Southern China",
+      "abundance": "cultivated",
+      "note": "The world's largest producer"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "slug": "clove",
+  "common_name": "Clove",
+  "botanical_name": "Syzygium aromaticum",
+  "family": "Myrtaceae",
+  "plant_type": "tree",
+  "sanskrit_name": "Lavanga, Devakusuma",
+  "hindi_name": "लौंग",
+  "marathi_name": "लवंग",
+  "other_names": [
+    "Laung",
+    "Kirambu",
+    "Clove bud"
+  ],
+  "ayush_systems": [
+    "Ayurveda",
+    "Siddha",
+    "Unani",
+    "Traditional Chinese Medicine"
+  ],
+  "description": "A slender evergreen tree 8-12 m tall with a conical crown, glossy lanceolate leaves rich in oil glands, and clusters of small buds at the branch ends. The unopened, nail-shaped, rose-pink flower buds are picked and dried to give cloves.",
+  "cultural_significance": "Cloves are a major Indian spice and a flavour of garam masala and paan. The spice was once so valuable that the Maluku (Spice) Islands drew centuries of trade and colonial rivalry.",
+  "habitat": "Humid tropical island and coastal climates; native to the Maluku Islands of Indonesia and grown in Kerala and Tamil Nadu.",
+  "parts_used": [
+    "Flower bud",
+    "Oil",
+    "Leaf"
+  ],
+  "ailments": [
+    "toothache",
+    "cough",
+    "cold",
+    "nausea",
+    "indigestion",
+    "sore throat",
+    "bad breath",
+    "asthma",
+    "flatulence",
+    "headache"
+  ],
+  "uses": [
+    {
+      "title": "Toothache and oral health",
+      "detail": "Clove or its oil is traditionally applied near an aching tooth and used as a mouth freshener (Mukhashodhana).",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Cough, cold and sore throat",
+      "detail": "Chewing a clove or taking a decoction with honey is traditional for cough and throat irritation; described as Kaphahara.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Nausea and indigestion",
+      "detail": "Described as Deepana and Pachana; also used for thirst and vomiting (Trishna and Chhardi) in classical texts.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Dental analgesic",
+      "detail": "Eugenol is used in dentistry as a temporary analgesic and antiseptic.",
+      "system": "Modern research"
+    },
+    {
+      "title": "Headache relief (external paste)",
+      "detail": "Paste of cloves is traditionally applied on the forehead; avoid contact with eyes.",
+      "system": "Folk practice"
+    }
+  ],
+  "ayurveda": {
+    "rasa": [
+      "Katu (pungent)",
+      "Tikta (bitter)"
+    ],
+    "guna": [
+      "Laghu (light)",
+      "Snigdha (unctuous)"
+    ],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Katu",
+    "doshas": {
+      "vata": "neutral",
+      "pitta": "decreases",
+      "kapha": "decreases"
+    },
+    "karma": [
+      "Deepana",
+      "Pachana",
+      "Kaphahara",
+      "Chakshushya",
+      "Hridya"
+    ],
+    "classical_refs": [
+      "Bhavaprakasha Nighantu (Karpuradi varga)",
+      "Raja Nighantu"
+    ],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {
+      "name": "Lavanga churna (powder)",
+      "method": "Grind dried buds into a powder.",
+      "note": "Used in Lavangadi vati and formulations for cough."
+    },
+    {
+      "name": "Lavangadi vati",
+      "method": "Classical lozenge made from clove and other herbs.",
+      "note": "Traditionally sucked for throat irritation and cough."
+    },
+    {
+      "name": "Clove tea",
+      "method": "Steep 2-3 buds in hot water.",
+      "note": "Mild household drink."
+    },
+    {
+      "name": "Clove oil (Lavanga taila)",
+      "method": "Steam distilled from buds.",
+      "note": "Strong; apply only diluted and in small amounts."
+    }
+  ],
+  "chemistry": [
+    "Eugenol",
+    "Eugenyl acetate",
+    "Beta-caryophyllene",
+    "Alpha-humulene",
+    "Gallic acid",
+    "Kaempferol",
+    "Oleanolic acid",
+    "Isoeugenol"
+  ],
+  "precautions": "Clove oil is concentrated and can burn the gums, skin and mucous membranes; it can be toxic if swallowed in large amounts, especially for children. Eugenol may slow blood clotting, so use caution with anticoagulants and before surgery. May lower blood sugar. Avoid medicinal quantities in pregnancy and breastfeeding.",
+  "cultivation": {
+    "climate": "Hot, humid tropical; 20-30 C",
+    "soil": "Deep, rich, well-drained loam, pH 5.5-6.5",
+    "sunlight": "Partial shade when young, full sun later",
+    "water": "High; regular rain year-round",
+    "propagation": "Seeds raised in nurseries; slow to flower (6-8 years)",
+    "harvest": "Hand-pick buds when they turn pinkish and sun-dry until dark brown"
+  },
+  "conservation_status": "Not threatened; widely cultivated.",
+  "fun_fact": "A clove is an unopened flower bud; if left to bloom it would produce small pink-white flowers.",
+  "model_spec": {
+    "archetype": "tree",
+    "leaf": {
+      "shape": "lanceolate",
+      "color": "#2e6b3a",
+      "size": 1.0
+    },
+    "stem": "#6b4a35",
+    "flower": {
+      "color": "#e87fa0",
+      "petals": 4,
+      "size": 0.25,
+      "cluster": "umbel"
+    },
+    "fruit": null,
+    "root": null,
+    "height": 2.6,
+    "key_part": "flower"
+  },
+  "regions": [
+    {
+      "name": "Indonesia (Java, Sumatra & Maluku)",
+      "abundance": "wild",
+      "note": "Native to the Maluku Islands; Indonesia is a top producer"
+    },
+    {
+      "name": "Madagascar",
+      "abundance": "cultivated",
+      "note": "Major producer"
+    },
+    {
+      "name": "East Africa",
+      "abundance": "cultivated",
+      "note": "Zanzibar and Pemba are famous clove islands"
+    },
+    {
+      "name": "Malabar Coast",
+      "abundance": "cultivated",
+      "note": "Grown in Kerala"
+    },
+    {
+      "name": "Tamil Nadu Plains",
+      "abundance": "cultivated",
+      "note": "Grown in hill plantations such as Kanyakumari"
+    },
+    {
+      "name": "Sri Lanka",
+      "abundance": "cultivated",
+      "note": "Cultivated in the central hills"
+    }
+  ]
+}

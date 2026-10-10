@@ -1,0 +1,71 @@
+{
+  "slug": "bhringraj",
+  "common_name": "Bhringraj (False Daisy)",
+  "botanical_name": "Eclipta alba (syn. Eclipta prostrata)",
+  "family": "Asteraceae",
+  "plant_type": "herb",
+  "sanskrit_name": "Bhringaraja, Kesharaja, Markava",
+  "hindi_name": "भृंगराज",
+  "marathi_name": "माका",
+  "other_names": ["False Daisy", "Trailing Eclipta", "Kehraj", "Karisalankanni", "Maka"],
+  "ayush_systems": ["Ayurveda", "Siddha", "Unani", "Traditional Chinese Medicine"],
+  "description": "A rough, hairy, branched annual herb 20-60 cm tall that often creeps or sprawls and roots at the lower nodes. It has narrow lanceolate leaves in opposite pairs and small white daisy-like flower heads borne on short stalks in the leaf axils. Crushed stems stain the skin blackish.",
+  "cultural_significance": "The name Kesharaja means 'king of hair', and it is the best-known Ayurvedic hair herb, a base of many traditional hair oils. It is also considered a Rasayana for the liver. It is not a Vedic-era plant by name; it is prominent in later Nighantus and folk traditions.",
+  "habitat": "Moist ground, paddy-field margins, ditch banks, wet waste ground and lawns across warm tropical and subtropical regions; often grows as a weed.",
+  "parts_used": ["Whole plant", "Leaf", "Root"],
+  "ailments": ["hair fall", "premature greying", "dandruff", "jaundice", "liver disorder", "skin disease", "wounds", "cough", "asthma", "headache", "indigestion", "anaemia"],
+  "uses": [
+    {"title": "Hair fall and scalp care", "detail": "Described as Keshya (beneficial for hair); the herb is cooked in sesame or coconut oil and traditionally massaged into the scalp to support hair growth and delay greying.", "system": "Ayurveda"},
+    {"title": "Liver support and jaundice", "detail": "Whole-plant juice or decoction is traditionally used in liver complaints and jaundice, and the herb is regarded as a hepatic Rasayana.", "system": "Ayurveda"},
+    {"title": "Skin disorders and wounds", "detail": "Fresh leaf paste is traditionally applied to wounds, itching and skin eruptions, and the juice is used for fungal-type skin complaints.", "system": "Siddha"},
+    {"title": "Respiratory complaints", "detail": "Leaf juice with honey is traditionally given in cough and breathing difficulty, and it is described as Kaphahara.", "system": "Unani"},
+    {"title": "Liver and hair research", "detail": "Wedelolactone-rich extracts of Eclipta have been studied in animal and laboratory work for liver protection and hair growth; human evidence is limited and preliminary.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Katu (pungent)", "Tikta (bitter)"],
+    "guna": ["Ruksha (dry)", "Laghu (light)"],
+    "virya": "Ushna (hot)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "decreases", "pitta": "neutral", "kapha": "decreases"},
+    "karma": ["Keshya", "Rasayana", "Yakritottejaka", "Kaphahara", "Vranaropana"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Guduchyadi varga)", "Raja Nighantu"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Bhringaraja taila (medicated hair oil)", "method": "Fresh herb juice cooked with sesame or coconut oil and supporting herbs by the classical taila method.", "note": "Applied to the scalp; a very common traditional hair oil."},
+    {"name": "Swarasa (fresh juice)", "method": "Crush the fresh herb and press out the juice; traditionally taken with honey.", "note": "Small quantities only; practitioner guidance advised."},
+    {"name": "Churna (dried powder)", "method": "Shade-dry the herb and grind to a fine powder; taken with warm water, honey or milk, or mixed with water as a hair mask.", "note": "Used internally as a tonic and externally on the scalp."},
+    {"name": "Leaf paste for external use", "method": "Grind fresh leaves into a paste and apply to minor wounds or skin patches.", "note": "Patch-test first; avoid deep or infected wounds."}
+  ],
+  "chemistry": ["Wedelolactone", "Demethylwedelolactone", "Ecliptine", "Luteolin", "Apigenin", "Stigmasterol", "Eclalbasaponins", "Alpha-terthienyl"],
+  "precautions": "Taken internally it may cause loose stools or stomach upset in some people. Scalp application can cause irritation or allergy in sensitive skin, so patch-test first; people allergic to daisy-family plants (Asteraceae) should take care. It may affect blood sugar and liver enzyme tests, so people on diabetes or liver-affecting medicines should consult a doctor. Avoid medicinal use in pregnancy and breastfeeding unless advised by a practitioner.",
+  "cultivation": {
+    "climate": "Warm, humid tropical to subtropical; frost-tender",
+    "soil": "Moist loamy or clayey soil, pH 5.5-7.5",
+    "sunlight": "Full sun to partial shade",
+    "water": "Keep moist; tolerates wet ground",
+    "propagation": "Seeds sown in the monsoon, or stem cuttings that root at the nodes",
+    "harvest": "Cut the whole herb at flowering, about 3-4 months after sowing, and use fresh or shade-dry"
+  },
+  "conservation_status": "Not threatened; a common weed across the tropics, though wild collection for the hair-oil trade is heavy.",
+  "fun_fact": "If you crush a fresh stem and rub it on the skin, it leaves a blackish stain, which is one reason it has long been linked in folk practice to darkening hair and used as a natural tattoo and hair dye ingredient.",
+  "model_spec": {
+    "archetype": "herb",
+    "leaf": {"shape": "lanceolate", "color": "#4a8a3c", "size": 0.8},
+    "stem": "#6f8f4a",
+    "flower": {"color": "#fafafa", "petals": 8, "size": 0.3, "cluster": "scatter"},
+    "fruit": null,
+    "root": null,
+    "height": 0.6,
+    "key_part": "leaf"
+  },
+  "regions": [
+    {"name": "Gangetic Plains", "abundance": "common", "note": "Wet fields, ditches and lawns"},
+    {"name": "Kerala Backwaters", "abundance": "common", "note": "Damp banks and paddy margins"},
+    {"name": "Tamil Nadu Plains", "abundance": "common", "note": "Known as Karisalankanni; wet ground and field margins"},
+    {"name": "Assam Valley", "abundance": "common", "note": "Wet fields and waste ground"},
+    {"name": "Bangladesh Delta", "abundance": "common", "note": "Paddy bunds and ditch edges"},
+    {"name": "Thailand & Indochina", "abundance": "wild", "note": "Wet waste ground and rice-field edges"},
+    {"name": "Southern China", "abundance": "wild", "note": "Used in Chinese herbal medicine as Han Lian Cao"}
+  ]
+}

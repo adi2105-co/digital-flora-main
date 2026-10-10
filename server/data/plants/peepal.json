@@ -1,0 +1,69 @@
+{
+  "slug": "peepal",
+  "common_name": "Peepal (Sacred Fig)",
+  "botanical_name": "Ficus religiosa",
+  "family": "Moraceae",
+  "plant_type": "tree",
+  "sanskrit_name": "Ashvattha, Pippala, Bodhidruma, Chalapatra",
+  "hindi_name": "पीपल",
+  "marathi_name": "पिंपळ",
+  "other_names": ["Sacred Fig", "Bodhi Tree", "Pipal", "Arasa Maram"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "A large, long-lived, semi-deciduous fig tree 20-30 m tall with a spreading crown, smooth grey bark, heart-shaped leaves with a long drip-tip on slender, flexible stalks that flutter in the slightest breeze, and small purplish figs in pairs.",
+  "cultural_significance": "Among the most sacred trees in Hinduism, Buddhism and Jainism: the Buddha attained enlightenment under a peepal (the Bodhi tree). Ashvattha appears in the Rigveda and Atharvaveda, and the Bhagavad Gita (ch. 15) uses the inverted Ashvattha as a metaphor for the cosmos. Peepal wood was used for ritual vessels and fire drills.",
+  "habitat": "Native to the Indian subcontinent; grows in plains and foothills and commonly planted in village squares, temples and roadsides, often growing out of walls and old buildings.",
+  "parts_used": ["Bark", "Leaf", "Fruit", "Latex", "Seed"],
+  "ailments": ["asthma", "cough", "diarrhea", "skin disease", "wounds", "constipation", "toothache", "cracked heels", "jaundice", "diabetes"],
+  "uses": [
+    {"title": "Asthma and respiratory complaints", "detail": "Dried, powdered fruit and bark are traditionally used in asthma and cough, while the fig itself is described as supportive for the lungs.", "system": "Ayurveda"},
+    {"title": "Wounds, skin and ulcers", "detail": "Bark decoction is used as a wash and the astringent bark is described as Vranaropana (wound healing) and useful in skin diseases.", "system": "Ayurveda"},
+    {"title": "Diarrhoea and digestion", "detail": "Bark and young shoots are astringent and traditionally used in loose stools; ripe fruits are described as a mild laxative.", "system": "Ayurveda"},
+    {"title": "Cracked heels and latex use", "detail": "The milky latex is traditionally applied to cracked heels and some skin lesions in folk practice.", "system": "Unani"},
+    {"title": "Antidiabetic research", "detail": "Bark extracts show glucose-lowering effects in animal studies; human evidence is limited.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Kashaya (astringent)", "Madhura (sweet)"],
+    "guna": ["Guru (heavy)", "Ruksha (dry)"],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "neutral", "pitta": "decreases", "kapha": "decreases"},
+    "karma": ["Vranaropana", "Varnya", "Raktashodhaka", "Sandhaniya", "Grahi"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Vatadi varga)", "Raja Nighantu - Pippala is described among the Kshiri vriksha (milky trees)"],
+    "vedic_note": "Ashvattha (Pippala) is mentioned in the Rigveda (e.g. the Pippala tree and its sweet fruit in the 'two birds' hymn, RV 1.164.20) and in the Atharvaveda, and wood from the Ashvattha was used for ritual vessels and for the fire-drill (arani) in Vedic ceremonies."
+  },
+  "preparations": [
+    {"name": "Bark kwatha (decoction)", "method": "Boil dried bark in water and strain; used as a wash or taken under guidance.", "note": "Astringent; used for wounds and loose motions."},
+    {"name": "Fruit powder", "method": "Dry ripe figs and grind; taken with water or honey.", "note": "Traditional use in respiratory and bowel complaints."},
+    {"name": "Leaf or bud paste", "method": "Crush fresh tender leaves or buds into a paste for external use.", "note": "Traditional use on skin lesions."},
+    {"name": "Latex application", "method": "A drop of fresh latex on cracked skin.", "note": "Folk use; may irritate sensitive skin."}
+  ],
+  "chemistry": ["Beta-sitosterol", "Lupeol", "Tannins", "Bergapten", "Quercetin", "Vitamin K1", "Phenolics", "Stigmasterol"],
+  "precautions": "May lower blood sugar and has a vitamin K content, so people on diabetes medicines or anticoagulants should consult a doctor. Latex may irritate skin or cause allergy in people sensitive to figs or rubber (latex). Use medicinally in pregnancy only under guidance. The tree is culturally protected and should not be felled.",
+  "cultivation": {
+    "climate": "Tropical to subtropical",
+    "soil": "Adaptable; deep well-drained soil, tolerates poor soils and cracks in walls",
+    "sunlight": "Full sun",
+    "water": "Moderate; drought tolerant once established",
+    "propagation": "Cuttings or seeds (often spread by birds); needs ample space as it becomes huge",
+    "harvest": "Leaves and bark as needed; figs ripen in summer"
+  },
+  "conservation_status": "Not threatened; protected culturally and widely planted.",
+  "fun_fact": "The peepal's heart-shaped leaves with long drip-tips and flexible stalks flutter in the lightest breeze, and the tree is often said to release oxygen at night, a popular but scientifically doubtful claim.",
+  "model_spec": {
+    "archetype": "tree",
+    "leaf": {"shape": "heart", "color": "#3f8a3a", "size": 1.3},
+    "stem": "#8d8678",
+    "flower": null,
+    "fruit": {"color": "#6a3f5e", "shape": "berry"},
+    "root": null,
+    "height": 3.0,
+    "key_part": "bark"
+  },
+  "regions": [
+    {"name": "South Asia (Widely cultivated)", "abundance": "cultivated", "note": "Temple and village squares throughout the subcontinent"},
+    {"name": "Gangetic Plains", "abundance": "common", "note": "Bodh Gaya region and everywhere in villages"},
+    {"name": "Western Ghats", "abundance": "common", "note": "Planted and naturalised"},
+    {"name": "Sri Lanka", "abundance": "cultivated", "note": "Sacred Bodhi tree at Anuradhapura, planted from a cutting of the Bodh Gaya tree"},
+    {"name": "Nepal Himalaya & Terai", "abundance": "wild", "note": "Native in Terai and lower hills"}
+  ]
+}

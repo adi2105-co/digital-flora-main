@@ -1,0 +1,71 @@
+{
+  "slug": "aloe-vera",
+  "common_name": "Aloe Vera (Ghritkumari)",
+  "botanical_name": "Aloe vera (syn. Aloe barbadensis)",
+  "family": "Asphodelaceae",
+  "plant_type": "succulent",
+  "sanskrit_name": "Kumari, Ghritakumari",
+  "hindi_name": "घृतकुमारी (ग्वारपाठा)",
+  "marathi_name": "कोरफड",
+  "other_names": ["Ghritkumari", "Gwarpatha", "Indian Aloe", "Kumari"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha", "Homeopathy"],
+  "description": "A stemless or short-stemmed succulent forming a rosette of thick, fleshy, grey-green lance-shaped leaves with small spiny teeth along the margin. Tall spikes carry tubular yellow to orange flowers. The leaf holds a clear mucilaginous gel and a bitter yellow latex beneath the rind.",
+  "cultural_significance": "Called Kumari ('young maiden') in Sanskrit, traditionally praised for a youthful, rejuvenating effect. It is grown near homes across India as a household remedy for burns and skin care. It is not a Vedic-era plant by name; it is prominent in later Nighantus.",
+  "habitat": "Dry, sunny, well-drained sandy soils; commonly grown in pots, gardens and as a field crop in arid regions.",
+  "parts_used": ["Leaf gel", "Leaf latex", "Whole leaf"],
+  "ailments": ["burns", "wounds", "constipation", "acne", "dry skin", "sunburn", "indigestion", "hair fall", "dandruff", "piles"],
+  "uses": [
+    {"title": "Burns, wounds and skin care", "detail": "Fresh leaf gel is traditionally applied to minor burns, sunburn and dry or irritated skin as a cooling soothing application.", "system": "Ayurveda"},
+    {"title": "Constipation", "detail": "The dried yellow latex (kumari sara) is a traditional purgative; it is potent and used only under guidance.", "system": "Ayurveda"},
+    {"title": "Digestive and liver tonic", "detail": "Gel or juice is traditionally used for acidity, poor digestion and as a Pitta-pacifying tonic.", "system": "Ayurveda"},
+    {"title": "Women's health and rejuvenation", "detail": "Classical formulations such as Kumaryasava use Kumari as a tonic for the digestive and reproductive systems.", "system": "Ayurveda"},
+    {"title": "Skin research", "detail": "Topical aloe gel has been studied for minor burns and some skin conditions; evidence is mixed, and studies on oral use are limited.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Tikta (bitter)", "Madhura (sweet)"],
+    "guna": ["Guru (heavy)", "Snigdha (unctuous)", "Picchila (slimy)"],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "decreases", "pitta": "decreases", "kapha": "decreases"},
+    "karma": ["Virechana", "Rasayana", "Vrishya", "Pittahara", "Vranaropana"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Guduchyadi varga)", "Raja Nighantu", "Dhanvantari Nighantu"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Fresh gel (swarasa/pulp)", "method": "Slice a mature leaf, scoop out the clear gel and wash off the yellow latex before use.", "note": "Applied directly on skin or taken in small amounts as juice."},
+    {"name": "Kumari asava / Kumaryasava", "method": "A classical fermented tonic made from Kumari juice with other herbs and sweeteners.", "note": "Contains small natural alcohol; made by trained manufacturers."},
+    {"name": "Kumari sara (dried latex)", "method": "Yellow latex from the leaf rind is collected and concentrated by boiling and drying.", "note": "Strong laxative; only under practitioner guidance."},
+    {"name": "Hair and face pack", "method": "Mix fresh gel with a little curd or honey and apply to skin or scalp, then rinse.", "note": "Patch-test before first use."}
+  ],
+  "chemistry": ["Aloin (barbaloin)", "Aloe-emodin", "Acemannan", "Aloesin", "Anthraquinones", "Glucomannan", "Vitamin C", "Salicylic acid", "Polysaccharides"],
+  "precautions": "The yellow latex is a strong laxative that can cause cramps and electrolyte loss and should be avoided in pregnancy, in breastfeeding and in children. Oral aloe may lower blood sugar and interact with diabetes medicines, diuretics and heart medicines. Some people develop contact allergy, so patch-test the gel first. Whole-leaf extracts containing latex have raised safety concerns with prolonged use.",
+  "cultivation": {
+    "climate": "Warm, dry tropical to subtropical; frost-sensitive",
+    "soil": "Sandy, well-drained soil or cactus mix, pH 6-8",
+    "sunlight": "Full sun to bright light",
+    "water": "Low; water only when soil is dry",
+    "propagation": "Offsets (pups) separated from the mother plant",
+    "harvest": "Cut outer mature leaves at the base; the plant keeps producing"
+  },
+  "conservation_status": "Not found truly wild; widely cultivated and not threatened.",
+  "fun_fact": "Aloe is a succulent that stores water in its leaves, which is why the cut gel is about 99 percent water.",
+  "model_spec": {
+    "archetype": "rosette",
+    "leaf": {"shape": "spike", "color": "#6fae7a", "size": 1.2},
+    "stem": "#7a8b5a",
+    "flower": {"color": "#f08a2e", "petals": 6, "size": 0.4, "cluster": "spike"},
+    "fruit": null,
+    "root": null,
+    "height": 0.7,
+    "key_part": "leaf"
+  },
+  "regions": [
+    {"name": "Rajasthan (Thar Desert)", "abundance": "cultivated", "note": "Dry-land cultivation and naturalised in dry areas"},
+    {"name": "Gujarat", "abundance": "cultivated", "note": "Commercial cultivation"},
+    {"name": "Deccan Plateau", "abundance": "common", "note": "Gardens and naturalised plants"},
+    {"name": "Tamil Nadu Plains", "abundance": "common", "note": "Home gardens and fields"},
+    {"name": "Arabian Peninsula & Yemen", "abundance": "wild", "note": "Likely origin region of the species"},
+    {"name": "North Africa & Egypt", "abundance": "common", "note": "Long cultivated and naturalised"},
+    {"name": "South Asia (Widely cultivated)", "abundance": "cultivated", "note": "Pots and gardens everywhere"}
+  ]
+}

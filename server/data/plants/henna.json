@@ -1,0 +1,69 @@
+{
+  "slug": "henna",
+  "common_name": "Henna (Mehendi)",
+  "botanical_name": "Lawsonia inermis",
+  "family": "Lythraceae",
+  "plant_type": "shrub",
+  "sanskrit_name": "Mendika, Raktagarbha, Nakharanjaka",
+  "hindi_name": "मेहंदी",
+  "marathi_name": "मेंदी",
+  "other_names": ["Mehendi", "Mehndi", "Egyptian Privet", "Mignonette Tree"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "A much-branched, slightly spiny shrub 2-4 m tall with small opposite lanceolate leaves, clusters of tiny fragrant white to pinkish flowers and small round brownish fruits. Dried, powdered leaves yield a reddish-orange dye.",
+  "cultural_significance": "Mehendi designs are applied to the hands and feet of brides and on festivals such as Karva Chauth, Eid and Teej across South Asia. The dye is a symbol of auspiciousness and joy. Not a Vedic-era plant by name; prominent in later Nighantus and Unani texts.",
+  "habitat": "Hot, dry tropical and subtropical regions; grown as hedges and field crops, especially in Rajasthan (Sojat) and Gujarat.",
+  "parts_used": ["Leaf", "Flower", "Seed", "Bark", "Root"],
+  "ailments": ["dandruff", "hair fall", "premature graying", "burns", "wounds", "skin disease", "headache", "heat", "fever", "mouth ulcer"],
+  "uses": [
+    {"title": "Hair conditioning and dye", "detail": "Leaf powder paste is a traditional natural hair dye and conditioner, used to reduce dandruff and cool the scalp.", "system": "Ayurveda"},
+    {"title": "Skin and wound care", "detail": "Leaf paste is traditionally applied to burns, boils and inflammation as a cooling Vranaropana application.", "system": "Ayurveda"},
+    {"title": "Cooling for the body", "detail": "Palm and sole application is traditionally believed to cool the body in summer, and in Unani practice the leaf paste is used for headaches.", "system": "Unani"},
+    {"title": "Mouth and throat gargle", "detail": "Leaf decoction is used as a gargle for mouth ulcers and sore throat in folk practice.", "system": "Unani"}
+  ],
+  "ayurveda": {
+    "rasa": ["Kashaya (astringent)", "Tikta (bitter)"],
+    "guna": ["Laghu (light)", "Ruksha (dry)"],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "neutral", "pitta": "decreases", "kapha": "decreases"},
+    "karma": ["Keshya", "Kushthaghna", "Vranaropana", "Dahaprashamana"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Karaveeradi varga)", "Raja Nighantu"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Henna paste", "method": "Mix dried leaf powder with lemon water or tea and rest for several hours until the dye is released; apply and leave on for hours before washing.", "note": "For skin or hair; do a patch test."},
+    {"name": "Hair mask", "method": "Mix henna with curd or amla powder and apply to the scalp and hair.", "note": "Traditional conditioning treatment."},
+    {"name": "Leaf decoction", "method": "Boil leaves in water, cool and use as a gargle or wound wash.", "note": "External or gargle use."},
+    {"name": "Henna flower oil", "method": "Flowers soaked or boiled in oil, used for fragrance and head cooling.", "note": "Traditional perfume and cooling oil."}
+  ],
+  "chemistry": ["Lawsone (2-hydroxy-1,4-naphthoquinone)", "Gallic acid", "Quercetin", "Luteolin", "Apigenin", "Lacoumarin", "Tannins", "Mannitol"],
+  "precautions": "Pure natural henna is generally safe on skin, but 'black henna' sold for temporary tattoos contains PPD (para-phenylenediamine), which can cause severe allergic reactions and scarring. People with G6PD deficiency should avoid henna, especially on infants, because of a risk of haemolysis. Do a patch test. Internal use of leaf or bark is not advised without guidance and is avoided in pregnancy.",
+  "cultivation": {
+    "climate": "Hot, dry to semi-arid tropical",
+    "soil": "Well-drained sandy loam; tolerates poor and saline soil",
+    "sunlight": "Full sun",
+    "water": "Low; drought hardy",
+    "propagation": "Seeds or stem cuttings",
+    "harvest": "Leaves are harvested 2-3 times a year and dried in shade"
+  },
+  "conservation_status": "Not threatened; widely cultivated.",
+  "fun_fact": "The dye molecule lawsone binds to the keratin in skin and hair, which is why mehendi stains last for one to three weeks.",
+  "model_spec": {
+    "archetype": "shrub",
+    "leaf": {"shape": "lanceolate", "color": "#5f9440", "size": 0.7},
+    "stem": "#8a7459",
+    "flower": {"color": "#f3e7e0", "petals": 4, "size": 0.2, "cluster": "scatter"},
+    "fruit": {"color": "#8a6a4a", "shape": "round"},
+    "root": null,
+    "height": 1.7,
+    "key_part": "leaf"
+  },
+  "regions": [
+    {"name": "Rajasthan (Thar Desert)", "abundance": "cultivated", "note": "Sojat is a major henna-growing area"},
+    {"name": "Gujarat", "abundance": "cultivated", "note": "Field crop and hedges"},
+    {"name": "Punjab Plains", "abundance": "common", "note": "Hedges and gardens"},
+    {"name": "North Africa & Egypt", "abundance": "cultivated", "note": "Long-cultivated henna regions"},
+    {"name": "Arabian Peninsula & Yemen", "abundance": "common", "note": "Traditional dye plant"},
+    {"name": "Iran & Central Asia", "abundance": "cultivated", "note": "Used for hair and skin dye"}
+  ]
+}

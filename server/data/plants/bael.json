@@ -1,0 +1,70 @@
+{
+  "slug": "bael",
+  "common_name": "Bael (Stone Apple)",
+  "botanical_name": "Aegle marmelos",
+  "family": "Rutaceae",
+  "plant_type": "tree",
+  "sanskrit_name": "Bilva, Shriphala, Shivadruma",
+  "hindi_name": "बेल",
+  "marathi_name": "बेल",
+  "other_names": ["Bengal Quince", "Stone Apple", "Wood Apple (Indian)", "Bilva Patra"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "A slow-growing, thorny, deciduous tree 8-15 m tall with trifoliate aromatic leaves, fragrant greenish-white flowers and round woody-shelled fruits whose sweet-sticky orange pulp contains many seeds.",
+  "cultural_significance": "Sacred to Lord Shiva: trifoliate bilva leaves are offered in Shiva worship, especially on Mahashivaratri, and the tree is planted in temple precincts. Called Shriphala ('fruit of prosperity'). Prominent in the Samhitas, Puranas and Nighantus.",
+  "habitat": "Dry deciduous forests and plains of the Indian subcontinent; planted near temples and in home gardens; tolerates poor, rocky and saline soils.",
+  "parts_used": ["Fruit", "Leaf", "Root", "Bark"],
+  "ailments": ["diarrhea", "dysentery", "constipation", "indigestion", "ulcer", "diabetes", "fever", "asthma", "heat stroke", "worms"],
+  "uses": [
+    {"title": "Diarrhoea and dysentery", "detail": "The unripe or dried fruit pulp is described as Grahi (absorbent) and is a classical remedy for chronic diarrhoea and dysentery.", "system": "Ayurveda"},
+    {"title": "Constipation and gut health", "detail": "The ripe fruit pulp is traditionally taken as a mild laxative and a digestive cooling drink (sherbet) in summer.", "system": "Ayurveda"},
+    {"title": "Part of Dashamoola", "detail": "The root bark is one of the ten roots of Dashamoola, used in fever, respiratory and Vata disorders.", "system": "Ayurveda"},
+    {"title": "Leaf paste for swelling and eye care", "detail": "Leaf juice and paste are traditionally used externally for swelling and in some eye conditions.", "system": "Unani"},
+    {"title": "Blood sugar research", "detail": "Leaf extracts show glucose-lowering effects in animal studies; human evidence is limited.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Kashaya (astringent)", "Tikta (bitter)"],
+    "guna": ["Laghu (light)", "Ruksha (dry)"],
+    "virya": "Ushna (hot)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "decreases", "pitta": "increases", "kapha": "decreases"},
+    "karma": ["Grahi", "Deepana", "Pachana", "Shothahara"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Amradi varga)", "Charaka Samhita - bilva is among the commonly used Mulini and Dashamoola herbs", "Raja Nighantu"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Bael sherbet", "method": "Scoop ripe pulp, mash with water and strain; sweeten with jaggery or sugar.", "note": "Cooling summer drink; the ripe fruit is mildly laxative."},
+    {"name": "Dried fruit powder", "method": "Slice unripe fruit, sun-dry and powder; take with water or buttermilk.", "note": "Traditionally used in loose stools."},
+    {"name": "Leaf juice or paste", "method": "Crush fresh leaves for juice or a paste.", "note": "Traditional household use; check with a practitioner."},
+    {"name": "Bilvadi churna", "method": "Classical powder with dried bael fruit and other digestive herbs.", "note": "Used under guidance."}
+  ],
+  "chemistry": ["Marmelosin", "Aegeline", "Skimmianine", "Psoralen", "Imperatorin", "Tannins", "Marmelide", "Limonene"],
+  "precautions": "May lower blood sugar, so people on diabetes medicines should consult a doctor. Excess intake of the ripe fruit may cause bloating or loose stools, while the unripe fruit is constipating. The root and bark are used with care in pregnancy. The tree has sharp thorns; allergy to Rutaceae plants is possible.",
+  "cultivation": {
+    "climate": "Tropical to subtropical; tolerates heat and mild frost",
+    "soil": "Well-drained loam; tolerates poor, rocky or saline soil",
+    "sunlight": "Full sun",
+    "water": "Low; drought hardy once established",
+    "propagation": "Seeds, root suckers or budding",
+    "harvest": "Fruits ripen from about March to May after nearly a year on the tree"
+  },
+  "conservation_status": "Near Threatened (IUCN) in parts of its range due to over-exploitation; widely planted.",
+  "fun_fact": "Bael leaves always grow in groups of three, which Shiva devotees associate with the god's trident and three eyes.",
+  "model_spec": {
+    "archetype": "tree",
+    "leaf": {"shape": "trifoliate", "color": "#4d8f3f", "size": 1.0},
+    "stem": "#8a7a62",
+    "flower": {"color": "#f1f1d6", "petals": 4, "size": 0.3, "cluster": "scatter"},
+    "fruit": {"color": "#b8a24a", "shape": "round"},
+    "root": null,
+    "height": 2.4,
+    "key_part": "fruit"
+  },
+  "regions": [
+    {"name": "Gangetic Plains", "abundance": "common", "note": "Temple and village trees"},
+    {"name": "Central India (Madhya Pradesh)", "abundance": "wild", "note": "Dry deciduous forests"},
+    {"name": "Deccan Plateau", "abundance": "common", "note": "Wild and planted"},
+    {"name": "Western Himalaya (Uttarakhand & Himachal)", "abundance": "wild", "note": "Foothills up to about 1200 m"},
+    {"name": "Sri Lanka", "abundance": "common", "note": "Dry zone and home gardens"},
+    {"name": "Nepal Himalaya & Terai", "abundance": "common", "note": "Temple and Terai trees"}
+  ]
+}

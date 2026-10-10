@@ -1,0 +1,71 @@
+{
+  "slug": "pudina",
+  "common_name": "Pudina (Mint)",
+  "botanical_name": "Mentha spp. (commonly Mentha arvensis, Mentha spicata, Mentha x piperita)",
+  "family": "Lamiaceae",
+  "plant_type": "herb",
+  "sanskrit_name": "Pudina, Putiha",
+  "hindi_name": "पुदीना",
+  "marathi_name": "पुदिना",
+  "other_names": ["Mint", "Spearmint", "Peppermint", "Japanese Mint"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "A creeping, strongly aromatic perennial herb with square stems, opposite toothed leaves and whorled spikes of small pale purple or white flowers. It spreads quickly by runners (stolons).",
+  "cultural_significance": "Pudina is part of everyday Indian cooking, in chutneys, raita, chaas and beverages, and is valued as a cooling digestive. Mentha arvensis is a major source of menthol in India. It is not a Vedic-era plant by name; it is prominent in later texts and household practice.",
+  "habitat": "Moist, fertile, partially shaded soils along streams, ditches and irrigated fields; widely grown in kitchen gardens and as a field crop.",
+  "parts_used": ["Leaf", "Whole plant", "Essential oil"],
+  "ailments": ["indigestion", "gas", "nausea", "headache", "cold", "cough", "bad breath", "vomiting", "colic", "itching"],
+  "uses": [
+    {"title": "Digestive support", "detail": "Described as Deepana-Pachana (appetiser and digestive); leaf juice, chutney or buttermilk with mint is traditionally used for indigestion, bloating and loss of appetite.", "system": "Ayurveda"},
+    {"title": "Nausea and vomiting", "detail": "Fresh leaf juice with a little honey or lemon is a traditional household remedy for nausea.", "system": "Unani"},
+    {"title": "Cold, cough and headache", "detail": "Inhaling steam with mint leaves or applying diluted mint oil is traditionally used to relieve blocked nose and tension headache.", "system": "Unani"},
+    {"title": "Oral freshness", "detail": "Chewing leaves or gargling with a leaf infusion is a common practice for bad breath.", "system": "Ayurveda"},
+    {"title": "Irritable bowel research", "detail": "Enteric-coated peppermint oil has been studied for relief of irritable bowel symptoms; evidence is moderate and applies to the oil, not to raw leaves.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Katu (pungent)", "Tikta (bitter)"],
+    "guna": ["Laghu (light)", "Tikshna (sharp)"],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "decreases", "pitta": "neutral", "kapha": "decreases"},
+    "karma": ["Deepana", "Pachana", "Ruchya", "Vatanulomana"],
+    "classical_refs": ["Dhanvantari Nighantu", "Bhavaprakasha Nighantu (Shaka varga, as Putiha/Pudina)"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Swarasa (fresh leaf juice)", "method": "Crush fresh leaves and press out the juice; taken with honey or lemon.", "note": "Small quantities; used for nausea and indigestion."},
+    {"name": "Pudina chutney", "method": "Grind fresh leaves with coriander, green chilli, salt and lemon juice.", "note": "A common digestive condiment."},
+    {"name": "Mint tea (hot infusion)", "method": "Steep fresh or dried leaves in hot water for 5-7 minutes.", "note": "Mild daily digestive drink."},
+    {"name": "Pudina arka (distillate)", "method": "Steam distillation of the leaves gives an aromatic water traditionally used for stomach upset.", "note": "Commercial product; follow label guidance."}
+  ],
+  "chemistry": ["Menthol", "Menthone", "Carvone", "Limonene", "Rosmarinic acid", "Luteolin", "Menthyl acetate", "Pulegone"],
+  "precautions": "Menthol-rich oil should not be applied to or near the face of infants and young children because it can cause breathing problems. Peppermint can aggravate acid reflux or heartburn in some people and may interact with medicines processed by the liver. Pure mint oil is toxic if swallowed in quantity and should be diluted for external use. Large medicinal amounts should be avoided in pregnancy.",
+  "cultivation": {
+    "climate": "Temperate to subtropical; grows best in cool, moist conditions",
+    "soil": "Rich, moist, well-drained loam, pH 6-7.5",
+    "sunlight": "Partial shade to full sun",
+    "water": "Frequent; keep soil consistently moist",
+    "propagation": "Runners or stem cuttings; division of clumps",
+    "harvest": "Cut stems before flowering; multiple harvests a year"
+  },
+  "conservation_status": "Not threatened; widely cultivated.",
+  "fun_fact": "India is among the world's leading producers of menthol mint (Mentha arvensis), grown across the Gangetic plains of Uttar Pradesh.",
+  "model_spec": {
+    "archetype": "herb",
+    "leaf": {"shape": "ovate", "color": "#3f8a3a", "size": 0.9},
+    "stem": "#6d6a3c",
+    "flower": {"color": "#b79ad6", "petals": 4, "size": 0.3, "cluster": "spike"},
+    "fruit": null,
+    "root": null,
+    "height": 0.7,
+    "key_part": "leaf"
+  },
+  "regions": [
+    {"name": "Gangetic Plains", "abundance": "cultivated", "note": "Major field crop for menthol mint"},
+    {"name": "Punjab Plains", "abundance": "cultivated", "note": "Grown in kitchen gardens and fields"},
+    {"name": "Western Himalaya (Uttarakhand & Himachal)", "abundance": "common", "note": "Cool moist slopes and stream banks"},
+    {"name": "Kashmir Valley", "abundance": "common", "note": "Widely grown and used in cooking"},
+    {"name": "Mediterranean Basin", "abundance": "common", "note": "Native range of several Mentha species"},
+    {"name": "Europe (Temperate)", "abundance": "common", "note": "Native and cultivated mints"},
+    {"name": "South Asia (Widely cultivated)", "abundance": "cultivated", "note": "Kitchen gardens across the subcontinent"}
+  ]
+}

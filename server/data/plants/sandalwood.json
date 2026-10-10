@@ -1,0 +1,69 @@
+{
+  "slug": "sandalwood",
+  "common_name": "Sandalwood (Chandana)",
+  "botanical_name": "Santalum album",
+  "family": "Santalaceae",
+  "plant_type": "tree",
+  "sanskrit_name": "Chandana, Shrikhanda, Malayaja",
+  "hindi_name": "चंदन",
+  "marathi_name": "चंदन",
+  "other_names": ["White Sandalwood", "Indian Sandalwood", "Srigandha", "Chandanam"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "A small evergreen, semi-parasitic tree 4-9 m tall with opposite thin lanceolate leaves, small reddish-purple flowers in panicles and round black fruits. The fragrant heartwood and its oil are prized.",
+  "cultural_significance": "Chandana paste is used for tilak and in temple rituals, and the fragrance is central in Indian worship. Sandalwood is prominent in the epics and Nighantus. Not a Vedic-era plant by name with certainty. Karnataka has historically been the centre of the trade.",
+  "habitat": "Dry deciduous forests of southern India (Karnataka and Tamil Nadu); a root hemi-parasite that needs host plants; now grown in plantations.",
+  "parts_used": ["Heartwood", "Essential oil", "Wood powder"],
+  "ailments": ["heat", "burning sensation", "skin rash", "acne", "fever", "urinary burning", "headache", "stress", "sunburn", "itching"],
+  "uses": [
+    {"title": "Cooling skin paste", "detail": "Chandana paste with rose water is traditionally applied on the forehead and skin to relieve heat, burning sensation, rashes and sunburn; described as Daha-prashamana.", "system": "Ayurveda"},
+    {"title": "Acne and blemishes", "detail": "Described as Varnya (improves complexion) and used in face packs for acne and pigmentation.", "system": "Ayurveda"},
+    {"title": "Urinary burning and fever", "detail": "A cold infusion of the wood is traditionally given for burning urination and heat-type fevers.", "system": "Ayurveda"},
+    {"title": "Aromatherapy and calming", "detail": "Sandalwood oil is used in aromatherapy and rituals for its calming scent; evidence is preliminary.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Tikta (bitter)", "Madhura (sweet)"],
+    "guna": ["Laghu (light)", "Ruksha (dry)"],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "neutral", "pitta": "decreases", "kapha": "decreases"},
+    "karma": ["Daha-prashamana", "Varnya", "Hridya", "Trishnahara", "Kandughna"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Karpuradi varga)", "Charaka Samhita - listed among Dahaprashamana and Varnya herbs", "Raja Nighantu"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Chandana lepa (paste)", "method": "Rub the wood on a wet stone to make a paste, optionally with rose water, and apply externally.", "note": "Classic cooling application."},
+    {"name": "Chandana churna", "method": "Fine wood powder mixed with water, honey or milk.", "note": "Used in cooling formulations."},
+    {"name": "Cold infusion (hima)", "method": "Soak powdered heartwood in water overnight and strain.", "note": "Traditional cooling drink."},
+    {"name": "Sandalwood oil", "method": "Steam-distilled essential oil from heartwood; dilute before applying.", "note": "Costly and often adulterated; external or aroma use."}
+  ],
+  "chemistry": ["Alpha-santalol", "Beta-santalol", "Santalene", "Santalol", "Santalic acid", "Terpenoids", "Tannins", "Resin"],
+  "precautions": "Essential oil can cause skin irritation or allergy and must be diluted and patch-tested; do not swallow the oil. Avoid internal medicinal use in pregnancy or kidney disease without guidance. The species is a regulated, protected tree in India, so wood must be legally sourced, and much market oil is adulterated.",
+  "cultivation": {
+    "climate": "Tropical dry; mild frost-sensitive",
+    "soil": "Well-drained red loam; needs a host plant (e.g. Casuarina or pigeon pea) for roots",
+    "sunlight": "Full sun to light shade",
+    "water": "Low to moderate; avoid waterlogging",
+    "propagation": "Seeds with host plants; takes 15-30 years for fragrant heartwood",
+    "harvest": "Heartwood develops oil after many years; felling is regulated"
+  },
+  "conservation_status": "Vulnerable (IUCN) due to over-harvesting and illegal felling.",
+  "fun_fact": "Sandalwood is a root hemi-parasite: it taps the roots of neighbouring host trees for water and minerals, and the heartwood oil takes decades to form.",
+  "model_spec": {
+    "archetype": "tree",
+    "leaf": {"shape": "lanceolate", "color": "#5a8f4a", "size": 0.9},
+    "stem": "#6f5a45",
+    "flower": {"color": "#8a4a63", "petals": 4, "size": 0.2, "cluster": "scatter"},
+    "fruit": {"color": "#2a1f2e", "shape": "berry"},
+    "root": null,
+    "height": 2.0,
+    "key_part": "bark"
+  },
+  "regions": [
+    {"name": "Deccan Plateau", "abundance": "wild", "note": "Karnataka and Mysore plateau, the heartland of Indian sandalwood"},
+    {"name": "Tamil Nadu Plains", "abundance": "wild", "note": "Dry forests such as Javadi hills and Sathyamangalam"},
+    {"name": "Eastern Ghats", "abundance": "wild", "note": "Native in dry deciduous forests"},
+    {"name": "Western Ghats", "abundance": "wild", "note": "Native on the dry eastern slopes"},
+    {"name": "Indonesia (Java, Sumatra & Maluku)", "abundance": "rare", "note": "Natural to the lesser Sunda islands; limited wild stands"},
+    {"name": "Northern Australia", "abundance": "cultivated", "note": "Commercial plantations in the Kimberley region"}
+  ]
+}

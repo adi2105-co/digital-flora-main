@@ -1,0 +1,193 @@
+{
+  "slug": "saffron",
+  "common_name": "Saffron",
+  "botanical_name": "Crocus sativus",
+  "family": "Iridaceae",
+  "plant_type": "bulb",
+  "sanskrit_name": "Kumkuma, Kashmiraja, Kesara",
+  "hindi_name": "केसर / ज़ाफ़रान",
+  "marathi_name": "केशर",
+  "other_names": [
+    "Kesar",
+    "Zafran",
+    "Kunkumapoo"
+  ],
+  "ayush_systems": [
+    "Ayurveda",
+    "Siddha",
+    "Unani",
+    "Traditional Chinese Medicine"
+  ],
+  "description": "A low, bulb-forming (corm) perennial about 15-25 cm tall with narrow grass-like leaves and violet flowers with three bright red stigmas. The flowers bloom in autumn, and each flower yields only a few stigma threads, which are hand-picked and dried.",
+  "cultural_significance": "Saffron is the world's most precious spice and is prized in Kashmir, where it is a GI-tagged crop of Pampore. In India it is used in sweets, tilak, festivals and temple offerings, and in the Unani and Ayurvedic traditions as a tonic.",
+  "habitat": "Dry, sunny temperate regions with well-drained, calcareous soils and cold winters; Pampore in the Kashmir Valley is the main Indian growing area.",
+  "parts_used": [
+    "Stigma",
+    "Flower"
+  ],
+  "ailments": [
+    "depression",
+    "insomnia",
+    "cough",
+    "cold",
+    "menstrual pain",
+    "skin dullness",
+    "indigestion",
+    "stress",
+    "headache",
+    "low mood"
+  ],
+  "uses": [
+    {
+      "title": "Skin complexion and glow",
+      "detail": "Kumkuma is described as Varnya; mixed in milk or ointments it is traditionally used on skin.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Cold, cough and respiratory complaints",
+      "detail": "Strands in warm milk are a traditional remedy for colds and chest congestion.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Mood and calm",
+      "detail": "Clinical trials suggest saffron extract may help mild-to-moderate low mood; research is promising but not conclusive.",
+      "system": "Modern research"
+    },
+    {
+      "title": "Menstrual comfort",
+      "detail": "Traditionally used for painful or irregular menstruation; avoid in pregnancy.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Tonic and rasayana use",
+      "detail": "Described as Tridoshahara and used as a general tonic and for nourishing the heart (Hridya).",
+      "system": "Ayurveda"
+    }
+  ],
+  "ayurveda": {
+    "rasa": [
+      "Katu (pungent)",
+      "Tikta (bitter)"
+    ],
+    "guna": [
+      "Snigdha (unctuous)",
+      "Tikshna (sharp)"
+    ],
+    "virya": "Ushna (hot)",
+    "vipaka": "Katu",
+    "doshas": {
+      "vata": "decreases",
+      "pitta": "decreases",
+      "kapha": "decreases"
+    },
+    "karma": [
+      "Tridoshahara",
+      "Varnya",
+      "Vrishya",
+      "Hridya",
+      "Vedanasthapana"
+    ],
+    "classical_refs": [
+      "Bhavaprakasha Nighantu (Karpuradi varga)",
+      "Raja Nighantu"
+    ],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {
+      "name": "Kesar doodh (saffron milk)",
+      "method": "Soak a few strands in warm milk for several minutes.",
+      "note": "A traditional nourishing drink."
+    },
+    {
+      "name": "Kumkumadi taila",
+      "method": "Classical medicated oil containing saffron and other herbs.",
+      "note": "Traditionally applied on the face; made by manufacturers."
+    },
+    {
+      "name": "Kumkuma lepa",
+      "method": "Grind a few strands with water or milk.",
+      "note": "External paste for complexion."
+    },
+    {
+      "name": "Saffron tea",
+      "method": "Steep strands in hot water.",
+      "note": "Light use only, due to expense and potency."
+    }
+  ],
+  "chemistry": [
+    "Crocin",
+    "Crocetin",
+    "Picrocrocin",
+    "Safranal",
+    "Kaempferol",
+    "Lycopene",
+    "Zeaxanthin",
+    "Beta-carotene"
+  ],
+  "precautions": "Large amounts (several grams) are toxic and can cause vomiting, dizziness and bleeding; saffron in medicinal quantities may stimulate the uterus and should be avoided in pregnancy. Use caution with blood pressure and sedative medicines. Allergy is possible. Beware of adulteration (dyed threads, safflower, turmeric).",
+  "cultivation": {
+    "climate": "Dry temperate with cold winters; 5-25 C",
+    "soil": "Well-drained, light, calcareous loam, pH 6-8",
+    "sunlight": "Full sun",
+    "water": "Low; avoid waterlogging",
+    "propagation": "Corms planted in late summer",
+    "harvest": "Flowers hand-picked in autumn; stigmas separated and dried"
+  },
+  "conservation_status": "Not threatened as a crop; it is sterile and propagated only by corms. Kashmiri production has declined in recent years.",
+  "fun_fact": "It takes about 150,000 flowers to make a kilogram of saffron, which is why it is so costly.",
+  "model_spec": {
+    "archetype": "herb",
+    "leaf": {
+      "shape": "blade",
+      "color": "#6aa84f",
+      "size": 0.9
+    },
+    "stem": "#9cc47a",
+    "flower": {
+      "color": "#8f5fc4",
+      "petals": 6,
+      "size": 0.7,
+      "cluster": "single"
+    },
+    "fruit": null,
+    "root": {
+      "color": "#c9a77a",
+      "kind": "bulb"
+    },
+    "height": 0.5,
+    "key_part": "flower"
+  },
+  "regions": [
+    {
+      "name": "Kashmir Valley",
+      "abundance": "cultivated",
+      "note": "Pampore plateau; GI-tagged saffron"
+    },
+    {
+      "name": "Iran & Central Asia",
+      "abundance": "cultivated",
+      "note": "Iran produces most of the world's saffron"
+    },
+    {
+      "name": "Mediterranean Basin",
+      "abundance": "cultivated",
+      "note": "Spain and Greece grow saffron"
+    },
+    {
+      "name": "Western Himalaya (Uttarakhand & Himachal)",
+      "abundance": "cultivated",
+      "note": "Small trial cultivation"
+    },
+    {
+      "name": "Afghanistan & Pakistan Uplands",
+      "abundance": "cultivated",
+      "note": "Growing production"
+    },
+    {
+      "name": "North Africa & Egypt",
+      "abundance": "cultivated",
+      "note": "Morocco has saffron cultivation"
+    }
+  ]
+}

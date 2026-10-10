@@ -1,0 +1,70 @@
+{
+  "slug": "jamun",
+  "common_name": "Jamun (Java Plum)",
+  "botanical_name": "Syzygium cumini",
+  "family": "Myrtaceae",
+  "plant_type": "tree",
+  "sanskrit_name": "Jambu, Jambuphala, Mahaphala",
+  "hindi_name": "जामुन",
+  "marathi_name": "जांभूळ",
+  "other_names": ["Java Plum", "Black Plum", "Indian Blackberry", "Jambul", "Naval"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "A large evergreen tree 10-25 m tall with glossy, leathery, oval leaves, clusters of small fragrant whitish flowers and oblong fruits that ripen from green to purple-black with a sweet-astringent taste that stains the tongue.",
+  "cultural_significance": "India is called Jambudvipa in Puranic geography, named after the Jambu tree. The fruit is a beloved summer fruit. Prominent in the epics, Puranas and Nighantus.",
+  "habitat": "Moist tropical lowlands, riverbanks and forests of the Indian subcontinent; widely planted as a shade and avenue tree.",
+  "parts_used": ["Fruit", "Seed", "Bark", "Leaf"],
+  "ailments": ["diabetes", "diarrhea", "indigestion", "mouth ulcer", "sore throat", "bleeding gums", "dysentery", "urinary problems", "wounds", "acidity"],
+  "uses": [
+    {"title": "Diabetes support", "detail": "Seed powder is the best-known traditional remedy for Madhumeha (diabetes), and the fruit is described as supportive in excess urination.", "system": "Ayurveda"},
+    {"title": "Diarrhoea and dysentery", "detail": "Bark decoction and fruit juice are astringent and are traditionally used in loose stools.", "system": "Ayurveda"},
+    {"title": "Mouth and throat care", "detail": "Bark decoction is traditionally used as a gargle for mouth ulcers, sore throat and bleeding gums.", "system": "Ayurveda"},
+    {"title": "Digestive tonic", "detail": "Fruit with black salt is traditionally eaten as a digestive in summer.", "system": "Unani"},
+    {"title": "Blood sugar research", "detail": "Jamboline and anthocyanins in seeds have been studied for glucose-lowering effects; evidence is mixed.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Kashaya (astringent)", "Madhura (sweet)", "Amla (sour)"],
+    "guna": ["Laghu (light)", "Ruksha (dry)"],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "increases", "pitta": "decreases", "kapha": "decreases"},
+    "karma": ["Grahi", "Mutrasangrahaniya", "Rochana", "Stambhana"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Amradi varga)", "Raja Nighantu"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Seed powder (beeja churna)", "method": "Wash and dry seeds, then grind to fine powder; taken with water.", "note": "Used traditionally in diabetes; people on medication must consult a doctor."},
+    {"name": "Fruit juice or fresh fruit", "method": "Eat ripe fruit or press the juice, often with a pinch of black salt.", "note": "Avoid with milk or on an empty stomach in some traditions."},
+    {"name": "Bark decoction", "method": "Boil bark in water and strain; use as a gargle or small sip.", "note": "For mouth and loose-stool complaints."},
+    {"name": "Jamun vinegar", "method": "Fermented fruit juice used as a digestive tonic.", "note": "Traditional home preparation."}
+  ],
+  "chemistry": ["Jamboline", "Anthocyanins", "Ellagic acid", "Gallic acid", "Tannins", "Myricetin", "Quercetin", "Jambosine"],
+  "precautions": "May lower blood sugar, so people on diabetes medicines, especially those using insulin, should consult a doctor and monitor glucose. Stop before scheduled surgery. Excess fruit can cause constipation, throat irritation or Vata aggravation. Traditionally avoid with milk on an empty stomach.",
+  "cultivation": {
+    "climate": "Tropical to subtropical; frost-tender",
+    "soil": "Deep, moist, well-drained loam; tolerates waterlogging",
+    "sunlight": "Full sun",
+    "water": "Moderate to high; thrives near water",
+    "propagation": "Seeds or grafting; grafted trees fruit earlier",
+    "harvest": "Fruits ripen in the monsoon, June to August"
+  },
+  "conservation_status": "Not threatened; widely cultivated.",
+  "fun_fact": "Eating jamun turns the tongue purple, and the tree's ancient name Jambu gave India its Puranic name Jambudvipa.",
+  "model_spec": {
+    "archetype": "tree",
+    "leaf": {"shape": "ovate", "color": "#2f6f3a", "size": 1.2},
+    "stem": "#7b6a58",
+    "flower": {"color": "#f2efdc", "petals": 4, "size": 0.25, "cluster": "scatter"},
+    "fruit": {"color": "#3b1f4a", "shape": "berry"},
+    "root": null,
+    "height": 2.7,
+    "key_part": "fruit"
+  },
+  "regions": [
+    {"name": "Gangetic Plains", "abundance": "common", "note": "Avenue and orchard tree"},
+    {"name": "Western Ghats", "abundance": "wild", "note": "Native in evergreen and moist deciduous forests"},
+    {"name": "Konkan Coast", "abundance": "common", "note": "Native and planted"},
+    {"name": "Deccan Plateau", "abundance": "common", "note": "Widely planted"},
+    {"name": "Bangladesh Delta", "abundance": "common", "note": "Common in village groves"},
+    {"name": "Myanmar", "abundance": "common", "note": "Native range extends here"}
+  ]
+}

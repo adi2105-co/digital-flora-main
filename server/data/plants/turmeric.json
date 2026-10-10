@@ -1,0 +1,192 @@
+{
+  "slug": "turmeric",
+  "common_name": "Turmeric",
+  "botanical_name": "Curcuma longa",
+  "family": "Zingiberaceae",
+  "plant_type": "rhizome",
+  "sanskrit_name": "Haridra, Haimavati, Nisha",
+  "hindi_name": "हल्दी",
+  "marathi_name": "हळद",
+  "other_names": [
+    "Haldi",
+    "Indian Saffron",
+    "Curcuma"
+  ],
+  "ayush_systems": [
+    "Ayurveda",
+    "Siddha",
+    "Unani",
+    "Traditional Chinese Medicine"
+  ],
+  "description": "A perennial herb about 60-100 cm tall with large lanceolate leaves rising from a short pseudostem and a branching, orange-yellow underground rhizome. Pale yellow flower spikes with pinkish bracts appear in the rainy season.",
+  "cultural_significance": "Turmeric paste is applied in Hindu weddings (haldi ceremony) and offered in many rituals as an auspicious, purifying substance. Haridra is also a staple of Indian cooking and natural dyeing.",
+  "habitat": "Warm, humid tropical conditions with rich, well-drained loamy soil; grown as a field crop across India.",
+  "parts_used": [
+    "Rhizome"
+  ],
+  "ailments": [
+    "cough",
+    "cold",
+    "wounds",
+    "skin rash",
+    "joint pain",
+    "indigestion",
+    "diabetes",
+    "acne",
+    "inflammation",
+    "jaundice"
+  ],
+  "uses": [
+    {
+      "title": "Wounds, skin disorders and rashes",
+      "detail": "Haridra is described as Varnya and Kushthaghna; paste is traditionally applied to wounds, boils and skin eruptions, and taken internally in skin disorders.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Cough, cold and throat irritation",
+      "detail": "Warm milk or water with turmeric is a widely used household remedy for cough and sore throat; described as Kaphahara.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Prameha (metabolic and urinary disorders)",
+      "detail": "Haridra with Amalaki is a classical combination traditionally used in Prameha, an Ayurvedic category loosely related to diabetes.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Joint pain and inflammation",
+      "detail": "Traditionally used with warm oil or in decoctions for painful, swollen joints; curcumin is studied for anti-inflammatory activity.",
+      "system": "Modern research"
+    },
+    {
+      "title": "Digestive support",
+      "detail": "Used in cooking and as a mild digestive and liver-supporting spice (Deepana, Pachana).",
+      "system": "Ayurveda"
+    }
+  ],
+  "ayurveda": {
+    "rasa": [
+      "Katu (pungent)",
+      "Tikta (bitter)"
+    ],
+    "guna": [
+      "Ruksha (dry)",
+      "Laghu (light)"
+    ],
+    "virya": "Ushna (hot)",
+    "vipaka": "Katu",
+    "doshas": {
+      "vata": "neutral",
+      "pitta": "neutral",
+      "kapha": "decreases"
+    },
+    "karma": [
+      "Kaphahara",
+      "Varnya",
+      "Kushthaghna",
+      "Krimighna",
+      "Vishaghna"
+    ],
+    "classical_refs": [
+      "Bhavaprakasha Nighantu (Haritakyadi varga)",
+      "Raja Nighantu"
+    ],
+    "vedic_note": "Haridra (turmeric) is associated with early ritual and folk-medicine practice and is described in later Ayurvedic texts; I have not cited a specific Vedic verse, so treat its Vedic-era use as traditional rather than precisely sourced."
+  },
+  "preparations": [
+    {
+      "name": "Haridra churna (powder)",
+      "method": "Boil, dry and finely powder the rhizome.",
+      "note": "Used in food, pastes and traditional formulations."
+    },
+    {
+      "name": "Lepa (external paste)",
+      "method": "Mix powder with water, milk or honey to form a paste and apply on the skin.",
+      "note": "Traditionally used on minor wounds and skin blemishes; patch test first."
+    },
+    {
+      "name": "Haldi doodh (golden milk)",
+      "method": "Simmer a pinch of powder in milk, optionally with black pepper.",
+      "note": "A common household drink during colds."
+    },
+    {
+      "name": "Kwatha (decoction)",
+      "method": "Boil rhizome pieces in water, strain.",
+      "note": "Used by practitioners for internal use."
+    }
+  ],
+  "chemistry": [
+    "Curcumin",
+    "Demethoxycurcumin",
+    "Bisdemethoxycurcumin",
+    "Turmerone",
+    "Ar-turmerone",
+    "Zingiberene",
+    "Curlone",
+    "Curdione"
+  ],
+  "precautions": "Large supplement amounts may thin the blood or lower blood sugar; people on anticoagulants, antiplatelet or diabetes medicines should consult a doctor. Avoid medicinal quantities in pregnancy and with gallstones or bile duct obstruction. May upset the stomach in some people. Curcumin is poorly absorbed on its own.",
+  "cultivation": {
+    "climate": "Warm, humid tropical; 20-30 C",
+    "soil": "Rich, well-drained loam, pH 5-7.5",
+    "sunlight": "Full sun to partial shade",
+    "water": "Regular in growing season; avoid waterlogging",
+    "propagation": "Planted from rhizome pieces (finger bulbs) at the start of the monsoon",
+    "harvest": "Harvest 7-9 months after planting when leaves yellow and dry"
+  },
+  "conservation_status": "Not threatened; widely cultivated (India is the largest producer).",
+  "fun_fact": "The yellow pigment curcumin is named after the plant's genus, and turmeric rhizomes are boiled before drying to give the deep colour.",
+  "model_spec": {
+    "archetype": "rhizome",
+    "leaf": {
+      "shape": "lanceolate",
+      "color": "#4f9a3a",
+      "size": 1.4
+    },
+    "stem": "#8fb35a",
+    "flower": {
+      "color": "#f2e6a0",
+      "petals": 3,
+      "size": 0.6,
+      "cluster": "spike"
+    },
+    "fruit": null,
+    "root": {
+      "color": "#e08a1e",
+      "kind": "rhizome"
+    },
+    "height": 1.1,
+    "key_part": "root"
+  },
+  "regions": [
+    {
+      "name": "South Asia (Widely cultivated)",
+      "abundance": "cultivated",
+      "note": "Major spice crop of the subcontinent"
+    },
+    {
+      "name": "Deccan Plateau",
+      "abundance": "cultivated",
+      "note": "Large commercial cultivation, e.g. Sangli and Nizamabad belts"
+    },
+    {
+      "name": "Tamil Nadu Plains",
+      "abundance": "cultivated",
+      "note": "Erode is a well-known turmeric trading centre"
+    },
+    {
+      "name": "Eastern Ghats",
+      "abundance": "cultivated",
+      "note": "Grown by hill farmers"
+    },
+    {
+      "name": "Thailand & Indochina",
+      "abundance": "cultivated",
+      "note": "Used in cooking and medicine"
+    },
+    {
+      "name": "Southern China",
+      "abundance": "cultivated",
+      "note": "Used in Traditional Chinese Medicine"
+    }
+  ]
+}

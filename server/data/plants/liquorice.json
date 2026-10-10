@@ -1,0 +1,197 @@
+{
+  "slug": "liquorice",
+  "common_name": "Liquorice",
+  "botanical_name": "Glycyrrhiza glabra",
+  "family": "Fabaceae",
+  "plant_type": "herb",
+  "sanskrit_name": "Yashtimadhu, Madhuyashti, Madhuka",
+  "hindi_name": "मुलेठी",
+  "marathi_name": "ज्येष्ठमध",
+  "other_names": [
+    "Mulethi",
+    "Licorice",
+    "Sweet Root",
+    "Athimaduram"
+  ],
+  "ayush_systems": [
+    "Ayurveda",
+    "Siddha",
+    "Unani",
+    "Traditional Chinese Medicine"
+  ],
+  "description": "A perennial herb or subshrub 1-1.5 m tall with pinnate leaves of 9-17 ovate leaflets, spikes of pale blue to violet pea-like flowers and flat reddish-brown pods. The long, woody, yellow-brown taproot and runners have a distinctive sweet taste.",
+  "cultural_significance": "Yashtimadhu is among the most widely used drugs in Ayurveda and appears in countless formulations. The word means 'sweet stick'. Mulethi sticks are chewed for sore throat and as a mouth freshener across India.",
+  "habitat": "Subtropical to warm temperate dry regions with deep, sandy, well-drained soil; mostly imported or cultivated in India (Punjab, Jammu and Kashmir, Himachal).",
+  "parts_used": [
+    "Root",
+    "Rhizome (stolon)"
+  ],
+  "ailments": [
+    "cough",
+    "sore throat",
+    "acidity",
+    "stomach ulcer",
+    "constipation",
+    "hoarseness",
+    "asthma",
+    "skin rash",
+    "mouth ulcer",
+    "weakness"
+  ],
+  "uses": [
+    {
+      "title": "Cough, sore throat and hoarse voice",
+      "detail": "Yashtimadhu is described as Kanthya (good for the throat and voice) and Kaphahara; it is sucked or taken in decoction.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Acidity and gastric discomfort",
+      "detail": "Traditionally used in hyperacidity and ulcer-like conditions as a Pittahara; deglycyrrhizinated liquorice (DGL) is studied for stomach protection.",
+      "system": "Modern research"
+    },
+    {
+      "title": "Eye and skin care",
+      "detail": "The root is described as Chakshushya, Varnya and Keshya; used in eye washes and external applications.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Wound healing and mouth ulcers",
+      "detail": "Powder with ghee or honey is traditionally applied to wounds and mouth ulcers (Vranaropana).",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Rasayana (rejuvenative)",
+      "detail": "Considered a Jivaniya and Balya drug used as a general tonic.",
+      "system": "Ayurveda"
+    }
+  ],
+  "ayurveda": {
+    "rasa": [
+      "Madhura (sweet)"
+    ],
+    "guna": [
+      "Guru (heavy)",
+      "Snigdha (unctuous)"
+    ],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Madhura",
+    "doshas": {
+      "vata": "decreases",
+      "pitta": "decreases",
+      "kapha": "increases"
+    },
+    "karma": [
+      "Kanthya",
+      "Chakshushya",
+      "Vranaropana",
+      "Vatapittahara",
+      "Jivaniya"
+    ],
+    "classical_refs": [
+      "Bhavaprakasha Nighantu (Haritakyadi varga)",
+      "Raja Nighantu",
+      "Charaka Samhita: listed among Jivaniya and Kanthya groups"
+    ],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {
+      "name": "Yashtimadhu churna",
+      "method": "Dry the root and powder it.",
+      "note": "Used in cough, acidity and throat formulations."
+    },
+    {
+      "name": "Yashtimadhu kwatha",
+      "method": "Boil crushed root in water and strain.",
+      "note": "Traditionally given for cough and acidity."
+    },
+    {
+      "name": "Mulethi stick",
+      "method": "Chew or suck a small piece of root.",
+      "note": "Household use for sore throat; limit use."
+    },
+    {
+      "name": "Yashtimadhu ghrita or taila",
+      "method": "Medicated ghee or oil made with liquorice.",
+      "note": "Used externally or internally under practitioner guidance."
+    }
+  ],
+  "chemistry": [
+    "Glycyrrhizin",
+    "Glycyrrhetinic acid",
+    "Liquiritin",
+    "Isoliquiritigenin",
+    "Glabridin",
+    "Liquiritigenin",
+    "Glabrene",
+    "Asparagine"
+  ],
+  "precautions": "Regular or high intake can raise blood pressure and lower potassium, cause water retention and swelling, and strain the heart; avoid in hypertension, heart or kidney disease and with diuretics, digoxin or corticosteroids. Avoid in pregnancy and long-term use. Deglycyrrhizinated forms are safer for the stomach.",
+  "cultivation": {
+    "climate": "Warm, dry temperate to subtropical",
+    "soil": "Deep, sandy loam, well-drained, pH 6-8",
+    "sunlight": "Full sun",
+    "water": "Moderate; tolerates dry spells",
+    "propagation": "Rhizome or stolon cuttings in spring",
+    "harvest": "Roots harvested after 3-4 years in autumn"
+  },
+  "conservation_status": "Not threatened globally; wild collection in some regions is heavy.",
+  "fun_fact": "Glycyrrhizin is roughly 30-50 times sweeter than sugar by weight.",
+  "model_spec": {
+    "archetype": "herb",
+    "leaf": {
+      "shape": "pinnate",
+      "color": "#6aa84f",
+      "size": 0.9
+    },
+    "stem": "#8c9a5a",
+    "flower": {
+      "color": "#a99be0",
+      "petals": 5,
+      "size": 0.3,
+      "cluster": "spike"
+    },
+    "fruit": {
+      "color": "#7a4a2e",
+      "shape": "pod"
+    },
+    "root": {
+      "color": "#c49a3a",
+      "kind": "taproot"
+    },
+    "height": 1.1,
+    "key_part": "root"
+  },
+  "regions": [
+    {
+      "name": "Mediterranean Basin",
+      "abundance": "wild",
+      "note": "Native to the Mediterranean region"
+    },
+    {
+      "name": "Iran & Central Asia",
+      "abundance": "wild",
+      "note": "Natural stands on dry plains"
+    },
+    {
+      "name": "Afghanistan & Pakistan Uplands",
+      "abundance": "wild",
+      "note": "Wild and collected"
+    },
+    {
+      "name": "Kashmir Valley",
+      "abundance": "cultivated",
+      "note": "Small-scale cultivation"
+    },
+    {
+      "name": "Punjab Plains",
+      "abundance": "cultivated",
+      "note": "Trial and limited cultivation"
+    },
+    {
+      "name": "Southern China",
+      "abundance": "wild",
+      "note": "Related species in dry northwest"
+    }
+  ]
+}

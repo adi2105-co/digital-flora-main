@@ -1,0 +1,73 @@
+{
+  "slug": "mandukaparni",
+  "common_name": "Mandukaparni (Gotu Kola)",
+  "botanical_name": "Centella asiatica",
+  "family": "Apiaceae",
+  "plant_type": "herb",
+  "sanskrit_name": "Mandukaparni, Manduki, Divya",
+  "hindi_name": "मंडूकपर्णी",
+  "marathi_name": "मंडूकपर्णी",
+  "other_names": ["Gotu Kola", "Indian Pennywort", "Asiatic Pennywort", "Vallarai", "Brahmi (regional usage)"],
+  "ayush_systems": ["Ayurveda", "Siddha", "Unani", "Traditional Chinese Medicine"],
+  "description": "A small, soft, creeping herb that spreads by slender runners rooting at the nodes. It has long-stalked, round to kidney-shaped leaves with scalloped edges, usually rising from the nodes in tufts, and tiny reddish-purple flowers clustered close to the ground.",
+  "cultural_significance": "The Sanskrit name means 'frog-leaf', after the shape of its leaves. It is regarded in Ayurveda as a Medhya Rasayana (intellect-promoting tonic), and in many regions it is confused or interchanged with Brahmi (Bacopa monnieri). It is not a Vedic-era plant by name; it is prominent in later texts and folk traditions, including Sri Lankan cooking where it is eaten as a leaf salad (gotu kola sambol).",
+  "habitat": "Moist, shady ground, stream banks, paddy-field bunds, damp lawns and forest floors in tropical and subtropical regions, from sea level to mid hills.",
+  "parts_used": ["Whole plant", "Leaf"],
+  "ailments": ["memory", "stress", "anxiety", "wounds", "skin disease", "varicose veins", "fever", "cough", "indigestion", "insomnia", "scars", "poor concentration"],
+  "uses": [
+    {"title": "Memory and nervine tonic", "detail": "Described in Ayurveda as a Medhya herb traditionally given to support memory, mental clarity and calmness, particularly in older people and students.", "system": "Ayurveda"},
+    {"title": "Skin disorders and wound healing", "detail": "Crushed fresh leaf or leaf paste is traditionally applied to minor wounds, burns and skin eruptions, and taken internally as a skin tonic.", "system": "Ayurveda"},
+    {"title": "Fever and urinary complaints", "detail": "Leaf juice or decoction is traditionally used in fevers and in burning urination, in keeping with its cooling character.", "system": "Ayurveda"},
+    {"title": "Leaf salad and household tonic", "detail": "Eaten fresh in salads and chutneys in South and South-East Asia as a cooling green with a mildly bitter taste.", "system": "Siddha"},
+    {"title": "Wound and vein research", "detail": "Triterpenoid-rich Centella extracts such as TECA have been studied for wound and scar healing and for chronic venous insufficiency; evidence is mixed and preliminary.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Tikta (bitter)", "Kashaya (astringent)"],
+    "guna": ["Laghu (light)"],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Madhura",
+    "doshas": {"vata": "neutral", "pitta": "decreases", "kapha": "decreases"},
+    "karma": ["Medhya", "Rasayana", "Kushthaghna", "Vranaropana", "Jwaraghna"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Guduchyadi varga)", "Raja Nighantu"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Swarasa (fresh leaf juice)", "method": "Wash fresh leaves, crush and press out the juice; traditionally taken with honey or buttermilk.", "note": "Small quantities only; practitioner guidance advised."},
+    {"name": "Kwatha (decoction)", "method": "Boil the whole plant in water until reduced, strain and sip warm.", "note": "Traditionally used in fever and skin complaints."},
+    {"name": "Churna (dried leaf powder)", "method": "Shade-dry the herb and grind to a fine powder; taken with warm water, milk or honey.", "note": "Commonly sold as a nervine tonic powder."},
+    {"name": "Leaf paste for external use", "method": "Grind fresh leaves with a little water into a paste and apply to minor wounds or skin patches.", "note": "Patch-test first; avoid on deep or infected wounds."},
+    {"name": "Mandukaparni ghrita or tea", "method": "Ghee medicated with the herb by the classical ghrita method, or a mild infusion of a few leaves in hot water.", "note": "Ghrita is made by trained manufacturers; the infusion is a mild daily drink."}
+  ],
+  "chemistry": ["Asiaticoside", "Madecassoside", "Asiatic acid", "Madecassic acid", "Brahmoside", "Brahminoside", "Centelloside", "Kaempferol", "Quercetin", "Vellarine"],
+  "precautions": "May cause drowsiness, so use caution with sedatives or sleep medicines. Topical use can cause contact dermatitis or skin irritation in sensitive people. Reports link prolonged high-dose use with liver problems, so people with liver disease or those taking liver-affecting medicines should consult a doctor. May affect blood sugar and cholesterol, so people on diabetes medicines should be careful. Avoid medicinal use in pregnancy and breastfeeding unless advised by a practitioner. Do not confuse with Bacopa monnieri, which is also sold as Brahmi.",
+  "cultivation": {
+    "climate": "Warm, humid tropical to subtropical; tolerates mild cool spells but not hard frost",
+    "soil": "Moist, rich loamy soil, pH 5.5-7",
+    "sunlight": "Partial shade; leaves scorch in harsh midday sun",
+    "water": "Keep constantly moist; tolerates shallow wet ground",
+    "propagation": "Runners or stem cuttings with a node, which root readily; also seeds",
+    "harvest": "Cut leafy runners every 2-3 months; regrows quickly"
+  },
+  "conservation_status": "Not threatened; widespread and weedy, though wild collection for the herbal trade is heavy in some regions.",
+  "fun_fact": "Its Sanskrit name Mandukaparni means 'frog leaf', and a stretch of damp ground can be covered by a single plant sending out runners that root wherever they touch.",
+  "model_spec": {
+    "archetype": "herb",
+    "leaf": {"shape": "round", "color": "#4f9a45", "size": 0.8},
+    "stem": "#8cae68",
+    "flower": {"color": "#a4455f", "petals": 5, "size": 0.2, "cluster": "umbel"},
+    "fruit": null,
+    "root": null,
+    "height": 0.4,
+    "key_part": "leaf"
+  },
+  "regions": [
+    {"name": "Gangetic Plains", "abundance": "common", "note": "Damp banks, field bunds and shaded lawns"},
+    {"name": "Western Ghats", "abundance": "common", "note": "Moist forest floors and stream sides"},
+    {"name": "Kerala Backwaters", "abundance": "common", "note": "Damp banks and paddy margins"},
+    {"name": "Sri Lanka", "abundance": "common", "note": "Wild and eaten as the leaf salad gotu kola sambol"},
+    {"name": "Thailand & Indochina", "abundance": "common", "note": "Moist ground; used as food and drink"},
+    {"name": "Southern China", "abundance": "common", "note": "Damp fields and ditch edges"},
+    {"name": "Madagascar", "abundance": "wild", "note": "Wet grassland and stream edges; a major source for the herbal trade"},
+    {"name": "Southern Africa", "abundance": "wild", "note": "Moist grassland and stream banks"}
+  ]
+}

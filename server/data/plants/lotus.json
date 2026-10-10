@@ -1,0 +1,200 @@
+{
+  "slug": "lotus",
+  "common_name": "Sacred Lotus",
+  "botanical_name": "Nelumbo nucifera",
+  "family": "Nelumbonaceae",
+  "plant_type": "aquatic",
+  "sanskrit_name": "Kamala, Padma, Pushkara, Pundarika",
+  "hindi_name": "कमल",
+  "marathi_name": "कमळ",
+  "other_names": [
+    "Indian Lotus",
+    "Padma",
+    "Thamarai"
+  ],
+  "ayush_systems": [
+    "Ayurveda",
+    "Siddha",
+    "Unani",
+    "Traditional Chinese Medicine"
+  ],
+  "description": "A perennial aquatic herb rooted in mud with large, round, waxy, water-repellent leaves held above the water on long prickly stalks, and showy pink or white flowers with many petals. The flower develops a flat-topped seed pod and the plant has a creeping, segmented rhizome.",
+  "cultural_significance": "The lotus is India's national flower and a symbol of purity and spiritual growth, associated with Lakshmi, Brahma and Vishnu. Padma and Pushkara are mentioned in the Rigveda and Atharvaveda and are common in Vedic and Puranic imagery.",
+  "habitat": "Still, shallow, fresh water such as ponds, lakes and slow rivers in warm climates.",
+  "parts_used": [
+    "Flower",
+    "Seed",
+    "Rhizome",
+    "Leaf",
+    "Stamen"
+  ],
+  "ailments": [
+    "fever",
+    "burning sensation",
+    "diarrhoea",
+    "skin rash",
+    "stress",
+    "insomnia",
+    "bleeding",
+    "thirst",
+    "nausea",
+    "cough"
+  ],
+  "uses": [
+    {
+      "title": "Burning sensation, fever and thirst",
+      "detail": "Flowers and petals are described as cooling (Sheeta) and used in Pitta-related heat, thirst and burning sensations.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Diarrhoea and dysentery",
+      "detail": "Rhizome and seed preparations are traditionally used for loose motions; described as Grahi.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Skin and cosmetic care",
+      "detail": "Petals and rhizome paste are traditionally applied to soothe heat rashes and brighten the skin (Varnya).",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Calming and sleep",
+      "detail": "Seeds (makhana-like lotus seeds) and flower tea are traditionally considered calming for the mind.",
+      "system": "Folk practice"
+    },
+    {
+      "title": "Antioxidant research",
+      "detail": "Studies on alkaloids such as nuciferine show antioxidant and metabolic effects in laboratory work; clinical evidence is limited.",
+      "system": "Modern research"
+    }
+  ],
+  "ayurveda": {
+    "rasa": [
+      "Madhura (sweet)",
+      "Kashaya (astringent)",
+      "Tikta (bitter)"
+    ],
+    "guna": [
+      "Laghu (light)",
+      "Snigdha (unctuous)"
+    ],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Madhura",
+    "doshas": {
+      "vata": "neutral",
+      "pitta": "decreases",
+      "kapha": "decreases"
+    },
+    "karma": [
+      "Pittahara",
+      "Daha prashamana",
+      "Grahi",
+      "Varnya",
+      "Hridya"
+    ],
+    "classical_refs": [
+      "Bhavaprakasha Nighantu (Pushpa varga)",
+      "Raja Nighantu (Kamala; Padmadi varga)"
+    ],
+    "vedic_note": "Lotus (Pushkara, Padma) appears in Vedic literature, including the Rigveda and Atharvaveda, and is an enduring symbol in Vedic ritual and later tradition. I am not citing individual hymn numbers."
+  },
+  "preparations": [
+    {
+      "name": "Padma kwatha or hima",
+      "method": "Steep or boil petals or stamen in water and strain.",
+      "note": "Traditionally given to cool Pitta."
+    },
+    {
+      "name": "Kamala kesara churna",
+      "method": "Dry and powder the stamens.",
+      "note": "Used in cooling and bleeding-related formulations."
+    },
+    {
+      "name": "Lotus seed (makhana-like) preparation",
+      "method": "Dry roast or cook seeds in milk or in cooking.",
+      "note": "Traditionally a nourishing, calming food."
+    },
+    {
+      "name": "Lotus root (kamal kakdi) dish",
+      "method": "Cook slices as a vegetable.",
+      "note": "A food use of the rhizome; avoid raw due to parasite risk."
+    }
+  ],
+  "chemistry": [
+    "Nuciferine",
+    "Neferine",
+    "Liensinine",
+    "Roemerine",
+    "Quercetin",
+    "Kaempferol",
+    "Isoquercitrin",
+    "Leucodelphinidin"
+  ],
+  "precautions": "Raw lotus root from natural water bodies can carry parasites, so cook it well. Lotus seed alkaloids (neferine, liensinine) may lower blood pressure and may add to the effects of sedatives and blood pressure medicines. Avoid medicinal amounts in pregnancy. Do not harvest from polluted water; plants take up toxins.",
+  "cultivation": {
+    "climate": "Warm temperate to tropical; 20-35 C",
+    "soil": "Soft, rich, muddy pond-bottom soil",
+    "sunlight": "Full sun, 6+ hours",
+    "water": "Aquatic; 30-100 cm standing water",
+    "propagation": "Rhizome segments or seeds (nick the hard coat before soaking)",
+    "harvest": "Flowers in summer; rhizomes in autumn; seeds when pods dry"
+  },
+  "conservation_status": "Not threatened; widely cultivated and naturalised.",
+  "fun_fact": "Lotus leaves have a micro-textured surface that repels water, an effect called the lotus effect, which inspires self-cleaning materials.",
+  "model_spec": {
+    "archetype": "aquatic",
+    "leaf": {
+      "shape": "round",
+      "color": "#3f8f5a",
+      "size": 1.5
+    },
+    "stem": "#6e9a50",
+    "flower": {
+      "color": "#f0a8c0",
+      "petals": 10,
+      "size": 1.1,
+      "cluster": "single"
+    },
+    "fruit": {
+      "color": "#7aa04a",
+      "shape": "round"
+    },
+    "root": {
+      "color": "#e8dcc0",
+      "kind": "rhizome"
+    },
+    "height": 1.0,
+    "key_part": "flower"
+  },
+  "regions": [
+    {
+      "name": "South Asia (Widely cultivated)",
+      "abundance": "common",
+      "note": "Ponds and lakes across the subcontinent"
+    },
+    {
+      "name": "Kerala Backwaters",
+      "abundance": "common",
+      "note": "Wetlands and ponds"
+    },
+    {
+      "name": "Gangetic Plains",
+      "abundance": "common",
+      "note": "Natural and temple ponds"
+    },
+    {
+      "name": "Kashmir Valley",
+      "abundance": "common",
+      "note": "Famous lotus gardens on Dal Lake"
+    },
+    {
+      "name": "Southern China",
+      "abundance": "common",
+      "note": "Cultivated for food and medicine"
+    },
+    {
+      "name": "Thailand & Indochina",
+      "abundance": "common",
+      "note": "Native; sacred and food plant"
+    }
+  ]
+}

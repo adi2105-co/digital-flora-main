@@ -1,0 +1,68 @@
+{
+  "slug": "hibiscus",
+  "common_name": "Hibiscus (Shoe Flower)",
+  "botanical_name": "Hibiscus rosa-sinensis",
+  "family": "Malvaceae",
+  "plant_type": "shrub",
+  "sanskrit_name": "Japa, Japapushpa, Rudrapushpa",
+  "hindi_name": "गुड़हल",
+  "marathi_name": "जास्वंद",
+  "other_names": ["Shoe Flower", "China Rose", "Gudhal", "Chemparathi"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha", "Traditional Chinese Medicine"],
+  "description": "An evergreen, glossy-leaved shrub 2-4 m tall bearing large showy funnel-shaped flowers, most commonly red, with a prominent protruding column of stamens fused around the style. Many garden colours exist.",
+  "cultural_significance": "Red hibiscus is offered to Goddess Kali and Durga, and to Lord Ganesha, and is a symbol of devotion in Bengal. Used in Ayurvedic hair oils. Not a Vedic-era plant by name; prominent in later texts and tantric worship.",
+  "habitat": "Warm tropical and subtropical regions; very commonly planted in gardens, hedges and temple precincts across India.",
+  "parts_used": ["Flower", "Leaf", "Root"],
+  "ailments": ["hair fall", "dandruff", "premature graying", "heavy periods", "cough", "sore throat", "high blood pressure", "fever", "skin infection", "irregular periods"],
+  "uses": [
+    {"title": "Hair and scalp care", "detail": "Flowers and leaves are ground into pastes or simmered in coconut oil, traditionally used to support hair growth and reduce dandruff.", "system": "Ayurveda"},
+    {"title": "Menstrual conditions", "detail": "Flowers are described in traditional use for heavy or irregular menstrual bleeding; use under guidance.", "system": "Ayurveda"},
+    {"title": "Cooling flower tea", "detail": "Petals are steeped in water as a cooling, slightly tart drink and used for coughs and sore throats.", "system": "Unani"},
+    {"title": "Blood pressure research", "detail": "Studies mostly on Hibiscus sabdariffa (roselle), a different species, show BP effects; evidence for H. rosa-sinensis is preliminary.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Kashaya (astringent)", "Tikta (bitter)", "Madhura (sweet)"],
+    "guna": ["Snigdha (unctuous)", "Picchila (slimy)"],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Madhura",
+    "doshas": {"vata": "neutral", "pitta": "decreases", "kapha": "neutral"},
+    "karma": ["Keshya", "Raktastambhaka", "Pittahara", "Garbhanirodhaka (traditionally)"],
+    "classical_refs": ["Raja Nighantu", "Dhanvantari Nighantu"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Hair oil", "method": "Simmer fresh flowers and leaves in coconut oil on low heat until moisture evaporates; strain and cool.", "note": "External use for scalp; patch test first."},
+    {"name": "Flower paste (lepa)", "method": "Grind petals and leaves with water into a paste for hair or skin.", "note": "Traditional hair mask."},
+    {"name": "Hibiscus tea", "method": "Steep fresh or dried petals in hot water for 5-10 minutes; strain.", "note": "Cooling and mildly sour."},
+    {"name": "Flower sherbet", "method": "Boil petals with water, strain and sweeten for a cooling drink.", "note": "Used in summer heat."}
+  ],
+  "chemistry": ["Cyanidin glycosides (anthocyanins)", "Quercetin", "Kaempferol", "Hibiscetin", "Mucilage", "Beta-sitosterol", "Ascorbic acid", "Flavonoids"],
+  "precautions": "Traditionally avoided in pregnancy because root and flower have been described as having anti-fertility and uterine-stimulating effects. May lower blood pressure and blood sugar, so people on BP or diabetes medicines should consult a doctor. Do not confuse with Hibiscus sabdariffa (roselle); allergy to Malvaceae plants is possible.",
+  "cultivation": {
+    "climate": "Warm tropical to subtropical; frost-tender",
+    "soil": "Rich, well-drained, slightly acidic loam",
+    "sunlight": "Full sun for best flowering",
+    "water": "Regular; keep evenly moist but not waterlogged",
+    "propagation": "Stem cuttings or grafting; named varieties are cloned",
+    "harvest": "Flowers are picked fresh in the morning; blooms last a day"
+  },
+  "conservation_status": "Not threatened; origin uncertain and widely cultivated.",
+  "fun_fact": "Each hibiscus flower lasts only about a day, and the flower was historically used to polish shoes in some regions, giving it the name 'shoe flower'.",
+  "model_spec": {
+    "archetype": "shrub",
+    "leaf": {"shape": "ovate", "color": "#2f7a35", "size": 1.0},
+    "stem": "#6b5a45",
+    "flower": {"color": "#d7263d", "petals": 5, "size": 1.0, "cluster": "single"},
+    "fruit": null,
+    "root": null,
+    "height": 1.6,
+    "key_part": "flower"
+  },
+  "regions": [
+    {"name": "South Asia (Widely cultivated)", "abundance": "cultivated", "note": "Gardens, hedges and temples"},
+    {"name": "Gangetic Plains", "abundance": "common", "note": "Bengal and Bihar gardens"},
+    {"name": "Kerala Backwaters", "abundance": "common", "note": "Home gardens and hedges"},
+    {"name": "Southern China", "abundance": "cultivated", "note": "Widely cultivated and used in traditional medicine"},
+    {"name": "Malaysia & Singapore", "abundance": "common", "note": "Bunga raya, the national flower of Malaysia"}
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "slug": "fenugreek",
+  "common_name": "Fenugreek",
+  "botanical_name": "Trigonella foenum-graecum",
+  "family": "Fabaceae",
+  "plant_type": "herb",
+  "sanskrit_name": "Methika, Methi, Bahupatrika",
+  "hindi_name": "मेथी",
+  "marathi_name": "मेथी",
+  "other_names": [
+    "Methi",
+    "Venthayam",
+    "Greek Hay"
+  ],
+  "ayush_systems": [
+    "Ayurveda",
+    "Siddha",
+    "Unani",
+    "Traditional Chinese Medicine"
+  ],
+  "description": "An erect annual herb 30-60 cm tall with trifoliate leaves, small pale yellow-white pea-like flowers and long, slender, beaked pods holding 10-20 hard, angular, golden-brown seeds.",
+  "cultural_significance": "Leaves (methi) and seeds are a staple of Indian kitchens and tempering (tadka). Seeds are given to new mothers in traditional diets, such as methi laddoo in Maharashtra and Gujarat.",
+  "habitat": "Cool to mild climates with well-drained loam; grown as a winter crop in India and across the Mediterranean region.",
+  "parts_used": [
+    "Seed",
+    "Leaf"
+  ],
+  "ailments": [
+    "diabetes",
+    "indigestion",
+    "loss of appetite",
+    "hair fall",
+    "joint pain",
+    "cough",
+    "constipation",
+    "lactation",
+    "menstrual pain",
+    "high cholesterol"
+  ],
+  "uses": [
+    {
+      "title": "Prameha (diabetes-like conditions)",
+      "detail": "Soaked seeds taken in the morning are traditionally used in Prameha; clinical studies suggest modest blood-sugar benefits.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Digestion and appetite",
+      "detail": "Seeds and leaves are described as Deepana; used for loss of appetite, bloating and dysentery.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Postnatal care and lactation",
+      "detail": "Seeds are traditionally given to new mothers to support milk flow and recovery; evidence is limited.",
+      "system": "Folk practice"
+    },
+    {
+      "title": "Hair care",
+      "detail": "Soaked seed paste is applied to the scalp to condition hair and reduce dandruff.",
+      "system": "Folk practice"
+    },
+    {
+      "title": "Cholesterol and blood sugar research",
+      "detail": "Fenugreek fibre and saponins have been studied for lowering cholesterol and glucose.",
+      "system": "Modern research"
+    }
+  ],
+  "ayurveda": {
+    "rasa": [
+      "Katu (pungent)",
+      "Tikta (bitter)"
+    ],
+    "guna": [
+      "Laghu (light)",
+      "Snigdha (unctuous)"
+    ],
+    "virya": "Ushna (hot)",
+    "vipaka": "Katu",
+    "doshas": {
+      "vata": "decreases",
+      "pitta": "increases",
+      "kapha": "decreases"
+    },
+    "karma": [
+      "Vatahara",
+      "Kaphahara",
+      "Deepana",
+      "Stanyajanana",
+      "Jwarahara"
+    ],
+    "classical_refs": [
+      "Bhavaprakasha Nighantu (Dhanyavarga)",
+      "Raja Nighantu"
+    ],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {
+      "name": "Methika beeja (soaked seeds)",
+      "method": "Soak a small amount of seeds in water overnight and consume with the water.",
+      "note": "Traditional morning use for blood sugar and digestion."
+    },
+    {
+      "name": "Methika churna",
+      "method": "Dry roast the seeds lightly and grind to powder.",
+      "note": "Used in formulations and cooking."
+    },
+    {
+      "name": "Methi laddoo",
+      "method": "Seeds roasted and mixed with jaggery, ghee and nuts.",
+      "note": "Postnatal winter food in western India."
+    },
+    {
+      "name": "Hair paste",
+      "method": "Grind soaked seeds into a paste and apply to the scalp.",
+      "note": "External folk use."
+    }
+  ],
+  "chemistry": [
+    "Diosgenin",
+    "Trigonelline",
+    "4-Hydroxyisoleucine",
+    "Galactomannan",
+    "Saponins",
+    "Fenugreekine",
+    "Vitexin",
+    "Quercetin"
+  ],
+  "precautions": "May lower blood sugar; people on diabetes medicines should monitor closely. Avoid medicinal quantities in pregnancy, as it may stimulate the uterus. May cause gas and loose motions, and may cause a maple-syrup smell in sweat and urine. Possible allergy in people sensitive to legumes (chickpea, peanut). Use caution with anticoagulants.",
+  "cultivation": {
+    "climate": "Cool season crop; 10-25 C",
+    "soil": "Well-drained loamy soil, pH 6-7",
+    "sunlight": "Full sun",
+    "water": "Light, regular irrigation",
+    "propagation": "Direct sowing of seeds in autumn",
+    "harvest": "Cut leaves in 3-4 weeks; harvest pods when yellow, about 3-4 months"
+  },
+  "conservation_status": "Not threatened; widely cultivated.",
+  "fun_fact": "Fenugreek is one of the oldest cultivated medicinal plants; seeds were found in Tutankhamun's tomb, and the name 'foenum-graecum' means 'Greek hay'.",
+  "model_spec": {
+    "archetype": "herb",
+    "leaf": {
+      "shape": "trifoliate",
+      "color": "#59a042",
+      "size": 0.9
+    },
+    "stem": "#8fb85a",
+    "flower": {
+      "color": "#f3eec0",
+      "petals": 5,
+      "size": 0.25,
+      "cluster": "scatter"
+    },
+    "fruit": {
+      "color": "#b8a060",
+      "shape": "pod"
+    },
+    "root": null,
+    "height": 0.8,
+    "key_part": "seed"
+  },
+  "regions": [
+    {
+      "name": "South Asia (Widely cultivated)",
+      "abundance": "cultivated",
+      "note": "Winter crop in kitchens and fields"
+    },
+    {
+      "name": "Rajasthan (Thar Desert)",
+      "abundance": "cultivated",
+      "note": "Leading producer of seed"
+    },
+    {
+      "name": "Gujarat",
+      "abundance": "cultivated",
+      "note": "Widely grown"
+    },
+    {
+      "name": "Mediterranean Basin",
+      "abundance": "common",
+      "note": "Probable native region"
+    },
+    {
+      "name": "North Africa & Egypt",
+      "abundance": "cultivated",
+      "note": "Long history of cultivation"
+    },
+    {
+      "name": "Iran & Central Asia",
+      "abundance": "common",
+      "note": "Cultivated and wild"
+    }
+  ]
+}

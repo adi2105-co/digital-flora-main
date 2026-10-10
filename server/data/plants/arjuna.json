@@ -1,0 +1,68 @@
+{
+  "slug": "arjuna",
+  "common_name": "Arjuna",
+  "botanical_name": "Terminalia arjuna",
+  "family": "Combretaceae",
+  "plant_type": "tree",
+  "sanskrit_name": "Arjuna, Kakubha, Dhavala",
+  "hindi_name": "अर्जुन",
+  "marathi_name": "अर्जुन सादडा",
+  "other_names": ["Arjun Tree", "White Marudah", "Kahua"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "A large evergreen to semi-deciduous tree up to 25-30 m with a buttressed trunk, smooth grey-white bark that peels in flakes, oblong leaves, spikes of small cream flowers and distinctive fruits with five longitudinal wings.",
+  "cultural_significance": "The tree takes its name from the epic hero Arjuna in popular tradition, and the bark is the best-known Ayurvedic heart tonic. Often seen beside rivers and streams in India.",
+  "habitat": "Riverbanks, streams and moist deciduous forests of the Indian subcontinent; often planted along water channels and roadsides.",
+  "parts_used": ["Bark", "Leaf", "Fruit"],
+  "ailments": ["heart health", "chest pain", "high cholesterol", "blood pressure", "weakness", "wounds", "diarrhea", "cough", "bone fracture", "stress"],
+  "uses": [
+    {"title": "Hridaya (heart) tonic", "detail": "Stem bark is described as Hridya, traditionally taken as a decoction in milk to support the heart and circulation.", "system": "Ayurveda"},
+    {"title": "Bone and wound healing", "detail": "Bark powder is traditionally used internally and as a paste for fractures (Bhagna sandhanakara) and wounds.", "system": "Ayurveda"},
+    {"title": "Diarrhoea and dysentery", "detail": "Its astringent bark is traditionally used in loose motions and bleeding conditions.", "system": "Ayurveda"},
+    {"title": "Cardiovascular research", "detail": "Studies on bark extract report effects on cholesterol and heart function; evidence is promising but not conclusive.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Kashaya (astringent)"],
+    "guna": ["Laghu (light)", "Ruksha (dry)"],
+    "virya": "Sheeta (cold)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "neutral", "pitta": "decreases", "kapha": "decreases"},
+    "karma": ["Hridya", "Kaphapittahara", "Vranaropana", "Sandhaniya", "Mutral"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Vatadi varga)", "Raja Nighantu"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Arjuna ksheerapaka", "method": "Simmer bark powder in milk and water until the water evaporates; strain and take warm.", "note": "A classical heart-supporting preparation; use under practitioner guidance."},
+    {"name": "Bark churna (powder)", "method": "Dried bark ground to fine powder and taken with water or honey.", "note": "Traditional dosing is set by a practitioner."},
+    {"name": "Arjunarishta", "method": "A fermented herbal tonic prepared from bark, raisins and mahua flowers.", "note": "Contains self-generated alcohol."},
+    {"name": "Bark paste", "method": "Bark paste with water or honey applied to wounds or fractures as a poultice.", "note": "External use."}
+  ],
+  "chemistry": ["Arjunic acid", "Arjunolic acid", "Arjunetin", "Arjunone", "Tannins", "Beta-sitosterol", "Co-enzyme Q10 (reported)", "Flavonoids"],
+  "precautions": "May affect blood pressure, heart rate and blood clotting, so people with heart disease or on cardiac, blood-pressure, anticoagulant or diabetes medicines must consult a doctor before use and must not replace prescribed treatment. Avoid during pregnancy and lactation unless advised. High-tannin bark may cause constipation or stomach upset.",
+  "cultivation": {
+    "climate": "Tropical to subtropical",
+    "soil": "Moist alluvial or loamy soil near water",
+    "sunlight": "Full sun",
+    "water": "High; thrives near streams and with regular watering",
+    "propagation": "Seeds or stem cuttings",
+    "harvest": "Bark is traditionally harvested from mature trees; sustainable stripping is important"
+  },
+  "conservation_status": "Not globally threatened; bark over-harvesting has caused local decline.",
+  "fun_fact": "The tree's smooth, pale bark peels naturally in thin sheets, which is one way to recognise it along riverbanks.",
+  "model_spec": {
+    "archetype": "tree",
+    "leaf": {"shape": "ovate", "color": "#4a8a3c", "size": 1.1},
+    "stem": "#b9b3a3",
+    "flower": {"color": "#f1ead0", "petals": 5, "size": 0.25, "cluster": "spike"},
+    "fruit": {"color": "#8a6b3f", "shape": "pod"},
+    "root": null,
+    "height": 2.8,
+    "key_part": "bark"
+  },
+  "regions": [
+    {"name": "Gangetic Plains", "abundance": "common", "note": "Along rivers and canals"},
+    {"name": "Central India (Madhya Pradesh)", "abundance": "wild", "note": "Streamside forest tree"},
+    {"name": "Deccan Plateau", "abundance": "common", "note": "Riverine belts"},
+    {"name": "Sri Lanka", "abundance": "common", "note": "Native along rivers"},
+    {"name": "Nepal Himalaya & Terai", "abundance": "wild", "note": "Terai forests and riverbanks"}
+  ]
+}

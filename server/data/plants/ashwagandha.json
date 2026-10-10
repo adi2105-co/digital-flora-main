@@ -1,0 +1,71 @@
+{
+  "slug": "ashwagandha",
+  "common_name": "Ashwagandha (Indian Ginseng)",
+  "botanical_name": "Withania somnifera",
+  "family": "Solanaceae",
+  "plant_type": "shrub",
+  "sanskrit_name": "Ashwagandha, Vajigandha, Balada",
+  "hindi_name": "अश्वगंधा",
+  "marathi_name": "अश्वगंधा",
+  "other_names": ["Winter Cherry", "Indian Ginseng", "Asgandh"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "An erect, grey-downy shrub about 0.5-1.5 m tall with ovate leaves, small greenish-yellow bell-shaped flowers and round orange-red berries enclosed in a papery calyx. The tuberous taproot has a horse-like smell when fresh.",
+  "cultural_significance": "The Sanskrit name means 'smell of the horse', referring to the root's odour and the strength it is traditionally said to give. It is one of the best-known Rasayana (rejuvenative) herbs of Ayurveda and is often called Indian ginseng.",
+  "habitat": "Dry, sandy or well-drained soils in semi-arid regions; grown as a rain-fed crop in Madhya Pradesh and Rajasthan.",
+  "parts_used": ["Root", "Leaf", "Seed"],
+  "ailments": ["stress", "anxiety", "insomnia", "weakness", "fatigue", "arthritis", "joint pain", "low immunity", "sexual weakness", "emaciation"],
+  "uses": [
+    {"title": "Stress and sleep", "detail": "Root powder with milk is traditionally used as a calming tonic for nervous exhaustion and poor sleep.", "system": "Ayurveda"},
+    {"title": "Strength and rejuvenation", "detail": "Described as Balya (strength-promoting) and Rasayana, given to the weak, the elderly and in convalescence.", "system": "Ayurveda"},
+    {"title": "Joint and muscle complaints", "detail": "Used internally and as a paste or oil externally for joint stiffness and Vata-type pain.", "system": "Ayurveda"},
+    {"title": "Reproductive health tonic", "detail": "Traditionally considered a Vajikarana (vitality-promoting) herb for men and women.", "system": "Unani"},
+    {"title": "Stress research", "detail": "Several small clinical trials suggest root extracts may lower perceived stress and cortisol; evidence is still limited.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Tikta (bitter)", "Katu (pungent)", "Kashaya (astringent)"],
+    "guna": ["Laghu (light)", "Snigdha (unctuous)"],
+    "virya": "Ushna (hot)",
+    "vipaka": "Madhura",
+    "doshas": {"vata": "decreases", "pitta": "increases", "kapha": "decreases"},
+    "karma": ["Balya", "Rasayana", "Vajikarana", "Shothahara", "Nidrajanana"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Guduchyadi varga)", "Raja Nighantu", "Charaka Samhita - used in Vata disorders and as a Balya herb"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Churna (root powder)", "method": "Dry roots are powdered finely and taken with warm milk, ghee or honey.", "note": "The most common traditional form."},
+    {"name": "Ashwagandha ghrita / taila", "method": "Medicated ghee for internal use or medicated oil for massage, prepared by classical methods.", "note": "Made by trained manufacturers."},
+    {"name": "Ashwagandharishta", "method": "A classical fermented tonic prepared from the root with sugar and herbs.", "note": "Contains a small natural alcohol content."},
+    {"name": "Milk decoction (kshirapaka)", "method": "Simmer root powder in milk and water until the water evaporates; strain and drink warm.", "note": "Often taken at night."}
+  ],
+  "chemistry": ["Withaferin A", "Withanolide A", "Withanolide D", "Withanone", "Withanosides", "Sitoindosides", "Beta-sitosterol", "Anaferine", "Somniferine"],
+  "precautions": "Avoid in pregnancy because it has been traditionally and experimentally linked to miscarriage risk. May add to the effects of sedatives, thyroid medicines, blood-sugar and blood-pressure medicines and immunosuppressants. People with thyroid disorders, autoimmune disease or nightshade (Solanaceae) allergy should consult a doctor. Large amounts may upset the stomach, and rare liver injury has been reported with supplements. Considered heating, so use cautiously in excess Pitta conditions.",
+  "cultivation": {
+    "climate": "Semi-arid tropical to subtropical; tolerates 20-35 C",
+    "soil": "Sandy loam or light red soil with good drainage, pH 7-8",
+    "sunlight": "Full sun",
+    "water": "Low; drought tolerant, avoid waterlogging",
+    "propagation": "Seeds, sown at the start of the monsoon",
+    "harvest": "Roots dug after 5-6 months when leaves begin to yellow and berries ripen"
+  },
+  "conservation_status": "Not globally threatened, but wild stock is declining from overcollection; cultivation is encouraged.",
+  "fun_fact": "The name Ashwagandha literally means 'smell of a horse', and the root's strong odour is said to impart horse-like vigour.",
+  "model_spec": {
+    "archetype": "shrub",
+    "leaf": {"shape": "ovate", "color": "#6f9a4c", "size": 1.0},
+    "stem": "#7c6a4a",
+    "flower": {"color": "#d7d86a", "petals": 5, "size": 0.3, "cluster": "scatter"},
+    "fruit": {"color": "#e0572a", "shape": "berry"},
+    "root": {"color": "#d9bf94", "kind": "taproot"},
+    "height": 1.0,
+    "key_part": "root"
+  },
+  "regions": [
+    {"name": "Central India (Madhya Pradesh)", "abundance": "cultivated", "note": "Major growing region, Mandsaur and Neemuch belt"},
+    {"name": "Rajasthan (Thar Desert)", "abundance": "cultivated", "note": "Rain-fed crop in dry soils"},
+    {"name": "Gujarat", "abundance": "common", "note": "Wild and cultivated in dry areas"},
+    {"name": "Deccan Plateau", "abundance": "common", "note": "Dry scrub and cultivation"},
+    {"name": "Punjab Plains", "abundance": "wild", "note": "Dry wasteland and field margins"},
+    {"name": "Arabian Peninsula & Yemen", "abundance": "wild", "note": "Native in dry regions"},
+    {"name": "North Africa & Egypt", "abundance": "wild", "note": "Native in the dry Mediterranean south"}
+  ]
+}

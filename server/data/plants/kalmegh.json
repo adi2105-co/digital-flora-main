@@ -1,0 +1,71 @@
+{
+  "slug": "kalmegh",
+  "common_name": "Kalmegh (King of Bitters)",
+  "botanical_name": "Andrographis paniculata",
+  "family": "Acanthaceae",
+  "plant_type": "herb",
+  "sanskrit_name": "Bhunimba, Kalamegha, Yavatikta",
+  "hindi_name": "कालमेघ",
+  "marathi_name": "कालमेघ",
+  "other_names": ["King of Bitters", "Creat", "Green Chiretta", "Kiryat", "Nilavembu"],
+  "ayush_systems": ["Ayurveda", "Siddha", "Unani", "Traditional Chinese Medicine"],
+  "description": "An erect, annual herb 30-90 cm tall with smooth, square, much-branched stems, narrow pointed lanceolate leaves in opposite pairs and small white flowers with pink-purple markings. It bears slender flattened capsules, and every part of the plant is intensely bitter.",
+  "cultural_significance": "Known as the 'King of Bitters', it is a widely used household bitter tonic in India and a key herb of the Siddha tradition, where it is called Nilavembu and is the base of the well-known Nilavembu kudineer decoction used in fever seasons. It is not a Vedic-era plant by name; it is prominent in later texts and folk medicine.",
+  "habitat": "Plains, roadsides, waste ground and dry deciduous forest margins in warm, humid tropical regions; also grown as a field crop for the herbal drug trade.",
+  "parts_used": ["Whole plant", "Leaf", "Root"],
+  "ailments": ["fever", "cold", "sore throat", "cough", "jaundice", "indigestion", "loss of appetite", "skin disease", "worms", "diabetes", "malaria", "liver disorder"],
+  "uses": [
+    {"title": "Fever and seasonal infections", "detail": "Decoction of the whole plant is traditionally used in periodic and seasonal fevers; it is described as Jwaraghna (fever-relieving) and is the main ingredient of the Siddha Nilavembu kudineer.", "system": "Siddha"},
+    {"title": "Liver and digestive support", "detail": "Described in Ayurveda as a bitter Pittahara and Deepana herb traditionally used for sluggish digestion, poor appetite and liver complaints such as jaundice.", "system": "Ayurveda"},
+    {"title": "Skin disorders and blood purification", "detail": "Traditionally taken as a Raktashodhaka (blood-purifying) bitter in itching, boils and chronic skin disease.", "system": "Ayurveda"},
+    {"title": "Intestinal worms and infections", "detail": "The bitter whole-plant preparation is traditionally given for intestinal worms and as a general anti-infective household remedy.", "system": "Unani"},
+    {"title": "Upper respiratory infections", "detail": "Andrographis extracts have been studied in small trials for sore throat and the common cold, with some reports of shorter symptom duration; evidence is preliminary and quality varies.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Tikta (bitter)"],
+    "guna": ["Laghu (light)", "Ruksha (dry)"],
+    "virya": "Ushna (hot)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "neutral", "pitta": "decreases", "kapha": "decreases"},
+    "karma": ["Jwaraghna", "Pittahara", "Krimighna", "Raktashodhaka", "Yakritottejaka"],
+    "classical_refs": ["Described in later Nighantu literature and Ayurvedic Pharmacopoeia of India monographs under Kalamegha/Bhunimba"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Kwatha (decoction)", "method": "Boil the dried whole plant in water until reduced, then strain; the Siddha Nilavembu kudineer combines it with several other herbs.", "note": "Extremely bitter; traditionally taken in small quantities under practitioner guidance."},
+    {"name": "Swarasa (fresh juice)", "method": "Crush fresh leaves and press out the juice, traditionally mixed with honey to offset the bitterness.", "note": "Used in small amounts for fever and digestive complaints."},
+    {"name": "Churna (dried powder)", "method": "Shade-dry the whole plant and grind to a fine powder, taken with warm water or honey.", "note": "Sold as a bitter tonic powder; quality depends on the plant being harvested at maturity."},
+    {"name": "Kalmegh capsules and tablets", "method": "Standardised dry extracts prepared by manufacturers, usually specified by andrographolide content.", "note": "Follow product labelling and consult a doctor before use."}
+  ],
+  "chemistry": ["Andrographolide", "Neoandrographolide", "14-Deoxy-11,12-didehydroandrographolide", "Andrographiside", "Andrograpanin", "Wogonin", "Oroxylin A", "Panicolin"],
+  "precautions": "Very bitter and may cause nausea, vomiting, stomach discomfort or diarrhoea, especially on an empty stomach. Avoid in pregnancy and when trying to conceive, and avoid in breastfeeding unless advised by a practitioner. It may lower blood sugar and blood pressure and may affect blood clotting, so people on diabetes, antihypertensive or anticoagulant medicines should consult a doctor. Use with caution with immunosuppressant drugs and in autoimmune conditions. Rare allergic reactions have been reported.",
+  "cultivation": {
+    "climate": "Warm, humid tropical to subtropical; frost-tender",
+    "soil": "Well-drained loamy or sandy loam soil, pH 5.5-7.5",
+    "sunlight": "Full sun to light shade",
+    "water": "Moderate; regular watering in early growth, avoid waterlogging",
+    "propagation": "Seeds sown in nursery beds at the start of the monsoon and transplanted",
+    "harvest": "Cut the whole plant at the flowering or early fruiting stage, about 3-4 months after sowing, and shade-dry"
+  },
+  "conservation_status": "Not threatened; widely distributed and increasingly cultivated for the herbal trade.",
+  "fun_fact": "Kalmegh means 'dark cloud' in Sanskrit, a name often linked to the dark green colour of its foliage, and its bitterness is so intense that it earned the title King of Bitters.",
+  "model_spec": {
+    "archetype": "herb",
+    "leaf": {"shape": "lanceolate", "color": "#3f7d34", "size": 0.9},
+    "stem": "#5f8a3f",
+    "flower": {"color": "#f2e6ee", "petals": 5, "size": 0.3, "cluster": "scatter"},
+    "fruit": {"color": "#6f9a4a", "shape": "pod"},
+    "root": null,
+    "height": 0.9,
+    "key_part": "leaf"
+  },
+  "regions": [
+    {"name": "Gangetic Plains", "abundance": "common", "note": "Roadsides, waste ground and field margins"},
+    {"name": "Central India (Madhya Pradesh)", "abundance": "wild", "note": "Dry deciduous forest margins"},
+    {"name": "Tamil Nadu Plains", "abundance": "cultivated", "note": "Grown for Siddha preparations such as Nilavembu"},
+    {"name": "Western Ghats", "abundance": "common", "note": "Forest edges and open ground"},
+    {"name": "Sri Lanka", "abundance": "common", "note": "Plains and roadsides"},
+    {"name": "Thailand & Indochina", "abundance": "cultivated", "note": "Widely cultivated for the herbal medicine trade"},
+    {"name": "Southern China", "abundance": "cultivated", "note": "Grown for use in Chinese herbal medicine"}
+  ]
+}

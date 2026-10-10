@@ -1,0 +1,69 @@
+{
+  "slug": "moringa",
+  "common_name": "Moringa (Drumstick Tree)",
+  "botanical_name": "Moringa oleifera",
+  "family": "Moringaceae",
+  "plant_type": "tree",
+  "sanskrit_name": "Shigru, Sobhanjana, Akshiva",
+  "hindi_name": "सहजन",
+  "marathi_name": "शेवगा",
+  "other_names": ["Drumstick Tree", "Horseradish Tree", "Murungai", "Sajna"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "A fast-growing, slender deciduous tree 5-10 m tall with soft wood, feathery tripinnate leaves with small oval leaflets, fragrant creamy-white flowers and long ridged green pods (drumsticks) up to 30-45 cm.",
+  "cultural_significance": "A staple of South Indian cuisine (sambar, poriyal) and the 'miracle tree' of nutrition programmes worldwide. Shigru is described in Samhitas and Nighantus. Not a Vedic-era plant by name with certainty.",
+  "habitat": "Dry to humid tropics; grows in sandy loam and tolerates drought; commonly planted in backyards and farms across India.",
+  "parts_used": ["Leaf", "Pod", "Seed", "Root", "Bark", "Flower"],
+  "ailments": ["malnutrition", "anemia", "joint pain", "swelling", "diabetes", "weakness", "indigestion", "worms", "toothache", "stress"],
+  "uses": [
+    {"title": "Nutritional support", "detail": "Leaves and pods are eaten as vegetables rich in iron, vitamin C, vitamin A, calcium and protein, and are used against dietary deficiency.", "system": "Modern research"},
+    {"title": "Joint pain and inflammation", "detail": "Shigru is traditionally described as Shothahara and Vedanasthapana, with bark and root used in swellings and rheumatic pain.", "system": "Ayurveda"},
+    {"title": "Digestion and worms", "detail": "Pods and leaves are described as Deepana and Krimighna (appetiser, anti-worm).", "system": "Ayurveda"},
+    {"title": "Eye and heart support", "detail": "Traditionally described as Chakshushya (good for eyes) and Hridya.", "system": "Ayurveda"},
+    {"title": "Blood sugar research", "detail": "Leaf studies report modest effects on blood sugar and lipids; evidence is preliminary.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Katu (pungent)", "Tikta (bitter)"],
+    "guna": ["Laghu (light)", "Ruksha (dry)", "Tikshna (sharp)"],
+    "virya": "Ushna (hot)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "decreases", "pitta": "increases", "kapha": "decreases"},
+    "karma": ["Shothahara", "Deepana", "Krimighna", "Chakshushya", "Vedanasthapana"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Shaka varga)", "Raja Nighantu"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Leaf stir-fry or soup", "method": "Cook fresh leaves lightly with oil, spices and lentils or add to soups.", "note": "Everyday food use."},
+    {"name": "Pod curry (sambar)", "method": "Cut drumsticks into pieces and simmer in lentil sambar; scrape the pulp when eating.", "note": "Common South Indian dish."},
+    {"name": "Leaf powder", "method": "Shade-dry leaves and grind to powder; mix into food or smoothies.", "note": "Start with small amounts."},
+    {"name": "Root or bark poultice", "method": "Crushed root or bark paste applied on swellings.", "note": "External, traditional use only."}
+  ],
+  "chemistry": ["Quercetin", "Chlorogenic acid", "Isothiocyanates (moringin)", "Niazimicin", "Beta-carotene", "Vitamin C", "Kaempferol", "Oleic acid (seed oil)"],
+  "precautions": "Root, root bark and bark should be avoided in pregnancy as they may stimulate the uterus; leaves in food amounts are generally eaten. May lower blood sugar and blood pressure, so people on diabetes or BP medicines should consult a doctor. Large amounts of leaf powder can cause loose stools. Allergy is possible.",
+  "cultivation": {
+    "climate": "Hot tropical to subtropical; frost-sensitive",
+    "soil": "Well-drained sandy loam, pH 6-7.5",
+    "sunlight": "Full sun",
+    "water": "Low to moderate; avoid waterlogging",
+    "propagation": "Seeds or large stem cuttings",
+    "harvest": "Leaves from a few months; pods 6-8 months after planting"
+  },
+  "conservation_status": "Not threatened; widely cultivated.",
+  "fun_fact": "A single moringa tree can grow 3-4 m in its first year from seed, and its seeds are used to clarify water in some rural communities.",
+  "model_spec": {
+    "archetype": "tree",
+    "leaf": {"shape": "pinnate", "color": "#6cae4a", "size": 0.8},
+    "stem": "#a89a80",
+    "flower": {"color": "#f6f1dc", "petals": 5, "size": 0.35, "cluster": "scatter"},
+    "fruit": {"color": "#5f8f3a", "shape": "pod"},
+    "root": null,
+    "height": 2.4,
+    "key_part": "leaf"
+  },
+  "regions": [
+    {"name": "South Asia (Widely cultivated)", "abundance": "cultivated", "note": "Backyards and farms across the subcontinent"},
+    {"name": "Tamil Nadu Plains", "abundance": "cultivated", "note": "Major growing region for drumsticks"},
+    {"name": "Deccan Plateau", "abundance": "common", "note": "Widely grown"},
+    {"name": "Western Himalaya (Uttarakhand & Himachal)", "abundance": "wild", "note": "Native in sub-Himalayan foothills"},
+    {"name": "East Africa", "abundance": "cultivated", "note": "Introduced and cultivated"}
+  ]
+}

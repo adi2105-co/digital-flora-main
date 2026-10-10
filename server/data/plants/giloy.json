@@ -1,0 +1,71 @@
+{
+  "slug": "giloy",
+  "common_name": "Giloy (Guduchi)",
+  "botanical_name": "Tinospora cordifolia",
+  "family": "Menispermaceae",
+  "plant_type": "climber",
+  "sanskrit_name": "Guduchi, Amrita, Madhuparni",
+  "hindi_name": "गिलोय",
+  "marathi_name": "गुळवेल",
+  "other_names": ["Guduchi", "Amrita", "Heart-leaved Moonseed", "Gulvel"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "A large, deciduous, twining climber with succulent green stems that bear papery bark and thin aerial roots hanging down. It has heart-shaped, long-stalked leaves, small yellowish-green flowers and clusters of red fleshy drupes.",
+  "cultural_significance": "The Sanskrit name Amrita ('nectar of immortality') reflects the esteem in which it is held as a Rasayana and fever remedy. Folk tradition links it to the nectar that revived Rama's army, a popular legend rather than a classical citation. Giloy leads the Guduchyadi varga in Bhavaprakasha Nighantu.",
+  "habitat": "Tropical deciduous forests and hedgerows, climbing over trees such as neem and mango; also grown in home gardens.",
+  "parts_used": ["Stem", "Leaf", "Root"],
+  "ailments": ["fever", "low immunity", "diabetes", "arthritis", "jaundice", "indigestion", "gout", "skin disease", "weakness", "allergy"],
+  "uses": [
+    {"title": "Chronic and recurrent fevers", "detail": "Stem decoction is a classical remedy described as Jvaraghna (fever-reducing), used in recurring and seasonal fevers.", "system": "Ayurveda"},
+    {"title": "Immunity and rejuvenation", "detail": "Described as a Rasayana that supports resistance to illness and recovery after prolonged disease.", "system": "Ayurveda"},
+    {"title": "Gout and joint pain", "detail": "Guduchi is traditionally used in Vatarakta (gout-like conditions) and rheumatic complaints.", "system": "Ayurveda"},
+    {"title": "Digestive and skin complaints", "detail": "Used traditionally for hyperacidity, poor digestion and chronic skin disorders.", "system": "Ayurveda"},
+    {"title": "Immunomodulation research", "detail": "Laboratory and limited clinical studies suggest immune-modulating and blood-sugar-lowering effects; human evidence is limited.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Tikta (bitter)", "Kashaya (astringent)"],
+    "guna": ["Guru (heavy)", "Snigdha (unctuous)"],
+    "virya": "Ushna (hot)",
+    "vipaka": "Madhura",
+    "doshas": {"vata": "decreases", "pitta": "decreases", "kapha": "decreases"},
+    "karma": ["Rasayana", "Jvaraghna", "Dahaprashamana", "Deepana", "Tridoshahara"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Guduchyadi varga)", "Raja Nighantu", "Charaka Samhita - listed among Dahaprashamana and Jvaraghna herbs"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Kwatha (stem decoction)", "method": "Boil chopped fresh stem in water until reduced; strain and drink warm.", "note": "Commonly used in fever and as an immunity drink."},
+    {"name": "Swarasa (fresh stem juice)", "method": "Crush fresh stem and extract juice.", "note": "Traditionally used with honey; small quantities."},
+    {"name": "Guduchi satva (starch extract)", "method": "A starchy extract settled from the macerated stem in water, then dried.", "note": "A classical preparation, made by manufacturers."},
+    {"name": "Churna (dried stem powder)", "method": "Dried stem is ground to a fine powder and taken with warm water or honey.", "note": "Widely available as a ready product."}
+  ],
+  "chemistry": ["Berberine", "Palmatine", "Tinosporin", "Tinosporide", "Cordifolioside A", "Magnoflorine", "Jatrorrhizine", "Beta-sitosterol", "Giloin"],
+  "precautions": "May lower blood sugar, so people on diabetes medicines should be careful. It may stimulate the immune system, so people with autoimmune disease or on immunosuppressants and those awaiting surgery should consult a doctor. Cases of liver injury linked to giloy products have been reported, so avoid prolonged high use and avoid it in existing liver disease. Avoid in pregnancy and breastfeeding unless advised. Do not confuse with the similar bitter climber Tinospora crispa or with toxic neem-grown lookalikes.",
+  "cultivation": {
+    "climate": "Tropical to subtropical",
+    "soil": "Well-drained sandy loam or garden soil",
+    "sunlight": "Full sun to partial shade",
+    "water": "Moderate; tolerates dry spells once established",
+    "propagation": "Stem cuttings of two to three nodes",
+    "harvest": "Cut mature stems of about thumb thickness; the vine regrows"
+  },
+  "conservation_status": "Not threatened, but wild collection pressure has risen with demand.",
+  "fun_fact": "Giloy is called Amrita and is often grown on a neem tree; this combination is popularly called Neem Giloy.",
+  "model_spec": {
+    "archetype": "vine",
+    "leaf": {"shape": "heart", "color": "#3f8f45", "size": 1.1},
+    "stem": "#7a8a4a",
+    "flower": {"color": "#d6d86a", "petals": 6, "size": 0.2, "cluster": "scatter"},
+    "fruit": {"color": "#d8362c", "shape": "berry"},
+    "root": null,
+    "height": 2.0,
+    "key_part": "leaf"
+  },
+  "regions": [
+    {"name": "Gangetic Plains", "abundance": "common", "note": "Hedges and trees in rural areas"},
+    {"name": "Central India (Madhya Pradesh)", "abundance": "wild", "note": "Deciduous forests"},
+    {"name": "Deccan Plateau", "abundance": "common", "note": "Forest edges and gardens"},
+    {"name": "Western Ghats", "abundance": "wild", "note": "Moist deciduous forests"},
+    {"name": "Odisha Coast & Forests", "abundance": "wild", "note": "Forest climber"},
+    {"name": "Sri Lanka", "abundance": "wild", "note": "Native tropical forests"},
+    {"name": "Myanmar", "abundance": "wild", "note": "Native in tropical deciduous forests"}
+  ]
+}

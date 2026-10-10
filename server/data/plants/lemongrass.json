@@ -1,0 +1,70 @@
+{
+  "slug": "lemongrass",
+  "common_name": "Lemongrass",
+  "botanical_name": "Cymbopogon citratus (also C. flexuosus, Cochin lemongrass)",
+  "family": "Poaceae",
+  "plant_type": "grass",
+  "sanskrit_name": "Bhutrina, Gandhatrina, Shringaver",
+  "hindi_name": "नींबू घास (गंधतृण)",
+  "marathi_name": "गवती चहा",
+  "other_names": ["Gavti Chaha", "Fever Grass", "Oil Grass", "Sera"],
+  "ayush_systems": ["Ayurveda", "Unani", "Siddha"],
+  "description": "A tall, tufted, perennial aromatic grass 1-1.5 m high, with long narrow rough-edged blades and a swollen, pale, lemon-scented base. It seldom flowers in cultivation.",
+  "cultural_significance": "In Maharashtra, Gavti Chaha is steeped in monsoon tea in many households and is a common garden plant. Lemongrass oil is an important aromatic and perfumery raw material, and Kerala and Maharashtra are known producers. It is not a Vedic-era plant by name; it is described in later texts as Bhutrina.",
+  "habitat": "Warm, humid tropical climates in well-drained soil; common in home gardens, hillsides and plantations.",
+  "parts_used": ["Leaf", "Stem base", "Essential oil"],
+  "ailments": ["cold", "fever", "indigestion", "gas", "cough", "headache", "body ache", "stress", "menstrual cramps", "mosquito"],
+  "uses": [
+    {"title": "Cold, cough and seasonal fever", "detail": "A leaf decoction or tea, often with ginger and jaggery, is a household remedy in the monsoon for colds and mild fevers.", "system": "Ayurveda"},
+    {"title": "Digestive comfort", "detail": "Traditionally used as a carminative to ease gas, bloating and loss of appetite.", "system": "Siddha"},
+    {"title": "Aromatherapy and stress", "detail": "The citral-rich essential oil is used in aromatherapy and massage to refresh the mind and ease muscular aches.", "system": "Traditional use"},
+    {"title": "Insect repellent", "detail": "The oil or the crushed plant is traditionally used to repel mosquitoes; modern work finds citronella-type oils give short-lived protection.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Katu (pungent)", "Tikta (bitter)"],
+    "guna": ["Laghu (light)", "Ruksha (dry)"],
+    "virya": "Ushna (hot)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "decreases", "pitta": "increases", "kapha": "decreases"},
+    "karma": ["Deepana", "Svedajanana", "Jvaraghna", "Kaphahara"],
+    "classical_refs": ["Raja Nighantu", "Bhavaprakasha Nighantu (listed as Bhutrina/Gandhatrina)"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Lemongrass tea (infusion)", "method": "Steep chopped leaves, often with ginger and tulsi, in hot water for 5-10 minutes; sweeten with jaggery.", "note": "A popular monsoon drink in Maharashtra."},
+    {"name": "Kwatha (decoction)", "method": "Boil leaves in water until reduced and strain; sip warm.", "note": "Used for colds and mild fever."},
+    {"name": "Essential oil", "method": "Steam distillation of fresh or partly dried leaves.", "note": "For external use only, always diluted."},
+    {"name": "Culinary use", "method": "Bruised stem base added to soups, curries and marinades.", "note": "Common in Thai and Southeast Asian cooking."}
+  ],
+  "chemistry": ["Citral (geranial and neral)", "Myrcene", "Geraniol", "Limonene", "Citronellal", "Linalool", "Luteolin", "Orientin"],
+  "precautions": "Safe in normal culinary amounts. The essential oil is strong and can irritate or sensitise skin, so it must be diluted and not swallowed. Avoid medicinal quantities in pregnancy because it has been traditionally linked to stimulating menstruation. May lower blood pressure or blood sugar slightly and could add to related medicines. Considered heating in Ayurveda, so go slowly in Pitta conditions.",
+  "cultivation": {
+    "climate": "Warm, humid tropics and subtropics; frost-tender",
+    "soil": "Well-drained sandy loam, pH 5.5-7.5",
+    "sunlight": "Full sun",
+    "water": "Moderate; regular in dry spells, avoid waterlogging",
+    "propagation": "Division of clumps or rooted slips",
+    "harvest": "Cut leaves 3-4 times a year; stalks can be pulled when thick"
+  },
+  "conservation_status": "Not threatened; widely cultivated.",
+  "fun_fact": "The lemon smell comes from citral, the same aroma compound found in lemon peel.",
+  "model_spec": {
+    "archetype": "grass",
+    "leaf": {"shape": "blade", "color": "#8cb04a", "size": 1.3},
+    "stem": "#b9c98a",
+    "flower": null,
+    "fruit": null,
+    "root": null,
+    "height": 1.3,
+    "key_part": "leaf"
+  },
+  "regions": [
+    {"name": "Malabar Coast", "abundance": "cultivated", "note": "Kerala is a major oil-producing area"},
+    {"name": "Konkan Coast", "abundance": "common", "note": "Grown in home gardens for Gavti Chaha"},
+    {"name": "Western Ghats", "abundance": "common", "note": "Plantations and gardens"},
+    {"name": "Sri Lanka", "abundance": "cultivated", "note": "Widely grown in home gardens and for oil"},
+    {"name": "Thailand & Indochina", "abundance": "cultivated", "note": "Essential culinary herb"},
+    {"name": "Indonesia (Java, Sumatra & Maluku)", "abundance": "cultivated", "note": "Widely cultivated"},
+    {"name": "South Asia (Widely cultivated)", "abundance": "cultivated", "note": "Gardens across the subcontinent"}
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "slug": "black-pepper",
+  "common_name": "Black Pepper",
+  "botanical_name": "Piper nigrum",
+  "family": "Piperaceae",
+  "plant_type": "climber",
+  "sanskrit_name": "Maricha, Krishna, Ushana",
+  "hindi_name": "काली मिर्च",
+  "marathi_name": "मिरी",
+  "other_names": [
+    "Kali Mirch",
+    "Milagu",
+    "King of Spices"
+  ],
+  "ayush_systems": [
+    "Ayurveda",
+    "Siddha",
+    "Unani"
+  ],
+  "description": "A perennial woody climber that grips supports with aerial roots and grows 4-6 m tall, with glossy, dark green, broadly ovate leaves. Hanging spikes of tiny flowers produce small round berries that turn from green to red; dried unripe berries become black peppercorns.",
+  "cultural_significance": "Called 'black gold', pepper drove the ancient spice trade from the Malabar Coast. It is a member of Trikatu and a daily kitchen spice. Pippali (long pepper) is the Vedic-era pepper, while Maricha is better known in later texts.",
+  "habitat": "Humid tropical forests; cultivated on support trees such as coconut, arecanut and silver oak on the Malabar Coast and the Western Ghats.",
+  "parts_used": [
+    "Fruit (berry)",
+    "Seed",
+    "Root"
+  ],
+  "ailments": [
+    "cough",
+    "cold",
+    "indigestion",
+    "fever",
+    "sore throat",
+    "asthma",
+    "flatulence",
+    "congestion",
+    "sinusitis",
+    "loss of appetite"
+  ],
+  "uses": [
+    {
+      "title": "Cough, cold and sore throat",
+      "detail": "Maricha with honey, tulsi or ginger is a classic household preparation described as Kaphahara.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Poor digestion and loss of appetite",
+      "detail": "As part of Trikatu (ginger, black pepper, long pepper) it is traditionally used to kindle digestive fire (Deepana).",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Fever and congestion",
+      "detail": "Pepper decoctions with tulsi and ginger are traditionally used in seasonal fevers.",
+      "system": "Ayurveda"
+    },
+    {
+      "title": "Bioavailability enhancement",
+      "detail": "Piperine is studied for improving absorption of some compounds such as curcumin; it can also affect drug metabolism.",
+      "system": "Modern research"
+    },
+    {
+      "title": "Sinus and headache relief (inhalation or paste)",
+      "detail": "Traditional folk use as a stimulant of nasal secretions; use with caution.",
+      "system": "Folk practice"
+    }
+  ],
+  "ayurveda": {
+    "rasa": [
+      "Katu (pungent)"
+    ],
+    "guna": [
+      "Laghu (light)",
+      "Tikshna (sharp)",
+      "Ruksha (dry)"
+    ],
+    "virya": "Ushna (hot)",
+    "vipaka": "Katu",
+    "doshas": {
+      "vata": "decreases",
+      "pitta": "increases",
+      "kapha": "decreases"
+    },
+    "karma": [
+      "Deepana",
+      "Kaphahara",
+      "Vatahara",
+      "Krimighna",
+      "Shulahara"
+    ],
+    "classical_refs": [
+      "Bhavaprakasha Nighantu (Haritakyadi varga)",
+      "Raja Nighantu",
+      "Part of Trikatu"
+    ],
+    "vedic_note": "Not a Vedic-era plant by name; the Vedic and early texts refer to Pippali (long pepper), while Maricha rises to prominence in later Ayurvedic texts and trade."
+  },
+  "preparations": [
+    {
+      "name": "Maricha churna (powder)",
+      "method": "Powder dried peppercorns.",
+      "note": "Used in Trikatu and many classical formulae."
+    },
+    {
+      "name": "Trikatu churna",
+      "method": "Mix equal parts dried ginger, black pepper and long pepper.",
+      "note": "A classical digestive and respiratory formulation."
+    },
+    {
+      "name": "Pepper kwatha (decoction)",
+      "method": "Boil crushed peppercorns with tulsi and ginger.",
+      "note": "Household use for colds."
+    },
+    {
+      "name": "Pepper-honey mixture",
+      "method": "Mix a pinch of fine powder with honey.",
+      "note": "Traditional cough remedy."
+    }
+  ],
+  "chemistry": [
+    "Piperine",
+    "Chavicine",
+    "Piperidine",
+    "Beta-caryophyllene",
+    "Limonene",
+    "Sabinene",
+    "Pinene",
+    "Piperettine"
+  ],
+  "precautions": "Large amounts can irritate the stomach and aggravate ulcers, acidity or piles. Piperine can alter the way the body processes some medicines (for example phenytoin, propranolol, theophylline), so consult a doctor on regular medicines. Use only food amounts in pregnancy. Inhaling the powder can trigger sneezing and coughing.",
+  "cultivation": {
+    "climate": "Hot, humid tropical; 23-32 C with 2000+ mm rain",
+    "soil": "Rich, well-drained loam, pH 5.5-6.5",
+    "sunlight": "Partial shade",
+    "water": "High; consistent moisture but no waterlogging",
+    "propagation": "Rooted stem cuttings planted at the foot of a support tree in the monsoon",
+    "harvest": "Pick when one or two berries on a spike turn red; sun-dry for black pepper"
+  },
+  "conservation_status": "Not threatened; widely cultivated. Wild populations occur in the Western Ghats.",
+  "fun_fact": "Black, white and green pepper all come from the same plant, differing only in when the berries are picked and how they are processed.",
+  "model_spec": {
+    "archetype": "vine",
+    "leaf": {
+      "shape": "ovate",
+      "color": "#2f6f3a",
+      "size": 1.0
+    },
+    "stem": "#6b5a3a",
+    "flower": {
+      "color": "#e9e4c8",
+      "petals": 4,
+      "size": 0.2,
+      "cluster": "spike"
+    },
+    "fruit": {
+      "color": "#b3261e",
+      "shape": "berry"
+    },
+    "root": null,
+    "height": 1.8,
+    "key_part": "fruit"
+  },
+  "regions": [
+    {
+      "name": "Western Ghats",
+      "abundance": "wild",
+      "note": "Native climber in the forests"
+    },
+    {
+      "name": "Malabar Coast",
+      "abundance": "cultivated",
+      "note": "Historic centre of the pepper trade"
+    },
+    {
+      "name": "Kodagu & Coorg",
+      "abundance": "cultivated",
+      "note": "Pepper grown on coffee estates"
+    },
+    {
+      "name": "Nilgiri Hills",
+      "abundance": "cultivated",
+      "note": "Hill plantations"
+    },
+    {
+      "name": "Indonesia (Java, Sumatra & Maluku)",
+      "abundance": "cultivated",
+      "note": "Major producing region"
+    },
+    {
+      "name": "Thailand & Indochina",
+      "abundance": "cultivated",
+      "note": "Vietnam is the world's largest producer"
+    }
+  ]
+}

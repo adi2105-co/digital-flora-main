@@ -1,0 +1,72 @@
+{
+  "slug": "curry-leaf",
+  "common_name": "Curry Leaf (Kadi Patta)",
+  "botanical_name": "Murraya koenigii",
+  "family": "Rutaceae",
+  "plant_type": "tree",
+  "sanskrit_name": "Girinimba, Kaidarya, Surabhinimba",
+  "hindi_name": "कढ़ी पत्ता",
+  "marathi_name": "कढीलिंब",
+  "other_names": ["Curry Tree", "Sweet Neem", "Meetha Neem", "Karivepaku", "Kariveppilai"],
+  "ayush_systems": ["Ayurveda", "Siddha", "Unani"],
+  "description": "A small, aromatic, semi-deciduous tree or large shrub 3-6 m tall with grey-brown bark and slender branches. Its pinnate leaves carry 11-25 glossy, pointed leaflets that release a strong spicy fragrance when crushed. It bears clusters of small, fragrant white flowers and small oval berries that turn from green to shiny black.",
+  "cultural_significance": "A staple of South Indian, Sri Lankan and Konkan cooking, where the leaves are tempered in hot oil at the start of dals, curries and chutneys. It is a familiar plant in home gardens and is considered a household medicinal herb. It is not a Vedic-era plant by name; it is prominent in later Nighantus and in folk and culinary tradition.",
+  "habitat": "Tropical and subtropical forests, forest edges and hedgerows from the plains to about 1,500 m; widely grown in home gardens and kitchen plots.",
+  "parts_used": ["Leaf", "Bark", "Root"],
+  "ailments": ["indigestion", "nausea", "diarrhoea", "loss of appetite", "hair fall", "premature greying", "diabetes", "worms", "skin disease", "wounds", "vomiting", "anaemia"],
+  "uses": [
+    {"title": "Digestive support", "detail": "Described as Deepana-Pachana (appetite-kindling and digestive); fresh leaves in buttermilk or tempered food are traditionally used for indigestion, nausea and loose stools.", "system": "Ayurveda"},
+    {"title": "Hair and scalp care", "detail": "Leaves cooked in coconut oil are traditionally applied to the scalp as a household remedy to support hair growth and delay greying.", "system": "Siddha"},
+    {"title": "Skin complaints and wounds", "detail": "Crushed leaf paste is traditionally applied to minor burns, bruises, boils and skin eruptions.", "system": "Ayurveda"},
+    {"title": "Worms and intestinal complaints", "detail": "Decoction of the leaf, bark or root is traditionally used as an anthelmintic and for intestinal upsets.", "system": "Unani"},
+    {"title": "Blood sugar and antioxidant research", "detail": "Carbazole alkaloids and polyphenols in the leaf have been studied in laboratory and animal work for antioxidant and blood-sugar-lowering effects; human evidence is preliminary.", "system": "Modern research"}
+  ],
+  "ayurveda": {
+    "rasa": ["Katu (pungent)", "Tikta (bitter)", "Kashaya (astringent)"],
+    "guna": ["Laghu (light)", "Ruksha (dry)"],
+    "virya": "Ushna (hot)",
+    "vipaka": "Katu",
+    "doshas": {"vata": "decreases", "pitta": "increases", "kapha": "decreases"},
+    "karma": ["Deepana", "Pachana", "Grahi", "Krimighna", "Vishaghna"],
+    "classical_refs": ["Bhavaprakasha Nighantu (Guduchyadi varga)", "Raja Nighantu"],
+    "vedic_note": ""
+  },
+  "preparations": [
+    {"name": "Tempering (tadka) in food", "method": "Add fresh leaves to hot oil or ghee at the start of cooking so their aroma infuses the dish.", "note": "The commonest way the leaf is eaten; also supplies fibre and minerals."},
+    {"name": "Swarasa (fresh leaf juice)", "method": "Crush fresh leaves and press out the juice; traditionally taken with buttermilk or honey.", "note": "Used in small amounts for nausea and indigestion."},
+    {"name": "Curry leaf chutney or powder", "method": "Dry-roast leaves with lentils, chilli and salt and grind into a coarse powder or chutney.", "note": "A traditional condiment eaten with rice."},
+    {"name": "Curry leaf hair oil", "method": "Simmer fresh leaves in coconut oil until they crisp, then strain and cool.", "note": "Applied to the scalp as a household hair tonic."}
+  ],
+  "chemistry": ["Mahanimbine", "Girinimbine", "Koenimbine", "Murrayanine", "Koenigine", "Linalool", "Alpha-pinene", "Beta-caryophyllene", "Quercetin"],
+  "precautions": "Leaves are safe as a food in usual culinary amounts, but concentrated extracts or large medicinal quantities may lower blood sugar, so people on diabetes medicines should consult a doctor. Avoid medicinal quantities in pregnancy and breastfeeding unless advised by a practitioner. Because it is hot in potency, it may aggravate Pitta in those prone to acidity or heat symptoms. The seeds inside the berry are not eaten. Rare allergic skin reactions are reported, especially to the oil or crushed leaves.",
+  "cultivation": {
+    "climate": "Warm tropical to subtropical; frost-tender and slow below about 10 C",
+    "soil": "Well-drained, slightly acidic to neutral loam, pH 5.6-7",
+    "sunlight": "Full sun to light partial shade",
+    "water": "Moderate; allow the topsoil to dry between waterings",
+    "propagation": "Fresh seeds from ripe berries, or root suckers; seeds lose viability quickly",
+    "harvest": "Pick leaves regularly from established plants; prune tips to encourage bushy growth"
+  },
+  "conservation_status": "Not threatened; widely cultivated, though old forest populations have declined locally.",
+  "fun_fact": "Despite the name, curry leaf is not the source of curry powder; fresh leaves are added to hot oil to release their aroma, and the plant is native to India and Sri Lanka.",
+  "model_spec": {
+    "archetype": "tree",
+    "leaf": {"shape": "pinnate", "color": "#2f7a3a", "size": 0.8},
+    "stem": "#6b5a47",
+    "flower": {"color": "#fbf7ec", "petals": 5, "size": 0.3, "cluster": "umbel"},
+    "fruit": {"color": "#1f1a2b", "shape": "berry"},
+    "root": null,
+    "height": 1.8,
+    "key_part": "leaf"
+  },
+  "regions": [
+    {"name": "Western Ghats", "abundance": "common", "note": "Forest edges and home gardens"},
+    {"name": "Konkan Coast", "abundance": "cultivated", "note": "Home gardens; kadhilimb in Marathi cooking"},
+    {"name": "Malabar Coast", "abundance": "cultivated", "note": "Courtyard and kitchen-garden plant"},
+    {"name": "Tamil Nadu Plains", "abundance": "cultivated", "note": "Staple of South Indian kitchens and gardens"},
+    {"name": "Deccan Plateau", "abundance": "cultivated", "note": "Widely grown in home gardens"},
+    {"name": "Sri Lanka", "abundance": "common", "note": "Native in forests and grown in gardens"},
+    {"name": "South Asia (Widely cultivated)", "abundance": "cultivated", "note": "Grown in kitchen gardens across the subcontinent"},
+    {"name": "Malaysia & Singapore", "abundance": "cultivated", "note": "Introduced by Indian communities and grown in gardens"}
+  ]
+}
