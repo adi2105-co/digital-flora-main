@@ -12,7 +12,7 @@ export default function Navbar({ transparent }) {
   const { t, lang, setLang } = useLang();
   const [open, setOpen] = useState(false);
   const nav = useNavigate();
-  const links = [['/', 'home'], ['/garden', 'garden'], ['/plants', 'plants'], ['/advisor', 'advisor'], ['/identify', 'identify'], ['/map', 'map'], ['/quiz', 'learn'], ['/about', 'about']];
+  const links = [['/', 'home'], ['/garden', 'garden'], ['/plants', 'plants'], ['/advisor', 'advisor'], ['/identify', 'identify'], ['/map', 'map'], ['/quiz', 'learn']];
   return (
     <header className={`nav ${transparent ? 'nav-clear' : ''}`}>
       <Link to="/" className="nav-logo" onClick={() => setOpen(false)}><Logo /></Link>
