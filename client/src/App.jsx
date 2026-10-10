@@ -11,7 +11,6 @@ import HealthAdvisor from './pages/HealthAdvisor.jsx';
 import Identify from './pages/Identify.jsx';
 import MapPage from './pages/MapPage.jsx';
 import Quiz from './pages/Quiz.jsx';
-import About from './pages/About.jsx';
 import { Login, Register } from './pages/AuthPages.jsx';
 import Dashboard from './pages/Dashboard.jsx';
 import { useData } from './context/Data.jsx';
