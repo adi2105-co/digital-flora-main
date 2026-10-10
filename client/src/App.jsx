@@ -38,7 +38,6 @@ export default function App() {
           <Route path="/identify" element={<Identify />} />
           <Route path="/map" element={<MapPage />} />
           <Route path="/quiz" element={<Quiz />} />
-          <Route path="/about" element={<About />} />
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<Register />} />
           <Route path="/dashboard" element={<Dashboard />} />
